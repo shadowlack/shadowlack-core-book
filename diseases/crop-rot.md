@@ -2,10 +2,13 @@
 title: Crop Rot
 description: 
 published: true
-date: 2020-09-06T19:14:09.393Z
+date: 2020-09-06T20:05:09.050Z
 tags: diseases
 editor: markdown
 ---
+
+Crop Rot
+=
 
 **Crop Rot** is known to be a disaster for crops and fields, it could infect a whole area making it unfit to be ingested by any living population. The bacteria itself can't be found in records until agriculture and a sedimentary lifestyle was started across the planet of Ramath-lehi, it shows a dramatic increase once the world started to go industrial.
 
