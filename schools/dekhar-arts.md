@@ -2,9 +2,8 @@
 title: Dekhar Arts
 description: 
 published: true
-date: 2014-03-09T03:22:26.508Z
+date: 2020-09-06T19:42:27.022Z
 tags: magic school, martial arts school
-author: nasuella
 editor: markdown
 ---
 
