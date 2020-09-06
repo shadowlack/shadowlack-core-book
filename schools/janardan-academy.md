@@ -1,10 +1,9 @@
 ---
 title: Janardan Academy
-description:
+description: 
 published: true
-date: 2007-10-20T21:17:38Z
+date: 2020-09-06T19:29:28.905Z
 tags: public school, magic school, swaraj
-author: shriker
 editor: markdown
 ---
 
