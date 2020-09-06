@@ -1,10 +1,9 @@
 ---
 title: Xairyn Skcallidin
-description:
+description: 
 published: true
-date: 2012-12-19T06:06:48Z
+date: 2020-09-06T20:02:38.962Z
 tags: pop culture, government
-author: lautir
 editor: markdown
 ---
 
