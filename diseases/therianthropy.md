@@ -2,7 +2,7 @@
 title: Therianthropy
 description: 
 published: true
-date: 2020-09-06T20:15:25.166Z
+date: 2020-09-06T20:15:48.903Z
 tags: diseases, magia morbii, weredragons
 editor: markdown
 ---
