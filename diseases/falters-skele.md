@@ -2,9 +2,9 @@
 title: Falters Skele
 description: 
 published: true
-date: 2020-09-06T03:23:15.230Z
+date: 2020-09-06T19:16:35.139Z
 tags: diseases, genetic diseases
-editor: undefined
+editor: markdown
 ---
 
 **Falters Skele** (Faltermans-Skelebrand Disease)
