@@ -2,9 +2,8 @@
 title: Notsalepua Academy
 description: Moving towards justice.
 published: true
-date: 2010-03-31T16:31:37Z
-tags: public school, bhim
-author: shriker
+date: 2020-09-06T19:23:54.658Z
+tags: bhim, public school
 editor: markdown
 ---
 
