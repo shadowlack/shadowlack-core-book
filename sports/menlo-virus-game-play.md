@@ -1,22 +1,19 @@
 ---
 title: Menlo Virus Game Play
-description:
+description: Menlo with a viral and hacking twist.
 published: true
-date: 2012-08-07T22:19:52Z
-tags: sports, games
-author: pirateferret
+date: 2020-09-06T20:53:38.188Z
+tags: menlo, sports, games
 editor: markdown
 ---
 
-It is known that some players prefer to play the [Menlo](/sports/menlo "wikilink") game with viruses as part of the game itself. Some players base their entire [Menlo Card](/Menlo_Card "wikilink") on the output of and protection from viruses. They are called Virus players and they specialize in the codes related to viruses. Because they are not allowed to participate in official matches and are separated from other players , this type of game play has become a "whole different animal."
+Some players prefer to play the [Menlo](/sports/menlo "wikilink") game with viruses as part of the game itself. These players base their entire [Menlo Card](/technologies/menlo-card "wikilink") on the output of and protection from viruses. *Virus Players* are not allowed to participate in official Menlo matches. A large virus-only league exists in [Bhim](/countries/bhim "wikilink").
 
-Virus Code Limits
-=================
+## Virus Code Limits
 
 When putting virus codes in to your card, keep in mind that the most complicated and often most effective virus codes are very long, and take up a very large amount of space in your card. It is not possible to have a virus blocker that blocks all suit damage related viruses, and still have your suit be an ultra super fighting machine as there is not enough room on the card to do so much coding. Also there are no supper powerful, "blocks everything" virus blockers or viruses. Every virus can be blocked, and every blocker can be surpassed with the right codes.
 
-Virus Codes
-===========
+## Virus Codes
 
 There are three basic types of virus codes. Those that weaken or damage the opponent's suit, those that strengthen the player's suit, and those that alter or summon things into the Virtual World. There are also viruses that can damage a game system itself but these viruses have been banned by Virus Players for it can be construed as destruction of property and is therefore punishable by law.
 
@@ -32,7 +29,6 @@ These viruses are the ones meant to increase the function or operation of a play
 
 These viruses are the ones that can summon objects or alter the setting or elements of the virtual reality. These are the most complicated and space consuming virus codes. They are activated in a number of ways. Sometimes the virus is activated as soon as the game begins and alters anything corresponding with its programming. Others are player activated, and a few can even be scenario activated. These codes are programmed to alter aspects of the reality world to a player's benefit. For example the "Bungee Building" code is used to create an element of heightened elasticity of buildings in the game, making impact less damaging and also creating a "bounce off the ropes" type ability for players. Codes such as "Water Obstacle" can alter the appearance of the virtual reality world without actually changing it, to create an imaginary obstacle for an opponent. There are also codes like "Rover" that creates a solution to games that do not allow separate components such as weapons, mines or rovers. This code can create a functioning rover component that is not actually in the game, therefore breaking no rules. As always there are no codes that can completely change the virtual reality to a player's benefit and every Mirage code may not necessarily work for every virtual reality. Every virus has limits and can be blocked.
 
-Virus Blockers
-==============
+## Virus Blockers
 
 Just like viruses, there are three major categories of virus blockers; those that block damaging viruses, those that block strengthening viruses, and those that block virtual reality altering viruses. They each work in apposition of the corresponding virus category. For example a damaging blocker will block certain viruses that can damage the suit. And a strengthening blocker will block viruses that strengthen the apposing player. Likewise a virtual reality altering blocker will prevent certain viruses that effect the game world from functioning. There are no super or ultra blockers that can block all viruses in a certain category or two. Every blocker can be surpassed.
