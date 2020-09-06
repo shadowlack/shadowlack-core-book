@@ -1,10 +1,9 @@
 ---
 title: Honnemdrejp Academy for Young Thill
-description:
+description: 
 published: true
-date: 2010-03-31T16:27:26Z
+date: 2020-09-06T19:34:44.160Z
 tags: public school
-author: shriker
 editor: markdown
 ---
 
