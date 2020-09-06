@@ -7,7 +7,7 @@ tags: music, rock
 editor: nasuella
 ---
 
-Chaos Theory is a rock band formed in 81375. Initially they were mocked for having a "gimmicky" all-[Feydragon](/species/feydragon "wikilink") lineup, and for having a first album which, to this day, is regarded as being "enjoyably bad". It was their second album, **Covenants of the Dragon**, that propelled the group into mainstream fame and popularity. Their signature style includes vocals from everyone in the band, and the use of dozens of instruments in each song.
+**Chaos Theory** is a rock band formed in 81375. Initially they were mocked for having a "gimmicky" all-[Feydragon](/species/feydragon "wikilink") lineup, and for having a first album which, to this day, is regarded as being "enjoyably bad". It was their second album, **Covenants of the Dragon**, that propelled the group into mainstream fame and popularity. Their signature style includes vocals from everyone in the band, and the use of dozens of instruments in each song.
 
 Along with a successful musical career, the band's members are known for their active work in bridging the social gap between Feydragons and mainstream Ramathian society. Everyone in the group goes by a stage name to protect their identities, and while they have used these names since the band had been formed, it has been confirmed that they had been wanting to end the segregation for years.
 

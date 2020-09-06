@@ -8,7 +8,7 @@ author: nasuella
 editor: markdown
 ---
 
-**** is a rock band originally from [Trilok](/countries/trilok "wikilink"). Most of the band members are [Khell](/species/khell "wikilink"), though there are also some regular pendragons among them.
+**Xarkellklann** is a rock band originally from [Trilok](/countries/trilok "wikilink"). Most of the band members are [Khell](/species/khell "wikilink"), though there are also some regular pendragons among them.
 
 The band is most popular in [Trilok](/countries/trilok "wikilink"), owing mainly to its primarily Lockist lineup and the fact that all of their songs' lyrics are in [Khellakh](/languages/khellakh "wikilink"). Outside of it, the majority of people who would know of it are rock/metal aficionados; that said, there is a cult fanbase in [Bhim](/countries/bhim "wikilink").
 

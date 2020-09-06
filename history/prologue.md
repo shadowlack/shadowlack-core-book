@@ -3,7 +3,7 @@ title: The Prologue
 description:
 published: true
 date: 2007-10-21T21:16:37Z
-tags: rapine, government, council of twelve
+tags: rapine, government, council of twelve, history
 author: shriker
 editor: markdown
 ---

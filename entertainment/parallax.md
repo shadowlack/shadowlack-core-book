@@ -8,7 +8,7 @@ author: attriusinfernus
 editor: markdown
 ---
 
-Parallax is Ramath-lehi's most beloved band, a fuse of rock and alternative that was formed by singer/guitarist frontman Requiem Falahau, keyboardist/mixer Jello Yissin, and bassist Nell Asinio in Watani, Swaraj in 81377. Drummer William Gojgla joined a few weeks after the band initially formed. Falahau, Yissin and Asinio had graduated from Dragonbach's and joined together there. They met Gojgla as he was drumming on the streets for tips, and invited him to the flat they stayed together in. The band has been certified multi-diamond.
+**Parallax** is Ramath-lehi's most beloved band, a fuse of rock and alternative that was formed by singer/guitarist frontman Requiem Falahau, keyboardist/mixer Jello Yissin, and bassist Nell Asinio in Watani, Swaraj in 81377. Drummer William Gojgla joined a few weeks after the band initially formed. Falahau, Yissin and Asinio had graduated from Dragonbach's and joined together there. They met Gojgla as he was drumming on the streets for tips, and invited him to the flat they stayed together in. The band has been certified multi-diamond.
 
 Rumours have surfaced that Requiem and Jello had an affair, but Falahau denies this, saying that he is gay and would never sleep with a girl.
 

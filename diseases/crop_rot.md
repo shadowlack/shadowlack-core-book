@@ -8,6 +8,8 @@ author: shriker
 editor: markdown
 ---
 
+**Crop Rot** is known to be a disaster for crops and fields, it could infect a whole area making it unfit to be ingested by any living population. The bacteria itself can't be found in records until agriculture and a sedimentary lifestyle was started across the planet of Ramath-lehi, it shows a dramatic increase once the world started to go industrial.
+
 Symptoms
 --------
 
@@ -17,7 +19,6 @@ Symptoms
 - Low energy
 - Rapid weight loss
 
-Crop Rot is known to be a disaster for crops and fields, it could infect a whole area making it unfit to be ingested by any living population. The bacteria itself can't be found in records until agriculture and a sedimentary lifestyle was started across the planet of Ramath-lehi, it shows a dramatic increase once the world started to go industrial.
 
 Crop Rot was a large concern for people who depended on growing their own food or selling their produce for profit. The bacteria cycles on a 10 year pattern that scientist have yet to understand but have become skilled at predicting the regions of outbreaks, which has helped to avoid infestations that are dangerously large in recent centuries.
 

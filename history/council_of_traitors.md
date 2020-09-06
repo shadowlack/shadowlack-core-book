@@ -3,7 +3,7 @@ title: Council of Traitors
 description:
 published: true
 date: 2012-08-07T20:16:50Z
-tags:
+tags: history
 author: shriker
 editor: markdown
 ---
