@@ -2,9 +2,9 @@
 title: Jolacom
 description: A reddish gold mineral that can block one's connection to Fronima, thereby making performing magic impossible.
 published: true
-date: 2020-09-06T23:01:59.790Z
-tags: natural-resources, minerals, deserts, anubi
-editor: markdown
+date: 2020-09-06T23:02:05.001Z
+tags: 
+editor: undefined
 ---
 
 Jolacom is a soft reddish gold mineral that is naturally occurring on Ramath-lehi. It may be found only in the Tmu and Uhai Deserts of the Sudeshas where it has become a popular commodity of the Anubi. In these deserts, it may be found deep underground, often in concentrated patches that sprout out with long tendril-like veins. Jolacom has a very special property, and is often seen as a the antithesis of Fronimium. High concentrations of Jolacom can actually block out a Ramathian’s connection to Fronima. This makes it incredibly effective when attempting to detain someone who has very high magical abilities. One of the most notable prisons, Krokino Prison in the Tmu Desert, is made almost entirely out of Jolacom. Its cells are lined and packed with dense Jolacom bricks. When Ramathians are subjected to Jolacom in high densities, such as when being an inmate at Krokino Prison for many years, their magical abilities actually weaken. Depending upon how long they were subjected to the mineral, the majority of Ramathians will eventually regain their abilities once taken out of a Jolacom-infested area. Unfortunately the recovery time varies between individuals, and can often take years even if the subject was only a prisoner for a month.
