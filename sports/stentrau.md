@@ -1,10 +1,9 @@
 ---
 title: Stentrau
-description:
+description: The fine sport of lifting boulders and chucking them as far as you can.
 published: true
-date: 2014-04-26T03:43:28Z
-tags: sports, games
-author: nasuella
+date: 2020-09-06T20:48:04.670Z
+tags: trilok, sports, games, khell
 editor: markdown
 ---
 
