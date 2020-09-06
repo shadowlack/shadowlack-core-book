@@ -2,8 +2,8 @@
 title: AR Mage Duels
 description: Infinite possibilities. Zero risk to your well-being.
 published: true
-date: 2020-09-06T20:20:51.973Z
-tags: sports, games, virtual reality
+date: 2020-09-06T20:43:48.915Z
+tags: sports, games, virtual reality, augmented reality
 editor: markdown
 ---
 
