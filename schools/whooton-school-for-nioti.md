@@ -2,7 +2,7 @@
 title: Whooton School for Nioti
 description: Learning, leading, living.
 published: true
-date: 2020-09-06T17:49:09.638Z
+date: 2020-09-06T17:49:24.884Z
 tags: public school, swaraj
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 Staff 	340
 Students 	670
 Location 	Swaraj
-Colours 	Red, White, Blue Trans.gif Trans.gif Trans.gif
+Colours 	Red, White, Blue
 Mascot 	A sword.
 Sports 	
 
