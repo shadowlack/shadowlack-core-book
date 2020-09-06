@@ -2,14 +2,14 @@
 title: Therianthropy
 description: 
 published: true
-date: 2020-09-06T20:14:19.414Z
+date: 2020-09-06T20:15:25.166Z
 tags: diseases, magia morbii, weredragons
 editor: markdown
 ---
 
 ## Symptoms
 
-**Therianthropy** is a transformative magiamorbus. A weredragon is a pendragon that is afflicted with lycanthropy. When normal, they are just like any other pendragon. Often times, they don't even know the other side exists until it manifests itself. When this happens, the pendragon will seem to revert to basic instincts, and will usually communicate in a series of growls and grunts. Warning signs of this can be detected in the eyes, which usually change colour when the 'dragon in question is transformed.
+**Therianthropy** is a transformative *magia morbus*, or magical disease. A weredragon is a pendragon that is afflicted with lycanthropy. When normal, they are just like any other pendragon. Often times, they don't even know the other side exists until it manifests itself. When this happens, the pendragon will seem to revert to basic instincts, and will usually communicate in a series of growls and grunts. Warning signs of this can be detected in the eyes, which usually change colour when the 'dragon in question is transformed.
 
 ## Transformation
 
