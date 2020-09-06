@@ -1,8 +1,8 @@
 ---
 title: Vampirism
-description: 
+description: A drastically transformative magia morbus.
 published: true
-date: 2020-09-06T20:21:25.518Z
+date: 2020-09-06T20:52:31.567Z
 tags: diseases, magia morbii, vampdragons
 editor: markdown
 ---
