@@ -1,8 +1,8 @@
 ---
 title: Falters Skele
-description: 
+description: A non-contagious genetic disease.
 published: true
-date: 2020-09-06T20:27:13.466Z
+date: 2020-09-06T20:44:04.615Z
 tags: diseases, genetic diseases
 editor: markdown
 ---
