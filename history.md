@@ -2,7 +2,7 @@
 title: History
 description: 
 published: true
-date: 2020-09-06T17:51:36.523Z
+date: 2020-09-06T20:11:47.959Z
 tags: history, plots
 editor: markdown
 ---
