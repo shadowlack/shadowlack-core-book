@@ -1,23 +1,22 @@
 ---
 title: Menlo
-description:
+description: 
 published: true
-date: 2007-11-20T04:31:11Z
-tags: sports, games
-author: pirateferret
+date: 2020-09-06T20:33:02.720Z
+tags: menlo, sports, games
 editor: markdown
 ---
 
 What is Menlo?
 --------------
 
-No, it is not a park. Alright, it is a park, but the game is in no way related. I doubt they have a Menlo Park in Ramath-Lehi with which to confuse.
+No, it is not a park. Alright, it is a park, but the game is in no way related. I doubt they have a Menlo Park in Ramath-lehi with which to confuse.
 
 Menlo is a very realistic virtual reality game. It is real in every sense except for the fact that you cannot die in the game. Movement, physics, pain, and damage are all real factors during game play, and are played out exactly as they would be in real life.
 
 Menlo players have cards which hold the data of different mechanical suits on them. The suits are basically robotic extensions or exoskeletons of the player, like a large robot that is controlled by the player inside. These suits are constructed through the player’s own mechanical genius and ingenuity. Card are programmed with the information of the suit and the player uses this suit during game play. The players and their suits are all pitted against each other in a fight to the virtual death.
 
-Menlo is a very diverse and customizable game. The suits can be constructed to your exact liking, and there is a VAST Menlo offshoot that programmers and mechanics have created. Those with mechanical abilities create their own Game Boards, cards, headsets, everything. It is a highly versatile game that has evolved over time with the ingenuity of pendragons.
+Menlo is a very diverse and customizable game. The suits can be constructed to your exact liking, and there is a VAST Menlo offshoot that programmers and mechanics have created. Those with mechanical abilities create their own Game Boards, cards, headsets, everything. It is a highly versatile game that has evolved over time with the ingenuity of Ramathians.
 
 Cards
 -----
