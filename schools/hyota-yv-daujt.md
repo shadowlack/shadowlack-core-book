@@ -2,9 +2,8 @@
 title: Hyota Yv Daujt
 description: Private and world-renowned mechanical engineering school.
 published: true
-date: 2010-03-31T16:29:51Z
-tags: private school, magic school, bhim
-author: shriker
+date: 2020-09-06T19:31:09.725Z
+tags: bhim, magic school, private school
 editor: markdown
 ---
 
