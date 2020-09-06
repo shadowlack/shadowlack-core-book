@@ -1,10 +1,9 @@
 ---
 title: University of Mansukh
-description:
+description: 
 published: true
-date: 2010-04-01T03:02:32Z
+date: 2020-09-06T19:11:49.960Z
 tags: public school, mansukh
-author: lautir
 editor: markdown
 ---
 
