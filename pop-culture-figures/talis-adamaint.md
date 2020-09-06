@@ -2,7 +2,7 @@
 title: Talis Adamaint
 description: An inventor of teleportation technology and machina prosthetics.
 published: true
-date: 2020-09-06T19:45:12.503Z
+date: 2020-09-06T19:45:29.500Z
 tags: pop culture, government, inventors
 editor: markdown
 ---
