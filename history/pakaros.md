@@ -1,0 +1,18 @@
+---
+title: Pakaros
+description:
+published: true
+date: 2013-09-26T20:13:18Z
+tags: pop culture
+author: shriker
+editor: markdown
+---
+
+Timeline of Events
+------------------
+
+### 81387
+
+-   [Pakaros sighted in Trilok](https://shadowlack.com/threads/pakaros-sighted-in-trilok.7408/) (Mid Dyo 30)
+-   [Free Mages may consist of missing 'dragons](https://shadowlack.com/threads/free-mages-may-consist-of-missing-dragons.7386/) (Mid Dyo 26)
+-   [Twenty ex-suppressors found dead](https://shadowlack.com/threads/twenty-ex-suppressors-found-dead.7368/) (Early Dyo 14)
