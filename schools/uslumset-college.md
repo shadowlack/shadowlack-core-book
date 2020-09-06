@@ -1,10 +1,9 @@
 ---
 title: Uslumset College
-description:
+description: 
 published: true
-date: 2010-03-31T16:34:40Z
-tags: private school, aurius
-author: shriker
+date: 2020-09-06T19:06:25.165Z
+tags: aurius, private school
 editor: markdown
 ---
 
