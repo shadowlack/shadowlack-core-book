@@ -1,10 +1,9 @@
 ---
 title: Tabajumka Juruu
-description:
+description: 
 published: true
-date: 2010-03-03T21:06:31Z
-tags: pop culture, artists, authors
-author: shriker
+date: 2020-09-06T20:03:38.911Z
+tags: pop culture, authors, artists
 editor: markdown
 ---
 
