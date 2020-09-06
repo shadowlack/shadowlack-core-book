@@ -2,9 +2,8 @@
 title: Kakosenas Shriker
 description: Karryasa Grader's alleged murderer.
 published: true
-date: 2010-03-03T21:26:01Z
-tags: pop culture, murderers, bhim
-author: shriker
+date: 2020-09-06T19:04:35.322Z
+tags: pop culture, bhim, murderers
 editor: markdown
 ---
 
