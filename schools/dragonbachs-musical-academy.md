@@ -1,10 +1,9 @@
 ---
 title: Dragonbach's Musical Academy
-description:
+description: 
 published: true
-date: 2010-03-31T16:22:01Z
+date: 2020-09-06T19:40:13.322Z
 tags: private school, swaraj
-author: shriker
 editor: markdown
 ---
 
