@@ -1,8 +1,8 @@
 ---
 title: Kycgeja-Kycyja-Gjytkeoduja
-description: 
+description: A cancerous disease resulting in loss of skin colour.
 published: true
-date: 2020-09-06T20:39:20.225Z
+date: 2020-09-06T20:45:49.846Z
 tags: diseases, cancerous disease
 editor: markdown
 ---
