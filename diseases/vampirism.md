@@ -2,7 +2,7 @@
 title: Vampirism
 description: 
 published: true
-date: 2020-09-06T20:19:11.921Z
+date: 2020-09-06T20:21:25.518Z
 tags: diseases, magia morbii, vampdragons
 editor: markdown
 ---
@@ -31,7 +31,7 @@ All vampires need the blood of another pendragon to survive. They can live on th
 
 Vampires can eat normal food but it doesn’t do them much good. Most have given it up altogether saying that it has no nutritional value to their system. Some will sometimes pretend to eat in order to try and fit in while in a big group.
 
-## Becoming a Vampire
+## Causes
 
 There are three main ways for one to become a vampire.
 
@@ -68,3 +68,5 @@ Not much is known about the origins of vampdragons, but it is a common belief th
 ## Death of a Vampire
 
 When a pendragon is turned into a vampire their soul is in put into a type of limbo, they aren’t really alive and are not really dead. Their body remains on the planet as a vampire. Once they are killed as a vampire they have a chance of getting themselves into Fronima. If they have the willpower they can push their own soul into Fronima. If not, which is usually the case, their souls will just fade away and never reach the peaceful resting place in Fronima.
+
+## Prevention and Treatment
