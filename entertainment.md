@@ -1,16 +1,13 @@
 ---
 title: Entertainment
-description:
+description: Music, games, sports, things to do and things to read.
 published: true
-date: 2010-03-22T15:13:59Z
+date: 2020-09-06T21:20:58.115Z
 tags: entertainment, pop culture
-author: shriker
 editor: markdown
 ---
 
-Music
-------
-
+## Music
 * [Chaos Theory](/entertainment/chaos-theory "wikilink")
 * [Desa Caabaj](/entertainment/desa-caabaj "wikilink")
 * [Parallax](/entertainment/parallax "wikilink")
@@ -18,13 +15,11 @@ Music
 * [The Yelzin Swingers](/entertainment/the-yelzin-swingers "wikilink")
 * [Xarkellklann](/entertainment/xarkellklann "wikilink")
 
-Literature
-------
+## Literature
 
 * [Ramathian Library](/entertainment/literature "wikilink")
 
-Sports
-------
+## Sports
 
 * [AR Mage Duels](/sports/ar-mage-duels "wikilink")
 * [Djuberull](/sports/djuberull "wikilink")
