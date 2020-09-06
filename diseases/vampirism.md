@@ -1,15 +1,15 @@
 ---
 title: Vampirism
-description:
+description: 
 published: true
-date: 2008-03-18T02:55:17Z
+date: 2020-09-06T20:19:11.921Z
 tags: diseases, magia morbii, vampdragons
-author: shriker
 editor: markdown
 ---
 
-Symptoms
-========
+**Vampirism** is a transformative *magia morbus*, or magical disease.
+
+## Symptoms
 
 Vampdragons have both reflections and shadows. They also possess the ability to control their own shadows and can change the shape of it or also make it seem as if it wasn’t there. Sometimes the vampire can lose control or just not care what it’s shadow does, so vampire shadows can often be seen changing shape at will.
 
@@ -23,8 +23,7 @@ Those that are born vampires are more susceptible to the sun. Since they have ha
 
 Vampires who have also recently fed may feel less damaging effects from the sun because there bodies are in a better state to repel any sort of light attack on them.
 
-Feeding
-=======
+## Feeding
 
 Hunger may not seem like an obvious trait but it’s one shared amongst all vampire kin. When they haven’t eaten for weeks it’s hard for them to control their actions. Their natural instinct is to hunt and drink. Its temptation is one of the few weaknesses a vampire can’t deny. Sometimes when it’s the first hunt of a new vampire or has been the first feeding after a long amount of time, a vampdragon may lose control and kill until they can’t stop even when they don’t need to feed.
 
@@ -32,8 +31,7 @@ All vampires need the blood of another pendragon to survive. They can live on th
 
 Vampires can eat normal food but it doesn’t do them much good. Most have given it up altogether saying that it has no nutritional value to their system. Some will sometimes pretend to eat in order to try and fit in while in a big group.
 
-Becoming a Vampire
-==================
+## Becoming a Vampire
 
 There are three main ways for one to become a vampire.
 
@@ -49,15 +47,13 @@ Under rare circumstances a pendragon may have an allergic reaction to the transf
 
 -   The third, and most unlikely way to become a vampire, is of course, to have been a vampire all along. Only the eldest of eldest of vampires know for certain the exact origin of where their species came from. Whether they were blessed by some god, or cursed with the lust of blood, or slowly just developed an affinity for it‘s metallic taste. Whatever the case, it is extremely unlikely that this is how your character became a vampire.
 
-Ways to Repel Vampires
-======================
+## Ways to Repel Vampires
 
 There are spells out there that can cause a bit of protection against vampires but just like all spells, they can be broken. Vampires do of course take damage from all forms of magic, but it may take more power from the spell caster in order for it to do more hurtful damage to them if the vampire is strong. Healing magic, as said before, has a negative effect on all vampdragons. It usually just makes a vampire lethargic or sick, but in some rare cases it can kill a vampdragon if he / she is weak.
 
 Some vampires may have their own unique allergies to some plants or foods and in most cases if that vampires bites another and transforms them, their victim would most likely have the same allergies.
 
-Reproduction and Social Life
-============================
+## Reproduction and Social Life
 
 There are a few small clans and cults scattered around Ramath-lehi. They all have their own rules and systems and most like to keep themselves secret, not wanting to draw attention from non-vamp pendragons.
 
@@ -69,7 +65,6 @@ As far as the stories go there is no one specific vampire god. There are stories
 
 Not much is known about the origins of vampdragons, but it is a common belief that all vampires have stemmed off from a "First" vampire, that was said to exist thousands of years ago.
 
-Death of a Vampire
-==================
+## Death of a Vampire
 
 When a pendragon is turned into a vampire their soul is in put into a type of limbo, they aren’t really alive and are not really dead. Their body remains on the planet as a vampire. Once they are killed as a vampire they have a chance of getting themselves into Fronima. If they have the willpower they can push their own soul into Fronima. If not, which is usually the case, their souls will just fade away and never reach the peaceful resting place in Fronima.
