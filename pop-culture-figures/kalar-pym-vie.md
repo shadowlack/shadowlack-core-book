@@ -2,9 +2,8 @@
 title: Kalar Pym Vie
 description: An author and comic book writer.
 published: true
-date: 2010-04-04T06:29:08Z
+date: 2020-09-06T19:51:41.058Z
 tags: pop culture, authors
-author: nasuella
 editor: markdown
 ---
 
