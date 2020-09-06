@@ -1,10 +1,9 @@
 ---
 title: Dula Ukupani Vyj Sha Vledhs Devsap
-description: Your wings will take you. 
+description: Your wings will take you.
 published: true
-date: 2010-03-31T16:23:20Z
-tags: private school, magic school, dhruv
-author: shriker
+date: 2020-09-06T19:36:33.231Z
+tags: magic school, private school, dhruv
 editor: markdown
 ---
 
