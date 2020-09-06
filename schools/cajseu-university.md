@@ -1,10 +1,9 @@
 ---
 title: Cajseu University
-description:
+description: 
 published: true
-date: 2010-03-31T16:21:18Z
+date: 2020-09-06T19:46:20.875Z
 tags: public school
-author: shriker
 editor: markdown
 ---
 
