@@ -2,7 +2,7 @@
 title: Crop Rot
 description: 
 published: true
-date: 2020-09-06T20:08:52.336Z
+date: 2020-09-06T20:36:24.883Z
 tags: diseases
 editor: markdown
 ---
@@ -31,7 +31,7 @@ If you are not treated the enzymes will continue to break down glucose bonds in 
 
 Contaminated flower pollen is the main Vehicle of Transmission of the Dolkys Kyta bacterium. It travels on the wind for short distances, contaminating the open flowers it lands on. The plant survives, even with the bacteria living off of it, if the plant grows fruit or vegetables these become infected, as well as grain produce, which is how the bacteria makes it into the population. The bacteria are not passed on through Vertical transmission, newly grown plants are not infected unless they are touched with previously infected pollen.
 
-`"They unknowingly are pollinators; as they go from flower to flower, collecting nectar, and bringing pollen from one plant to another." (Kylymiraa)`
+> They (Kylymiraa) unknowingly are pollinators; as they go from flower to flower, collecting nectar, and bringing pollen from one plant to another.
 
 Kylymiraa pick up infected pollen from flowers that are already infected, then aid in the transmission to other plants nearby. However, after three days of acting as a carrier, the bacterium kills the small insects. Large scale mortality in Kylymiraa is a sign of an out break of Crop Rot.
 
