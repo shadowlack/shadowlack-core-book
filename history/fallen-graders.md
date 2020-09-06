@@ -1,17 +1,16 @@
 ---
 title: Fallen Graders
-description:
+description: 
 published: true
-date: 2012-08-07T19:56:18Z
+date: 2020-09-06T19:26:58.210Z
 tags: history
-author: shriker
 editor: markdown
 ---
 
 What an average Ramathian (your character) would know:
 ======================================================
 
-1.  Karryasa and Zamfir Grader were the [Arch Magos and Magosai of Ramath-lehi](/government "wikilink").
+1.  Karryasa and Zamfir Grader were the [Arch Magos and Magosai of Ramath-lehi](/Government "wikilink").
 2.  Karryasa Grader was killed / swallowed up by the Nothing.
 3.  Zamfir Grader was hospitalized.
 4.  In her parent's absence, Koani Grader took over their duties.
