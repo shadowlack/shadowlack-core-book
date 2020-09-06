@@ -2,13 +2,13 @@
 title: Uslumset College
 description: 
 published: true
-date: 2020-09-06T19:06:25.165Z
+date: 2020-09-06T19:07:06.631Z
 tags: aurius, private school
 editor: markdown
 ---
 
 Location 	Aurius
-Colours 	Purple, Orange, Yellow Trans.gif Trans.gif Trans.gif
+Colours 	Purple, Orange, Yellow
 Mascot 	A shark-like creature.
 Sports 	Jemdrull, Khatt, any water related sports
 
