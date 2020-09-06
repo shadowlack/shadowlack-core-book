@@ -1,10 +1,9 @@
 ---
 title: Adara School for the Young Thill
-description:
+description: 
 published: true
-date: 2010-03-31T16:18:46Z
-tags: public school, magic school, aurius
-author: shriker
+date: 2020-09-06T19:47:51.313Z
+tags: aurius, public school, magic school
 editor: markdown
 ---
 
