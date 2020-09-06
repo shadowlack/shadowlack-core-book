@@ -1,10 +1,9 @@
 ---
 title: Azsampap Apokuseym
-description:
+description: 
 published: true
-date: 2010-03-31T16:19:17Z
+date: 2020-09-06T19:49:04.048Z
 tags: public school, notios sudesha
-author: shriker
 editor: markdown
 ---
 
