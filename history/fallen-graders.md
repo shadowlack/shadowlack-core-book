@@ -11,7 +11,7 @@ editor: markdown
 What an average Ramathian (your character) would know:
 ======================================================
 
-1.  Karryasa and Zamfir Grader were the [Arch Magos and Magosai of Ramath-lehi](/Government "wikilink").
+1.  Karryasa and Zamfir Grader were the [Arch Magos and Magosai of Ramath-lehi](/government "wikilink").
 2.  Karryasa Grader was killed / swallowed up by the Nothing.
 3.  Zamfir Grader was hospitalized.
 4.  In her parent's absence, Koani Grader took over their duties.

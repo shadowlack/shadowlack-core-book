@@ -12,9 +12,9 @@ A disease is an abnormal condition affecting the body of an organism. While rath
 Diseases
 ------------
 
-- [Crop Rot](/diseases/crop_rot "wikilink")
-- [Falters Skele](/diseases/falters_skele "wikilink")
-- [Kycgeja-Kycyja-Gjytkeoduja (KGG)](/diseases/kycgeja_kycyja_gjytkeoduja "wikilink")
+- [Crop Rot](/diseases/crop-rot "wikilink")
+- [Falters Skele](/diseases/falters-skele "wikilink")
+- [Kycgeja-Kycyja-Gjytkeoduja (KGG)](/diseases/kycgeja-kycyja-gjytkeoduja "wikilink")
 
 Magia Morbii
 ------------

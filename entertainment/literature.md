@@ -49,7 +49,7 @@ Series
 
 * **The Mage Duels Trilogy**. [[A.R. Jand]].
     * (**The Vengeance**, **The Redemption**, **The Armageddon**)
-    * The official novelisations of the third, fourth and fifth entries in the [AR Mage Duels](/sports/ar_mage_duels "wikilink") game series. Criticised for having an unsympathetic protagonist and changing certain aspects of the plot.
+    * The official novelisations of the third, fourth and fifth entries in the [AR Mage Duels](/sports/ar-mage-duels "wikilink") game series. Criticised for having an unsympathetic protagonist and changing certain aspects of the plot.
 
 Graphic Novels
 ------
@@ -99,9 +99,9 @@ Periodicals
 ------
 
 * **The Cronvint Times**
-    * A daily newspaper printed and sold in Cronvint, [Trilok](/countries/Trilok "wikilink").
+    * A daily newspaper printed and sold in Cronvint, [Trilok](/countries/trilok "wikilink").
 * **Janardan Academy Newsletter**
-    * The newsletter of the [Janardan Academy](/schools/janardan_academy "wikilink").
+    * The newsletter of the [Janardan Academy](/schools/janardan-academy "wikilink").
 * **The Janardan Daily**
     * A daily newspaper printed and sold in Janardan, [Swaraj](/countries/swaraj "wikilink").
 * **The Vehklemine Reader**

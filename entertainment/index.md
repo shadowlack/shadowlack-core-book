@@ -11,11 +11,11 @@ editor: markdown
 Music
 ------
 
-* [Chaos Theory](/entertainment/chaos_theory "wikilink")
-* [Desa Caabaj](/entertainment/desa_caabaj "wikilink")
+* [Chaos Theory](/entertainment/chaos-theory "wikilink")
+* [Desa Caabaj](/entertainment/desa-caabaj "wikilink")
 * [Parallax](/entertainment/parallax "wikilink")
 * [Phatharla](/entertainment/phatharla "wikilink")
-* [The Yelzin Swingers](/entertainment/the_yelzin_swingers "wikilink")
+* [The Yelzin Swingers](/entertainment/the-yelzin-swingers "wikilink")
 * [Xarkellklann](/entertainment/xarkellklann "wikilink")
 
 Literature
@@ -26,9 +26,9 @@ Literature
 Sports
 ------
 
-* [AR Mage Duels](/sports/ar_mage_duels "wikilink")
+* [AR Mage Duels](/sports/ar-mage-duels "wikilink")
 * [Djuberull](/sports/djuberull "wikilink")
 * [Jemdrull](/sports/jemdrull "wikilink")
 * [Khatt](/sports/khatt "wikilink")
-* [Menlo](/sports/menlo "wikilink"), [Menlo Team Game Play](/sports/menlo_team_game_play "wikilink"), [Menlo Virus Game Play](/sports/menlo_virus_game_play "wikilink")
+* [Menlo](/sports/menlo "wikilink"), [Menlo Team Game Play](/sports/menlo-team-game-play "wikilink"), [Menlo Virus Game Play](/sports/menlo-virus-game-play "wikilink")
 * [Stentrau](/sports/stentrau "wikilink")
