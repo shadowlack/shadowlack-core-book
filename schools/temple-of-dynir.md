@@ -2,9 +2,8 @@
 title: Temple of Dynir
 description: All for good. Religious public school of magic, religion, and marine biology.
 published: true
-date: 2013-10-02T17:51:39Z
+date: 2020-09-06T19:17:40.780Z
 tags: public school, dhruv
-author: marcopablo
 editor: markdown
 ---
 
