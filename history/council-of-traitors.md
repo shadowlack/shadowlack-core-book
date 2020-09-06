@@ -1,10 +1,9 @@
 ---
 title: Council of Traitors
-description:
+description: 
 published: true
-date: 2012-08-07T20:16:50Z
-tags: history
-author: shriker
+date: 2020-09-06T20:14:16.390Z
+tags: history,plots
 editor: markdown
 ---
 
@@ -16,4 +15,7 @@ editor: markdown
 -   A total of four shots were fired.
 -   Nyri was fatally shot by one of the Grader's entourage.
 -   Traitor; Cruise Comes to a Premature End. The cruise ends abruptly.
--   Council Shuffle. Plicae Decatur steps down from his position of Councillor of Law & Justice. Hainfor Jinorik was hired as his replacement. Aquabat Cadmium J66, has also resigned for undisclosed reasons. Farlina Va has replaced her as the Councillor of the Environment & Natural Resources. Replacing Nyri, the energetic Saylon Maestii is now the Councillor of Entertainment.
+
+## Council Shuffle
+
+Plicae Decatur steps down from his position of Councillor of Law & Justice. Hainfor Jinorik was hired as his replacement. Aquabat Cadmium J66, has also resigned for undisclosed reasons. Farlina Va has replaced her as the Councillor of the Environment & Natural Resources. Replacing Nyri, the energetic Saylon Maestii is now the Councillor of Entertainment.
