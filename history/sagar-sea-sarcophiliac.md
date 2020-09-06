@@ -1,10 +1,9 @@
 ---
 title: Sagar Sea Sarcophiliac
-description:
+description: 
 published: true
-date: 2012-08-07T21:03:41Z
-tags: murderers, pop culture, history
-author: shriker
+date: 2020-09-06T19:30:32.603Z
+tags: pop culture, history, murderers
 editor: markdown
 ---
 
