@@ -1,10 +1,9 @@
 ---
 title: Sarah Gojgla
-description:
+description: 
 published: true
-date: 2010-03-03T21:11:01Z
-tags: pop culture, musicians, rock
-author: shriker
+date: 2020-09-06T19:57:31.809Z
+tags: rock, pop culture, musicians
 editor: markdown
 ---
 
