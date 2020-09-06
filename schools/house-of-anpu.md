@@ -1,10 +1,9 @@
 ---
 title: House of Anpu
-description:
+description: 
 published: true
-date: 2010-03-31T16:28:33Z
+date: 2020-09-06T19:32:40.164Z
 tags: public school, magic school, notios sudesha
-author: shriker
 editor: markdown
 ---
 
