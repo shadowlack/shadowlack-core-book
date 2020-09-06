@@ -1,10 +1,9 @@
 ---
 title: Crop Rot
-description:
+description: 
 published: true
-date: 2010-01-23T18:37:19Z
+date: 2020-09-06T19:13:59.670Z
 tags: diseases
-author: shriker
 editor: markdown
 ---
 
