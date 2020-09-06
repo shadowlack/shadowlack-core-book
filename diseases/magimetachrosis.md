@@ -1,8 +1,8 @@
 ---
 title: Magimetachrosis
-description: A magia morbus causing continuous changes to pelt colour.
+description: A mild magia morbus causing continuous changes to pelt colour.
 published: true
-date: 2020-09-06T20:48:16.393Z
+date: 2020-09-06T20:53:14.118Z
 tags: diseases, magia morbii
 editor: markdown
 ---
