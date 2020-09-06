@@ -2,9 +2,9 @@
 title: Therianthropy
 description: A transformative magia morbus resulting in an intermittent, feral state of consciousness.
 published: true
-date: 2020-09-06T20:50:42.616Z
-tags: diseases, magia morbii, weredragons
-editor: markdown
+date: 2020-09-06T22:40:56.892Z
+tags: 
+editor: undefined
 ---
 
 **Therianthropy** is a transformative *magia morbus*, or magical disease.

@@ -1,11 +1,10 @@
 ---
 title: The Prologue
-description:
+description: 
 published: true
-date: 2007-10-21T21:16:37Z
-tags: rapine, government, council of twelve, history
-author: shriker
-editor: markdown
+date: 2020-09-06T22:43:07.331Z
+tags: 
+editor: undefined
 ---
 
 **When:** Afternoon, Day 2, Tria Quarter, 81374

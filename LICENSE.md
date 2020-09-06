@@ -1,3 +1,12 @@
+---
+title: LICENSE
+description: 
+published: true
+date: 2020-09-06T22:39:37.990Z
+tags: 
+editor: undefined
+---
+
 # License
 
 Except where otherwise [noted](#license-notes), the player-constructed world of Shadowlack is under a Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 Unported license](https://creativecommons.org/licenses/by-nc-sa/4.0/). Shadowlack is developed and maintained by [Jodie Struthers](https://shriker.ca/).

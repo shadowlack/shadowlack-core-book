@@ -2,9 +2,9 @@
 title: Hyota Yv Daujt
 description: Private and world-renowned mechanical engineering school.
 published: true
-date: 2020-09-06T19:30:54.092Z
-tags: bhim, magic school, private school
-editor: markdown
+date: 2020-09-06T22:46:39.234Z
+tags: 
+editor: undefined
 ---
 
 Location 	Bhim (Eastern Bhim)

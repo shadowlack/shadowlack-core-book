@@ -2,9 +2,9 @@
 title: Uslumset College
 description: 
 published: true
-date: 2020-09-06T19:07:06.631Z
-tags: aurius, private school
-editor: markdown
+date: 2020-09-06T22:47:21.212Z
+tags: 
+editor: undefined
 ---
 
 Location 	Aurius

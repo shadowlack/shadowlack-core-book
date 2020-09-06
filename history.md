@@ -2,9 +2,9 @@
 title: History
 description: 
 published: true
-date: 2020-09-06T20:12:44.600Z
-tags: history, plots
-editor: markdown
+date: 2020-09-06T22:39:56.355Z
+tags: 
+editor: undefined
 ---
 
 Have you been away from Shadowlack for quite some time? Trying to catch up with the latest happenings and going-ons? Or are you just curious about the events that conspired before your time? You'll find the current world-wide plot summary here, as well as links to previous plots.

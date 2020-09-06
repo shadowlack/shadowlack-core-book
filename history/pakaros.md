@@ -1,11 +1,10 @@
 ---
 title: Pakaros
-description:
+description: 
 published: true
-date: 2013-09-26T20:13:18Z
-tags: pop culture, history, free mages, trilok, murderers, mysteries
-author: shriker
-editor: markdown
+date: 2020-09-06T22:43:00.447Z
+tags: 
+editor: undefined
 ---
 
 Timeline of Events

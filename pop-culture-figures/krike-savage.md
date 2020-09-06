@@ -2,9 +2,9 @@
 title: Krike Savage
 description: Guitarist, singer, and headman for The Invaders.
 published: true
-date: 2020-09-06T19:53:48.392Z
-tags: music, pop culture, punk, musicians
-editor: markdown
+date: 2020-09-06T22:44:43.748Z
+tags: 
+editor: undefined
 ---
 
 Noted For

@@ -2,9 +2,9 @@
 title: Whooton School for Nioti
 description: Learning, leading, living.
 published: true
-date: 2020-09-06T17:49:24.884Z
-tags: public school, swaraj
-editor: markdown
+date: 2020-09-06T22:47:25.970Z
+tags: 
+editor: undefined
 ---
 
 Staff 	340

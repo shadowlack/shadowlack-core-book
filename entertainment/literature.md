@@ -1,11 +1,10 @@
 ---
 title: Ramathian Library
-description:
+description: 
 published: true
-date: 2010-03-22T15:13:59Z
-tags: entertainment, authors, pop culture
-author: lautir
-editor: markdown
+date: 2020-09-06T22:41:46.199Z
+tags: 
+editor: undefined
 ---
 
 Novels

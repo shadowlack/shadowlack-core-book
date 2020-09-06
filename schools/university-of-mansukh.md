@@ -2,9 +2,9 @@
 title: University of Mansukh
 description: 
 published: true
-date: 2020-09-06T19:11:49.960Z
-tags: public school, mansukh
-editor: markdown
+date: 2020-09-06T22:47:16.255Z
+tags: 
+editor: undefined
 ---
 
 Staff 	108

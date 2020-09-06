@@ -2,9 +2,9 @@
 title: Adara School for the Young Thill
 description: 
 published: true
-date: 2020-09-06T19:47:51.313Z
-tags: aurius, public school, magic school
-editor: markdown
+date: 2020-09-06T22:45:43.583Z
+tags: 
+editor: undefined
 ---
 
 Location 	Aurius (Downtown near the center of the city.)

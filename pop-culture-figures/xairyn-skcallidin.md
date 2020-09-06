@@ -2,9 +2,9 @@
 title: Xairyn Skcallidin
 description: 
 published: true
-date: 2020-09-06T20:02:38.962Z
-tags: pop culture, government
-editor: markdown
+date: 2020-09-06T22:45:38.798Z
+tags: 
+editor: undefined
 ---
 
 A well known criminal turned government official, "Three Skulls" Skcallidin is an ex-pirate who plunders moralities as often as she used to plunder ships and cities.

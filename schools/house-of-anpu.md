@@ -2,9 +2,9 @@
 title: House of Anpu
 description: 
 published: true
-date: 2020-09-06T19:33:46.650Z
-tags: public school, magic school, notios sudesha
-editor: markdown
+date: 2020-09-06T22:46:29.295Z
+tags: 
+editor: undefined
 ---
 
 Location 	Notios Sudesha (around the Tmu Desert, not far from the Krokino Prison)

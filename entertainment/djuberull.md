@@ -2,9 +2,9 @@
 title: Djuberull
 description: 
 published: true
-date: 2020-09-06T03:22:36.844Z
-tags: sports, games
-editor: markdown
+date: 2020-09-06T22:41:27.480Z
+tags: 
+editor: undefined
 ---
 
 **Djuberull** ("Graviball" in Ramathian) is a team sport played with two teams in an area with antigravity technology, hence the name. Each player aims to score points by shooting the ball into the opposing team's set scoring area, with the goal of getting a higher score than the other team before time runs out.

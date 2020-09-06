@@ -2,9 +2,9 @@
 title: Menlo Virus Game Play
 description: Menlo with a viral and hacking twist.
 published: true
-date: 2020-09-06T20:53:38.188Z
-tags: menlo, sports, games
-editor: markdown
+date: 2020-09-06T22:41:58.226Z
+tags: 
+editor: undefined
 ---
 
 Some players prefer to play the [Menlo](/sports/menlo "wikilink") game with viruses as part of the game itself. These players base their entire [Menlo Card](/technologies/menlo-card "wikilink") on the output of and protection from viruses. *Virus Players* are not allowed to participate in official Menlo matches. A large virus-only league exists in [Bhim](/countries/bhim "wikilink").

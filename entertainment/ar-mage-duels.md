@@ -2,9 +2,9 @@
 title: AR Mage Duels
 description: A long-running franchise of virtual reality games.
 published: true
-date: 2020-09-06T20:44:28.840Z
-tags: sports, games, virtual reality, augmented reality
-editor: markdown
+date: 2020-09-06T22:41:09.528Z
+tags: 
+editor: undefined
 ---
 
 > Infinite possibilities. Zero risk to your well-being.

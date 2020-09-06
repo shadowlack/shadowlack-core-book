@@ -2,9 +2,9 @@
 title: Pjudym Shyjm Collegiate Institute
 description: The cutting edge of learning.
 published: true
-date: 2020-09-06T19:20:59.520Z
-tags: public school, swaraj
-editor: markdown
+date: 2020-09-06T22:47:01.213Z
+tags: 
+editor: undefined
 ---
 
 Staff 	1200

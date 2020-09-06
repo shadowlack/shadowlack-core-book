@@ -2,9 +2,9 @@
 title: Janardan Academy
 description: 
 published: true
-date: 2020-09-06T19:29:28.905Z
-tags: public school, magic school, swaraj
-editor: markdown
+date: 2020-09-06T22:46:46.346Z
+tags: 
+editor: undefined
 ---
 
 Dean 	Hart Demori

@@ -2,9 +2,9 @@
 title: Diseases
 description: 
 published: true
-date: 2020-09-06T20:09:35.614Z
-tags: diseases
-editor: markdown
+date: 2020-09-06T22:39:43.891Z
+tags: 
+editor: undefined
 ---
 
 A disease is an abnormal condition affecting the body of an organism. While rather technologically advanced, Ramath-lehi has still not managed to completely rid itself of all diseases and ailments. Death due to disease is called "death by natural causes." There are five main types of disease: pathogenic disease, deficiency disease, hereditary disease, physiological disease, and magia morbii.

@@ -1,11 +1,10 @@
 ---
 title: Khatt
-description:
+description: 
 published: true
-date: 2007-11-20T04:26:57Z
-tags: sports, games
-author: shriker
-editor: markdown
+date: 2020-09-06T22:41:39.969Z
+tags: 
+editor: undefined
 ---
 
 Ramathian chess.

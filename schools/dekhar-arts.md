@@ -2,9 +2,9 @@
 title: Dekhar Arts
 description: 
 published: true
-date: 2020-09-06T19:42:27.022Z
-tags: magic school, martial arts school
-editor: markdown
+date: 2020-09-06T22:46:09.844Z
+tags: 
+editor: undefined
 ---
 
 *Whoever said that magic and swordplay are mutually exclusive is a fool.*

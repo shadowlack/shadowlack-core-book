@@ -2,9 +2,9 @@
 title: Cajseu University
 description: 
 published: true
-date: 2020-09-06T19:46:20.875Z
-tags: public school
-editor: markdown
+date: 2020-09-06T22:45:53.111Z
+tags: 
+editor: undefined
 ---
 
 Staff 	1,255

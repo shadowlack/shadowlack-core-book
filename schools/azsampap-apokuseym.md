@@ -2,9 +2,9 @@
 title: Azsampap Apokuseym
 description: 
 published: true
-date: 2020-09-06T19:49:04.048Z
-tags: public school, notios sudesha
-editor: markdown
+date: 2020-09-06T22:45:48.441Z
+tags: 
+editor: undefined
 ---
 
 Location Notios Sudesha (East of Krokino Prison)

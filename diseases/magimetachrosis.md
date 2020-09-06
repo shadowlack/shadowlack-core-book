@@ -2,9 +2,9 @@
 title: Magimetachrosis
 description: A mild magia morbus causing continuous changes to pelt colour.
 published: true
-date: 2020-09-06T20:53:14.118Z
-tags: diseases, magia morbii
-editor: markdown
+date: 2020-09-06T22:40:50.607Z
+tags: 
+editor: undefined
 ---
 
 **Magimetachrosis** is mild *magia morbus*, or magical disease.

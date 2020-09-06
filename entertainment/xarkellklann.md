@@ -1,11 +1,10 @@
 ---
 title: Xarkellklann
-description:
+description: 
 published: true
-date: 2014-04-02T08:55:32Z
-tags: music, rock, trilok, bhim
-author: nasuella
-editor: markdown
+date: 2020-09-06T22:42:35.116Z
+tags: 
+editor: undefined
 ---
 
 **Xarkellklann** is a rock band originally from [Trilok](/countries/trilok "wikilink"). Most of the band members are [Khell](/species/khell "wikilink"), though there are also some regular pendragons among them.

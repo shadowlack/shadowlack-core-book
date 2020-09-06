@@ -2,9 +2,9 @@
 title: Notsalepua Academy
 description: Moving towards justice.
 published: true
-date: 2020-09-06T19:23:54.658Z
-tags: bhim, public school
-editor: markdown
+date: 2020-09-06T22:46:51.363Z
+tags: 
+editor: undefined
 ---
 
 Location 	Bhim (northwest coastline)
