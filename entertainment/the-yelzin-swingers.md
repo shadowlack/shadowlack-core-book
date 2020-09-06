@@ -1,10 +1,9 @@
 ---
 title: The Yelzin Swingers
-description:
+description: 
 published: true
-date: 2014-04-02T09:08:28Z
+date: 2020-09-06T19:26:10.637Z
 tags: music, jazz, swing, aurius
-author: nasuella
 editor: markdown
 ---
 
