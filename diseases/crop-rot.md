@@ -1,8 +1,8 @@
 ---
 title: Crop Rot
-description: Crop Rot is a bacterial disease primarily affecting flora.
+description: A bacterial disease primarily affecting flora.
 published: true
-date: 2020-09-06T20:41:31.764Z
+date: 2020-09-06T20:42:33.456Z
 tags: diseases
 editor: markdown
 ---
