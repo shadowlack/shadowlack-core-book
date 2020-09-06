@@ -1,10 +1,9 @@
 ---
 title: KKG
-description:
+description: 
 published: true
-date: 2010-01-23T18:40:40Z
+date: 2020-09-06T19:19:13.464Z
 tags: diseases, cancerous disease
-author: shriker
 editor: markdown
 ---
 
