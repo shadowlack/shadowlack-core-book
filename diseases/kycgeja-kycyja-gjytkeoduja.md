@@ -1,8 +1,8 @@
 ---
-title: KKG
+title: Kycgeja-Kycyja-Gjytkeoduja
 description: 
 published: true
-date: 2020-09-06T19:19:13.464Z
+date: 2020-09-06T20:39:20.225Z
 tags: diseases, cancerous disease
 editor: markdown
 ---
