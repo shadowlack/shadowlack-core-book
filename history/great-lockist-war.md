@@ -2,9 +2,8 @@
 title: Great Lockist War
 description: 
 published: true
-date: 2020-09-06T03:24:08.123Z
-tags: wars, history
-author: nasuella
+date: 2020-09-06T19:27:50.441Z
+tags: history, wars
 editor: markdown
 ---
 
