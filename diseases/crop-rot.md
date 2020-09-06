@@ -2,7 +2,7 @@
 title: Crop Rot
 description: 
 published: true
-date: 2020-09-06T19:13:59.670Z
+date: 2020-09-06T19:14:09.393Z
 tags: diseases
 editor: markdown
 ---
