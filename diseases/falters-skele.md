@@ -1,8 +1,8 @@
 ---
 title: Falters Skele
-description: A non-contagious genetic disease.
+description: A non-contagious, rapid onset genetic disease causing rapid aging.
 published: true
-date: 2020-09-06T20:44:04.615Z
+date: 2020-09-06T20:44:36.655Z
 tags: diseases, genetic diseases
 editor: markdown
 ---
