@@ -2,17 +2,19 @@
 title: Magimetachrosis
 description: 
 published: true
-date: 2020-09-06T20:12:06.195Z
+date: 2020-09-06T20:31:25.124Z
 tags: diseases, magia morbii
 editor: markdown
 ---
 
-**Magimetachrosis** is a medical condition which causes the skin of the afflicted to continually change colour. It is a mild *magia morbus*, or magical disease, and while it is curable, its effects are usually temporary.
+**Magimetachrosis** is mild *magia morbus*, or magical disease.
 
-Metachrosis (changing colour at will) is a natural phenomenon which can be witnessed in certain animals.
+Metachrosis (changing colour at will) is a distinct natural phenomenon which can be witnessed in certain animals.
 
 ## Symptoms
+Causes the skin and/or pelt of the afflicted to continually change colour.
 
 ## Causes
 
 ## Prevention and Treatment
+While curable, Magimetachrosis' effects are usually temporary.
