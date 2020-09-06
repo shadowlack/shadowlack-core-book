@@ -7,7 +7,7 @@ tags: diseases, magia morbii
 editor: markdown
 ---
 
-**Dermallaghica** is a *magia morbus*, or magical disease, which alters the skin of the afflicted. While the root cause is the same, the effects of this condition can vary wildly, making it notoriously difficult to diagnose.
+**Dermallaghica** is a fatal *magia morbus*, or magical disease, which alters the skin of the afflicted. While the root cause is the same, the effects of this condition can vary wildly, making it notoriously difficult to diagnose.
 
 Symptoms
 --------
