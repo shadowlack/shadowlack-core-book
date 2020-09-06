@@ -21,9 +21,9 @@ editor: markdown
 
 ## Sports
 
-* [AR Mage Duels](/sports/ar-mage-duels "wikilink")
-* [Djuberull](/sports/djuberull "wikilink")
-* [Jemdrull](/sports/jemdrull "wikilink")
-* [Khatt](/sports/khatt "wikilink")
-* [Menlo](/sports/menlo "wikilink"), [Menlo Team Game Play](/sports/menlo-team-game-play "wikilink"), [Menlo Virus Game Play](/sports/menlo-virus-game-play "wikilink")
-* [Stentrau](/sports/stentrau "wikilink")
+* [AR Mage Duels](/entertainment/ar-mage-duels "wikilink")
+* [Djuberull](/entertainment/djuberull "wikilink")
+* [Jemdrull](/entertainment/jemdrull "wikilink")
+* [Khatt](/entertainment/khatt "wikilink")
+* [Menlo](/entertainment/menlo "wikilink"), [Menlo Team Game Play](/entertainment/menlo-team-game-play "wikilink"), [Menlo Virus Game Play](/entertainment/menlo-virus-game-play "wikilink")
+* [Stentrau](/entertainment/stentrau "wikilink")
