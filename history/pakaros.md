@@ -3,7 +3,7 @@ title: Pakaros
 description:
 published: true
 date: 2013-09-26T20:13:18Z
-tags: pop culture, history
+tags: pop culture, history, free mages, trilok, murderers, mysteries
 author: shriker
 editor: markdown
 ---
