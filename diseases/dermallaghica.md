@@ -1,10 +1,9 @@
 ---
 title: Dermallaghica
-description: 
+description: A magia morbus with varied and unpredictable effects.
 published: true
-date: 2013-03-09T03:22:28.002Z
+date: 2020-09-06T20:43:33.343Z
 tags: diseases, magia morbii
-author: nasuella
 editor: markdown
 ---
 
