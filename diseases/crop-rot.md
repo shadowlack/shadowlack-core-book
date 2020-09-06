@@ -2,7 +2,7 @@
 title: Crop Rot
 description: 
 published: true
-date: 2020-09-06T20:07:57.163Z
+date: 2020-09-06T20:08:52.336Z
 tags: diseases
 editor: markdown
 ---
@@ -16,7 +16,6 @@ editor: markdown
 - Drowsiness/fatigue
 - Low energy
 - Rapid weight loss
-
 
 Crop Rot was a large concern for people who depended on growing their own food or selling their produce for profit. The bacteria cycles on a 10 year pattern that scientist have yet to understand but have become skilled at predicting the regions of outbreaks, which has helped to avoid infestations that are dangerously large in recent centuries.
 
