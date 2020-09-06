@@ -1,10 +1,9 @@
 ---
 title: Renkjaub's Academy
-description:
+description: 
 published: true
-date: 2010-03-31T16:34:09Z
+date: 2020-09-06T19:08:57.715Z
 tags: public school, dhruv
-author: shriker
 editor: markdown
 ---
 
