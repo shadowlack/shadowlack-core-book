@@ -1,3 +1,12 @@
+---
+title: Daily Life
+description: What you can expect from a typical day in Ramath-lehi.
+published: true
+date: 2020-09-06T22:40:09.888Z
+tags: culture
+editor: markdown
+---
+
 ## Government Identification
 
 All citizens of Ramath-lehi should have government issued identification. Ramathian identification is special because it is specifically made out of technology that can capture the bio-signature of an individual. This makes them completely impossible to duplicate in order to create forgeries, and renders them absolutely useless if ever lost or stolen. Many of the basic services on Ramath-lehi require government-issued identification. Nearly all Ramathians receive their identification just a few days after they have been hatched or born. Some Ramathians refuse to get government identification, and thereby forfeit their privileges as inhabitants.
@@ -23,6 +32,18 @@ Bartering is also a very common practise on Ramath-lehi. There are some resident
 Bhim's most famous (and only) mint, the Royal Mal Mint, is located within the Terhesian Port. It is from that factory that the stable Bhijan currency is produced and controlled.
 
 ### Sample Prices
+
+| Name           | Rural Cost     | Urban Cost     |
+| :------------- | :----------: | -----------: |
+| Tea                   | 1 khasi | 2-3 khasi    |
+| Flavoured beverage    | 2 khasi | 2-5 khasi |
+| Ticket to a movie     | 8 khasi | 12-17 khasi |
+| Lunch                 | 5-8 khasi | 10-20 khasi |
+| T-shirt               | 15 khasi | 20-30 khasi |
+| Handgun               | 300 khasi | 300-700 khasi |
+| Portable phone        | 70 khasi | 70-120 khasi |
+| Tele-link             | *Unavailable* | 650 khasi |
+| Economy car           | 3,000 khasi | 3,500 khasi |
 
 ## Food
 
