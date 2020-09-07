@@ -1,9 +1,9 @@
 ---
 title: Sakenal
-description: 
+description: The frontmand and lead vocalist of Chaos Theory.
 published: true
 date: 2020-09-06T22:45:03.329Z
-tags: 
+tags: musicians, pop culture
 editor: undefined
 ---
 

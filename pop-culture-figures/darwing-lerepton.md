@@ -1,9 +1,9 @@
 ---
 title: Darwing Lerepton
-description: 
+description: An inventor of popular and often dangerous devices.
 published: true
 date: 2020-09-06T22:44:14.059Z
-tags: 
+tags: inventors, pop culture
 editor: undefined
 ---
 
