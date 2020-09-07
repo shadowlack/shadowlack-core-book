@@ -12,8 +12,14 @@ All species at Shadowlack have been player-created.
 
 ## Playable Species
 
-* 
-* 
+* Anubi
+* Aquabat
+* Feydragon
+* Khell
+* Lukuo
+* Pendragon
+* Takula
+* Yki
 
 ### Hybrids
 
