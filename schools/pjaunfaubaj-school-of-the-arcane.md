@@ -18,3 +18,5 @@ Accepted Trades
 ---------------
 
 All students attending must have a trade in any of the following: Alchemy, Astrology, Elemental Sorcery, Seer, Aerokinesis, Biokinesis, Chronokinesis, Cryokinesis, Daemon & Darkness Lore, Archon & Light Lore, Dark Sorcery, Electrokinesis, Inner Sight, Pyrokinesis, Telekinesis.
+
+## Graduates

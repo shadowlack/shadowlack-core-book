@@ -15,3 +15,5 @@ Sports 	Jemdrull
 Initiate training school for the Blades of Dynir, and place of worship for Dynirism.
 
 The Temple of Dynir is located on the north side of the mighty Dhruv mountains. Devote followers of Dynirism try to make a pilgrimage here once a year to study and worship Dynir. It is also a school of magic and the main training center for the "Blade of Dynir". Besides magic, religion and knighthood the Temple also has a Marine Biology division.
+
+## Graduates

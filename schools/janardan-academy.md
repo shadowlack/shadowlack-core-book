@@ -62,3 +62,10 @@ The courtyard is where students are permitted to go when they are not expected a
 ### Dormitories
 
 Underneath the layers of classrooms, offices, and other rooms lie the dormitories. Here, the average student or teacher can retreat from the noise of the classroom to the quiet of their own personal living space. This space is offered free of charge to all of those that either learn or work at the Academy. Students are usually grouped two or three per room, where as the teachers, occupying the lower levels of the dormitories, can opt for private rooms. A registration list of students, teachers, and their room numbers can be found in the Registrar's Office.
+
+## Graduates
+
+* Thanos Dragyn, Arch Magos
+* Sari Zeb Dragyn, Arch Magosai
+* Lorax and Draco Dragyn
+* [Koani Grader](/pop-culture-figures/koani-grader "wikilink")

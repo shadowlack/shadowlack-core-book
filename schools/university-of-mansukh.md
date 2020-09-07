@@ -15,3 +15,5 @@ Mascot
 Sports 
 
 A large facility accommodating many different fields of study which is mostly populated by 'dragons born and raised in [Mansukh](/Mansukh "wikilink"). 'Dragons wishing to focus on a distinct subject matter often choose to go elsewhere.
+
+## Graduates

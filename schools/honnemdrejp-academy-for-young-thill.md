@@ -13,3 +13,5 @@ Mascot 	A frilled Lesser Koroshiya coiled around a pole bearing the school flag/
 Sports 	Menlo, Harok Racing, all water sports
 
 A high-end all female school that teaches all subjects, but with an obvious focus on the creative arts (especially the written word) and Zoological focuses (such as animal breeding, genetics, etc). This school accepts students between the ages seven to twenty-four. 
+
+## Graduates

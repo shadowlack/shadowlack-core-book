@@ -16,3 +16,7 @@ Sports 	Jemdrull, Menlo, Harok*
 
 They're really good at Harok racing, but were disqualified one year because their Harok turned out to be a machine magicked to look like a Harok.
 
+## Graduates
+
+* [Serin Menlo](/pop-culture-figures/serin-menlo "wikilink"), the creator of the game [Menlo](/entertainment/menlo "wikilink").
+

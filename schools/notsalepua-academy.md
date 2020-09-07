@@ -20,3 +20,5 @@ Accepted Trades
 Acrobatics, Aerobatics\*, Bodyguard\*, Con Artist\*, Escape Artist, Hunter, Interrogation, Jemdrull Player, Lock Pick, Menlo Player, Mercenary, Military, Ranger, Running\*, Seduction, Spy, Swimming, Tracking\*, Trapping, Warrior, Assassin, Illegal Arts, Poisons, Sightless fighting, Tactics, Weapons Specialist.
 
 *Trades with \* will only be accepted for pendragons with a journeyman skill level in the trade.*
+
+## Graduates

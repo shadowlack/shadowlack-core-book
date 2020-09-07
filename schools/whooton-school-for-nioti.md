@@ -14,4 +14,6 @@ Colours 	Red, White, Blue
 Mascot 	A sword.
 Sports 	
 
-A general education centre/boarding school for older males with specified interests. The courses offered here focus on specific fields; because of this the Whooton School for Nioti has an unusually high teacher to student ratio. 
+A general education centre/boarding school for older males with specified interests. The courses offered here focus on specific fields; because of this the Whooton School for Nioti has an unusually high teacher to student ratio.
+
+## Graduates

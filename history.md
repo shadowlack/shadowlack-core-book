@@ -14,7 +14,7 @@ Have you been away from Shadowlack for quite some time? Trying to catch up with 
 * [Sagar Sea Sarcophiliac](/history/sagar-sea-sarcophiliac "wikilink")
 * [Pakaros](/history/pakaros)
 
-## Previous Plots
+### Previous Plots
 
 * [Fallen Graders](/history/fallen-graders "wikilink") - Karryasa and Zamfir Grader fall out of power. The Council of Thirteen is formed
 * [Council of Traitors](/history/council-of-traitors "wikilink")
@@ -24,3 +24,5 @@ Have you been away from Shadowlack for quite some time? Trying to catch up with 
 
 * [Prologue](/history/prologue "wikilink")
 * [Great Lockist War](/history/great-lockist-war "wikilink")
+
+## Historical Figures
