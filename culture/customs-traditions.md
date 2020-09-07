@@ -7,7 +7,7 @@ tags: culture
 editor: markdown
 ---
 
-## Greetings
+## Greetings and Presenting Oneself as Friendly
 
 It is customary for Ramathians of similar or equal status to either shake hands, or touch one another on the shoulder in greeting. Usually the touching is almost always done with the right hand. The shoulder touch greeting is often used by those who are on friendlier terms with one another, or comrades in arms.
 

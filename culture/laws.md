@@ -15,7 +15,7 @@ Discrimination based upon gender, gender expression, sexuality, religion, creed,
 
 It is illegal to own slaves or participate in any sort of slave trade on Ramath-lehi. The punishment for breaking this law is very severe and often results in a lifetime of imprisonment. Unfortunately there is still some opposition to this law, namely from those of Anubi decent who still regularly attempt to take slaves into their services. They attempt to circumvent this law by ensuring that their “slaves” sign contracts that waive their rights and instead try to give off the impression that those working for them are doing so voluntarily. Despite hard battles, many arrests, and heavily worded legislation, it has been next to impossible to completely abolish the underground Anubian slave trade.
 
-### Cloning
+## Cloning
 
 It is illegal to clone another living being outside of a government sanctioned workplace. Cloning research may only be done by authorized personnel. In the event that two or more Ramathians legitimately come into existence without the use of cloning (e.g. identical twins or triplets that share the same D.N.A.), they will have their genetic material slightly altered in order to present as genetically unique. This is done so that they will be able to be seen as complete individuals should they ever be accused of a crime in court, and the only evidence against them is D.N.A..
 
