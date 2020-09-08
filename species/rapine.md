@@ -10,7 +10,8 @@ editor: markdown
 
 **Rapine** \[ɹaˈpʰajn\] do not live on Ramath-lehi. Rapine invasions are what Pendragons refer to as "Wars", and the "Battles for Life". Your character may not encounter one unless it has been said that there is an invasion or you get permission from the Administration. A Rapine has never been sighted on Ramath-lehi — yet.
 
-The Rapine's only instinct is to hunt. They feed off of any unwilling being's soul.
+> The Rapine's only instinct is to hunt. They feed off of any unwilling being's soul. Once your soul is consumed, it can never return to Fronima.
+{.is-danger}
 
 Roughly every seven Ramathian years, the Rapine make their way to populated worlds full of life to feed off of other life forms. These times are considered war to the Pendragon race as they view the Rapine as a destructive plague that must be stopped. A single Pendragon could easily take on several Rapine, but their murders are so populated, each Pendragon can be easily outnumbered 40 to one. Once a Rapine has fed on enough souls to satisfy it, it returns to its home planet to breed.
 
@@ -23,7 +24,7 @@ They are not the brightest of creatures, but when they group like they do, intel
 * **Draconis Rapine** are the most dangerous sub-species of Rapine. They are huge. The size of small dragons, hence the name. They are more intelligent than normal Rapine, making them even more dangerous. Still not all that much is known about this specimen.
 * **Archeus Rapine** are quite different than the normal Rapine. They are still considered Rapine, but they have no eyes nor nose. They have cat-like ears that, instead of hearing, serve as infrared sensors. They are shaped like tadpoles with spiky thorns jutting out from their scales. They have an almost dolphin-like tail, and two raptor-like legs.
 
-## Soulsucking
+### Soulsucking
 
 Any unfortunate soul that is killed by a Rapine is lost forever and does not return to Fronima, but rather gets pulled into the Nothing. Because most Pendragons fear the Nothing, they also fear the Rapine.
 
