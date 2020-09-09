@@ -40,3 +40,10 @@ Besides having positions and ranks within the pack, each member also has a numbe
 Hunting is a major part of pack life. Whether they hunt primitively or use modern means to aid their quest for food, all Aquabats are formidable carnivores. They have several hunting techniques. The most common is for a pack to simply give chase, each individual using hands and teeth in order to kill the prey, which is often fish or small aquatic mammals. A more advanced technique, which must be employed with the cooperation of the pack, is to herd the prey, and then stun it by slapping or lashing with the tail. Sometimes while doing this, Aquabats also toss the prey around, until it is essentially "played" to death. The most modern Aquabat packs use nets and other contemporary tools in order to catch large harvests of prey, and they store their catches for later consumption.
 
 ## Appendix
+
+### Packs
+
+- [FPack *Located near icy Adamann, Trilok.*](/genealogy/fpack)
+- [JPack *Native to the Sagar Sea.*](/genealogy/jpack)
+- [TPack **](/genealogy/tpack)
+{.links-list}
