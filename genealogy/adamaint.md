@@ -3,7 +3,7 @@ title: Adamaint
 description: Blood is binding.
 published: true
 date: 2013-01-23T23:37:29Z
-tags: genealogy, trilok, upper class
+tags: genealogy, trilok, upper class, khell
 author: iversia
 editor: markdown
 ---
