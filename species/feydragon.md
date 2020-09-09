@@ -11,12 +11,13 @@ editor: markdown
 | | |
 |-|-|
 | Plural        | *Feydragons* |
-| Height        | 0.69 m (2 ft 3 in) - 1.10 m (3 ft 8 in) |
-| Weight        | 6.8 kg (15 lbs) - 27 kg (60 lbs) |
+| Height        | 0.69 m - 1.10 m |
+| Weight        | 6.8 kg - 27 kg |
 
-> The beauty of the fey is unspeakable*
-> They fly swiftly beyond the trees and sky*
-> Whilst I watch their children in the snow.*
+> The beauty of the Fey is unspeakable
+> They fly swiftly beyond the trees and sky
+> Whilst I watch their children in the snow.
+>
 > -- <cite>Anonymous poet</cite>
 
 The fair folk of Ramath-lehi. An ancient subspecies with deep ties to the magic they wield, **Feydragons** \[ˈfeyˌdɹæ gjn̩\], are as widely varied as there are many kinds of magic.
@@ -27,7 +28,7 @@ Fey always have wings and tail-flames. Fey wings are one of the most varied part
 
 Nearly all Fey wear special tattoos, often related to their bloodlines and infused with Fronima. This technique was developed long before technology, and it continues to be used frequently, due to it being much cleaner and generally less painful and dangerous than regular tattoo artistry.
 
-## Feydragon Subtypes
+## Feydragon Sub-species
 
 > You must choose a subtype of Feydragon (Kynnyn, Alanamsul, Azetsum, or Myshemd) for your character and it must reflect their physical appearance. 
 {.is-info}
@@ -61,3 +62,5 @@ Myshemd come in dark colours, and sometimes have light markings (e.g. dark red w
 Another trait that occurs exclusively to the Myshemd is the existence of glands on their fingertips which are able to secrete a poison that coats their claws. This poison has been known to cause blurred vision, loss of muscle control (twitching), and sometimes slight paralysis, when introduced into the bloodstream.
 
 The subject of Kytlekh, and subsequent worship of the Nothing, is a major source of conflict in Myshemd clan politics. Some clans still follow this religion and its philosophy; however, many have long since moved away from this to worship other deities.
+
+## Appendix
