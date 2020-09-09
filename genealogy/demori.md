@@ -19,7 +19,7 @@ Characters belonging and/or tightly associated to the family.
 
 ### Family Tree
 
-- Hart Demori and Malend Demori ☠️
+- Hart Demori and Malend Demori
     - Offspring: Stina Demori, Glador Demori, Malicint Demori
 
 ## History
