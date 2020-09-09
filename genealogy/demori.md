@@ -27,11 +27,3 @@ Characters belonging and/or tightly associated to the family.
 ### Influence and Influences
 
 - *No historical influences known.*
-
-History
-=======
-
-Influence and Influences
-------------------------
-
--   *No historical influences known.*

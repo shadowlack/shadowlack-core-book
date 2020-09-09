@@ -4,7 +4,6 @@ description:
 published: true
 date: 2012-08-09T06:35:38Z
 tags: genealogy, candrice iv, dragyn, upper class, swaraj
-author: iversia
 editor: markdown
 ---
 
@@ -39,13 +38,13 @@ One of the most catastrophic events in Dragyn history was the devastation at **C
 
 During the science expedition, the planet was invaded by the plague-like race, the [Rapine](/species/rapine).
 
-> “Sabe?” Koani said suddenly and extended her arm to point. “What is that?” Sabre looked in the direction that Koani was pointing in and was all of the sudden dumbstruck. “Sabe?” Koani prompted him.
-> “Ani, that's a ship,”  he said after a moment.
-> “I know what a ship looks like.”
-> “It's not one of ours though.”
-> “I know.” Koani hissed as panic began to rise in her voice. She knew it was a ship. She had already gone as far as to realize its origins. What she didn't want to do is be the first one to speak its name. A darkness was starting to form in the pit of her stomach and her mouth felt dry and uncomfortable.
-> “There's no way that ship could have gotten in here. Not without our knowledge. No amount of stealth technology could have thwarted our sensory sweeping. It would have been triggered by abnormal heat signatures, life signs...” Sabre stopped suddenly as a wave of both dread and realization washed over him. “Ani, we need to get back to the base right now.”
-> “Protocol Sabe... we need to inform Lorax and Draco before we do anything at all.” Koani said as her hand went to the gun that she had holstered on her right thigh. She touched it faintly. She had never been a very fabulous shot and the idea of this firearm being the only thing that might stand in the way of her own death struck fear into her. If only they were back on Ramath-lehi and with the comforting blanket of Fronima to draw from. They would have been able to use magic and drive the evil forces away. Out here in the confines of space and on a foreign planet, Koani was feeling very naked and alone.
+> "Sabe?" Koani said suddenly and extended her arm to point. "What is that?" Sabre looked in the direction that Koani was pointing in and was all of the sudden dumbstruck. "Sabe?" Koani prompted him.
+> "Ani, that's a ship,"  he said after a moment.
+> "I know what a ship looks like."
+> "It's not one of ours though."
+> "I know." Koani hissed as panic began to rise in her voice. She knew it was a ship. She had already gone as far as to realize its origins. What she didn't want to do is be the first one to speak its name. A darkness was starting to form in the pit of her stomach and her mouth felt dry and uncomfortable.
+> "There's no way that ship could have gotten in here. Not without our knowledge. No amount of stealth technology could have thwarted our sensory sweeping. It would have been triggered by abnormal heat signatures, life signs..." Sabre stopped suddenly as a wave of both dread and realization washed over him. "Ani, we need to get back to the base right now."
+> "Protocol Sabe... we need to inform Lorax and Draco before we do anything at all." Koani said as her hand went to the gun that she had holstered on her right thigh. She touched it faintly. She had never been a very fabulous shot and the idea of this firearm being the only thing that might stand in the way of her own death struck fear into her. If only they were back on Ramath-lehi and with the comforting blanket of Fronima to draw from. They would have been able to use magic and drive the evil forces away. Out here in the confines of space and on a foreign planet, Koani was feeling very naked and alone.
 
 The result was a bloodbath. Despite having the latest in Adamaint technology, the Dragyn ship failed and they were unable to make a hasty retreat. Many civilians died, including many that belonged to the Dragyn family. Nearly 80% of the science expedition was wiped out, and out of those, 8% of of the bodies were never retrieved. It was also during this expedition that Koani Grader disappeared, and was assumed to be deceased, only to appear seven years later.
 
