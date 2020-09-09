@@ -1,6 +1,6 @@
 ---
 title: Anubi
-description:
+description: Draco sapiens anubidis
 published: true
 date: 2007-10-18T21:04:19Z
 tags: species, anubi, desert, uhai desert, pwa desert, diseases
@@ -8,13 +8,20 @@ author: shriker
 editor: markdown
 ---
 
-*Draco sapiens anubidis pl. Anubi*
+| | |
+|-|-|
+| Plural        | *Anubi* |
+| Height        | 1.7 m (5 ft 7 in) - 2.23 m (7 ft 4 in) |
+| Weight        | 38.56 kg (85 lbs) - 81.65 kg (180 lbs) |
 
 The **Anubi** \[ˈa nuˌbaj\] are a scarce race that almost met extinction due to targeted biological warfare.
 
 They are fiercely protective of their culture and see all other races as inferior. Some are so strong in their beliefs that the Anubi bloodline should remain pure that they have turned to illegal cloning and genetic alteration laboratories.
 
 Anubi have tall pointed ears, narrow faces with long snouts, lithe and muscular frames, and long, thin tails. They appear naturally with the following combination of colours: tangerine, rust, beige, silver, tan, white, and black. Those with untrue colours to the Anubi race are often considered unclean by other Anubi. Eye colourations are gold, amber, black, dark brown, blue, green, or white, and sometimes are completely without visible pupils.
+
+> Anubi are known for their ability to survive in extreme desert climates. Anubi have a knack for Necromancy, magic involving darkness and shadows, Artistry, Astrology, Herbs and Medicine, Languages, History, Elemental Sorcery, and Elemental Kinesis.
+{.is-info}
 
 ## Reproduction
 
@@ -35,6 +42,10 @@ Anubi used stone and glass as their main building materials, making large sparkl
 
 During the Ramathian year 50,000, a strange and undocumented illness wreaked havoc upon the Anubi tribes, who by that time were thriving and one of the largest subspecies of Pendragons. Many fell victim to this bizarre Anubi-only disease. No remedies could be found, and it was thought that it was a magic-created virus, yet no counter-spells or healing could cure it. Those with it slowly deteriorated. In less than two years, the entire population of Anubi Pendragons was nearly wiped out. A few select survivors made it out of the strangling clot of disease, but to this day, they have never regained their vast numbers.
 
-> **Creation Notes**
-> Anubi are known for their ability to survive in extreme desert climates. Anubi have a knack for Necromancy, magic involving darkness and shadows, Artistry (which includes architecture, tattooing, painting, drawing, and sculpture), Astrology, Herbs and Medicine, Languages, History, Elemental Sorcery, and Elemental Kinesis.
-{.is-info}
+## See also
+
+- Anubian - the most popular Anubi religion.
+- Pyx'gesopeud Tradition - as practised by Anubians.
+- Quangest - a holiday to mourn the victims of the Anubi plague.
+- Krokino Prison
+- [Jolacom](/natural-resources/jolacom)
