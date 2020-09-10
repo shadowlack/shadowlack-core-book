@@ -8,6 +8,8 @@ author: shriker
 editor: markdown
 ---
 
+![An Aquabat. Image by shriker.](/species/aquabat-shriker.jpg =250x)
+
 | | |
 |-|-|
 | Plural        | *Aquabats* |

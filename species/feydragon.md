@@ -8,6 +8,8 @@ author: shriker
 editor: markdown
 ---
 
+![A Feydragon. Image by phylus.](/species/feydragon-phylus.png =250x)
+
 | | |
 |-|-|
 | Plural        | *Feydragons* |

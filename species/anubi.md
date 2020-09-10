@@ -7,6 +7,8 @@ tags: species, anubi, desert, uhai desert, pwa desert, diseases
 editor: markdown
 ---
 
+![An Anubi. Image by lautir.](/species/anubi-lautir.jpg =250x)
+
 | | |
 |-|-|
 | Plural        | *Anubi* |
@@ -68,5 +70,3 @@ During the Ramathian year 50,000, a strange and undocumented illness wreaked hav
 - Quangest - a holiday to mourn the victims of the Anubi plague.
 - Krokino Prison
 - [Jolacom](/natural-resources/jolacom)
-
-![lautir-anubi.jpg](/species/lautir-anubi.jpg =250x "An Anubi. Image by Lautir."){.align-abstopright}
