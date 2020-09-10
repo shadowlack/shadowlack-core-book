@@ -47,6 +47,12 @@ Anubi are extremely susceptible to disease due to inbreeding.
 
 There is an Anubi language, however only Anubi can use it and a select few half-breeds. There are under no circumstances any other subspecies of Pendragon that knows the Anubi language.
 
+```
+# Common (English) -> Anubian Cipher
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+O R S Q A G I B E G Z I J D U P T X C P Y Q H V N K
+```
+
 ### Religion
 
 The Anubi have a religion (Anubian) that differs from the rest of the world. It is cantered around central gods that manifest themselves in hidden temples that are scattered around the deserts.

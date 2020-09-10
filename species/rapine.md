@@ -8,6 +8,8 @@ author: shriker
 editor: markdown
 ---
 
+![Rathskellar the Rapine. Image by shriker.](/species/rapine-shriker.jpg =250x)
+
 | | |
 |-|-|
 | Plural        | *Rapine* |
@@ -23,20 +25,20 @@ Roughly every seven Ramathian years, the Rapine make their way to populated worl
 
 Rapine can be identified by their teeth, scales and claws. That's about all they have in common. The most common looking Rapine resembles a draconic alligator, but they they range from looking like some scaled wolf to a horse with teeth and claws, and depending upon the climate in which they were raised in, their scale colours and patterns can vary greatly as well.
 
-They are not the brightest of creatures, but when they group like they do, intelligence isn't needed.
+They are not the brightest of creatures, but when they swarm like they do, intelligence isn't needed.
 
 ### Rapine Sub-species
 
 * **Draconis Rapine** are the most dangerous sub-species of Rapine. They are huge. The size of small dragons, hence the name. They are more intelligent than normal Rapine, making them even more dangerous. Still not all that much is known about this specimen.
 * **Archeus Rapine** are quite different than the normal Rapine. They are still considered Rapine, but they have no eyes nor nose. They have cat-like ears that, instead of hearing, serve as infrared sensors. They are shaped like tadpoles with spiky thorns jutting out from their scales. They have an almost dolphin-like tail, and two raptor-like legs.
 
-### Soulsucking
+### Diet
 
 Any unfortunate soul that is killed by a Rapine is lost forever and does not return to Fronima, but rather gets pulled into the Nothing. Because most Pendragons fear the Nothing, they also fear the Rapine.
 
 ## Culture
 
-### Social Hierarchy
+### Social Structure
 
 The Rapine social structure is based upon meritocracy. One's rank in society is determined by their intelligence and merit. The more intelligent and competent the Rapine, the higher in society and more respected, powerful and feared they tend to be. The Draconis Rapine, due to selective breeding and genetic modifications, usually fill in the top ranks of the Rapine social order. Those with lower intelligence, or those who have been classified as civilians are often considered expendable and used for “grunt” or disposable jobs.
 
