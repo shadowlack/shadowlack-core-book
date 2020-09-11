@@ -86,6 +86,8 @@ The Yki are spiritual and superstitious people, each tribe worshipping a patron 
 
 Yki make their home on the continent of Dhruv, and on the sea ice that has this chill habitat landlocked most of the year.
 
+## History
+
 ## Appendix
 
 - [Sha Qyememd Tradition](/culture/sha-qyememd-tradition) A Yki marriage tradition.
@@ -94,10 +96,10 @@ Yki make their home on the continent of Dhruv, and on the sea ice that has this 
 
 A compiled list of the tribes that have been discovered by Ramathian scholars, and where their territories lie in Dhruv.
 
-- Bann
-- Dlukeajpjudym Tribe
-- Ekavyz Tribe
-- Gyetymapeka Tribe
-- Sompjufylv Tribe
-- Tmyfhuja Tribe
-- Tsyjnaudla Tribe
+- [Bann](/genealogy/bann)
+- [Dlukeajpjudym Tribe](/genealogy/dlukeajpjudym-tribe)
+- [Ekavyz Tribe](/genealogy/ekavyz-tribe)
+- [Gyetymapeka Tribe](/genealogy/gyetymapeka-tribe)
+- [Sompjufylv Tribe](/genealogy/sompjufylv-tribe)
+- [Tmyfhuja Tribe](/genealogy/tmyfhuja-tribe)
+- [Tsyjnaudla Tribe](/genealogy/tsyjnaudla-tribe)

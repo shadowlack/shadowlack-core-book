@@ -13,7 +13,9 @@ A nomadic and very violent Takula clan.
 
 ### Defining Characteristics
 
-- No defining characteristics.
+![Dusa Doujpeumt characteristics. Image by lautir.](/species/takula-lautir-dusa.png =250x)
+
+- Long fins on the backs of their heads.
 
 ## Members
 

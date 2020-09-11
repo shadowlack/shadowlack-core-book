@@ -9,11 +9,11 @@ editor: markdown
 
 ## About
 
-All about the family. Hospitable but aggressive towards the [VejaTci Tribe](/genealogy/vejatci-tribe "wikilink").
+All about the family. Hospitable but aggressive towards the [VejaTci Tribe](/genealogy/vejatci-tribe).
 
 ### Defining Characteristics
 
--
+![Dusa Doujpeumt characteristics. Image by lautir.](/species/takula-lautir-ekatci.png =250x)
 
 ## Members
 

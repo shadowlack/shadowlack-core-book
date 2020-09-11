@@ -13,6 +13,8 @@ All about the VejaTci Tribe family. Hospitable but aggressive towards the [EkaTc
 
 ### Defining Characteristics
 
+![VejaTci tribe characteristics. Image by lautir.](/species/takula-lautir-vejatci.png =250x)
+
 - The VejaTci tribe often had long, slender faces.
 - Often they have patches of quills that grow along their spine or limbs.
 

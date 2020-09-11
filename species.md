@@ -13,7 +13,7 @@ All species at Shadowlack have been player-created.
 ## Ramathian Species
 
 - [:sunny: Anubi *Lithe and muscular creatures who thrive in extreme desert climates.*](/species/anubi)
-- [:trident: Aquabat *Amphibious, and spend a majority of their life in oceans, seas, inlets, and freshwater lakes.*](/species/aquabat "wikilink")
+- [:trident: Aquabat *Amphibious, and spend a majority of their life in oceans, seas, inlets, and freshwater lakes.*](/species/aquabat)
 - [:cherry_blossom: Feydragon *An ancient subspecies with deep ties to the magic they wield.*](/species/feydragon)
 - [:rocket: Khell *Well equipped for the frigid Trilok continent.*](/species/khell)
 - [:cyclone: Lukuo *A species that has a variety of genetic mutations.*](/species/lukuo)

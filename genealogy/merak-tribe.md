@@ -13,6 +13,8 @@ All about the Merak Tribe family.
 
 ### Defining Characteristics
 
+![Merak tribe characteristics. Image by lautir.](/species/takula-lautir-merak.png =250x)
+
 - Very hostile/racist toward non-Takula.
 - Most tribe members are adorned with spikes or horns. These can appear anywhere on the Takula's body.
 - Making home in swampland many Merak members have fins and webbed digits to help them move through water.
