@@ -22,3 +22,17 @@ editor: markdown
 - **Sorry:** 
 - **Please:** 
 - **Thank you:** 
+
+### Time Terminology
+
+- Tak (a second)
+- Mosa (a minute)
+- Fues (an hour)
+- Aujli (morning)
+- Darkli (night)
+- Nehlt-sena (daytime)
+- Jidp-sena (nighttime)
+- Pui (day)
+- Paquite (week)
+- Paquitten (weekend)
+- Hatching (birthday)

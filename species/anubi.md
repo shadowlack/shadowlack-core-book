@@ -64,7 +64,7 @@ During the Ramathian year 50,000, a strange and undocumented illness wreaked hav
 - [Anubian, Language *The spoken language of the Anubi.*](/languages/anubian)
 - Anubian, Religion - the most popular Anubi religion.
 - [Pyx'gesopeud Tradition](/traditions/pyxgesopeud-tradition)
-- Quangest - a holiday to mourn the victims of the Anubi plague.
+- [Quangest](/calendar/quangest) - A holiday to mourn the victims of the Anubi plague.
 - Krokino Prison
 - [Jolacom *A magic-suppressing natural resource.*](/natural-resources/jolacom)
 {.links-list}
