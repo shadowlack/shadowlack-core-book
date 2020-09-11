@@ -3,7 +3,7 @@ title: Vampirism
 description: A drastically transformative magia morbus.
 published: true
 date: 2020-09-06T22:41:03.415Z
-tags: 
+tags: diseases, vampirism, magia morbii
 editor: undefined
 ---
 
@@ -70,3 +70,5 @@ Not much is known about the origins of vampdragons, but it is a common belief th
 When a pendragon is turned into a vampire their soul is in put into a type of limbo, they aren’t really alive and are not really dead. Their body remains on the planet as a vampire. Once they are killed as a vampire they have a chance of getting themselves into Fronima. If they have the willpower they can push their own soul into Fronima. If not, which is usually the case, their souls will just fade away and never reach the peaceful resting place in Fronima.
 
 ## Prevention and Treatment
+
+Feeding off of the [Bloodweed](/floras/bloodweed) plant can delay the need to consume living creatures indefinitely.

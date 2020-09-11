@@ -3,8 +3,8 @@ title: Kycgeja-Kycyja-Gjytkeoduja
 description: A cancerous disease resulting in loss of skin colour.
 published: true
 date: 2020-09-06T22:40:38.375Z
-tags: 
-editor: undefined
+tags: diseases, cancerous diseases
+editor: markdown
 ---
 
 **Kycgeja-Kycyja-Gjytkeoduja** (*colpire-colore-prosciugare*), also known as **KKG**, is a cancerous disease that strips the colour from one's pelt and may cause death if not properly treated.

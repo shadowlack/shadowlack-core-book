@@ -38,7 +38,7 @@ A family tree has not been created.
 
 ### Influence and Influences
 
-- Gradre A type of Apllea fruit.
+- [Gradre](/floras/apllea) A type of apllea fruit.
 - [Grading](/traditions/grading-system) The system of being ranked or "graded" as a mark of great achievement.
 - *A Grader's Way Phrase*. To die suddenly and/or by possible conspiracy.
 

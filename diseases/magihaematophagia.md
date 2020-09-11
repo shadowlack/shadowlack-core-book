@@ -3,8 +3,8 @@ title: Magihaematophagia
 description: A magia morbus affecting the digestive system. Sometimes called "Proto-Vampirism".
 published: true
 date: 2020-09-06T22:40:44.388Z
-tags: 
-editor: undefined
+tags: diseases, magia morbii, vampirism
+editor: markdown
 ---
 
 **Magihaematophagia** is a *magia morbus*, or magical disease. 

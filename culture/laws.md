@@ -31,7 +31,7 @@ There is no legal minimum drinking age. Anyone, regardless of their age, may con
 
 There are some recreational drugs that Ramathians may use, should the desire arise (such as [Nujeq](/floras/nujeq "wikilink")). However there are several illegal substances that one is not to be in possession of.
 
-- Lomaleli, which is often used as a slow-killing poison.
+- [Lomaleli](/floras/lomaleli), which is often used as a slow-killing poison.
 - Muses are a very popular drug sold on the Black Markets in Bhim. It comes in several types, and is exceptionally dangerous due to how it interacts with the brain. It can cause memory loss, insanity, and even death. It is also highly addictive.
-- Nuzu is the street name for Nujeq combined with Rizu. While both substances are legal on their own, the combination of Nujeq and Rizu is illegal due to the dangerous nature of the mixture. It has been known to cause sudden death, as well as various other serious side-effects.
-- Paupfaedhs
+- **Nuzu** is the street name for [Nujeq](/floras/nujeq) combined with [Rizu](/floras/rizu). While both substances are legal on their own, the combination of Nujeq and Rizu is illegal due to the dangerous nature of the mixture. It has been known to cause sudden death, as well as various other serious side-effects.
+- Paupfaedhs, a powder that causes the drinker to sink when they enter water.
