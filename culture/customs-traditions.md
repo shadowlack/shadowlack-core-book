@@ -15,7 +15,7 @@ Touch is generally avoided by mages, who are more wary of touch-driven curses. W
 
 ## Tattoos
 
-Tattoos are a large part of the planet life on Ramath-lehi. Tattoos are so culturally ingrained in Ramathian society, that it is actually considered weird for someone to not have tattoos. One of the oldest practises involves getting [Grading Stripes](/culture/grading-system) which are tattooed stripes that Ramathians would receive for recognition of a great achievement. While dated, many Ramathians still get visible Grading Stripes - usually on their faces. However they are not always given out by the Grader family, which was who the tradition originated with. Instead there are many families who chose to reward their own kin with their own markings and insignia.
+Tattoos are a large part of the planet life on Ramath-lehi. Tattoos are so culturally ingrained in Ramathian society, that it is actually considered weird for someone to not have tattoos. One of the oldest practises involves getting [Grading Stripes](/traditions/grading-system) which are tattooed stripes that Ramathians would receive for recognition of a great achievement. While dated, many Ramathians still get visible Grading Stripes - usually on their faces. However they are not always given out by the Grader family, which was who the tradition originated with. Instead there are many families who chose to reward their own kin with their own markings and insignia.
 
 Tattoos have also become more complicated and ornate over the years. Sometimes Ramathians even get their tattoos “infused” with special magic properties using a special Fronimium ink. These can vary from simple glowing, to colour changes, or even giving off heat. It takes a very skilled mage and tattoo artist to create these particular permanent works of art, and they often do not come cheap.
 
@@ -35,14 +35,14 @@ When a tattoo has been done with Fronimium-based ink, it is then later possible 
 
 It is not uncommon for family sizes to be very large. Some families have had up to twenty offspring. However the most average family size consists of two parents, and three to four offspring. Being an only child is very uncommon.
 
-## Marriage
+## Marriage Traditions
 
-- [Addfesmatt Fastening Tradition *An upper class Swarajian wedding tradition.*](/culture/addfesmatt-fastening-tradition)
-- [Omesea *A marriage tradition dedicated specifically to same sex couples.*](/culture/omesea)
-- [Omesjei Tradition *A simple marriage tradition with emphasis on friends and family and tail-flame born jewelry.*](/culture/omesjei-tradition)
-- [Pyx'gesopeud Tradition *A highly religious Anubian marriage tradition.*](/culture/pyxgesopeud-tradition)
-- [Rympemd Tradition *A rather modern marriage tradition from Sudesha.*](/culture/rympemd-tradition)
-- [Sha Qyememd Tradition *A highly popular marriage tradition for Yki.*](/culture/sha-qyememd-tradition)
+- [Addfesmatt Fastening Tradition *An upper class Swarajian wedding tradition.*](/traditions/addfesmatt-fastening-tradition)
+- [Omesea *A marriage tradition dedicated specifically to same sex couples.*](/traditions/omesea)
+- [Omesjei Tradition *A simple marriage tradition with emphasis on friends and family and tail-flame born jewelry.*](/traditions/omesjei-tradition)
+- [Pyx'gesopeud Tradition *A highly religious Anubian marriage tradition.*](/traditions/pyxgesopeud-tradition)
+- [Rympemd Tradition *A rather modern marriage tradition from Sudesha.*](/traditions/rympemd-tradition)
+- [Sha Qyememd Tradition *A highly popular marriage tradition for Yki.*](/traditions/sha-qyememd-tradition)
 {.links-list}
 
 ## Egg Shells

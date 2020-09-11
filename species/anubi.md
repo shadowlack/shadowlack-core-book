@@ -43,16 +43,6 @@ Anubi are extremely susceptible to disease due to inbreeding.
 
 ## Culture
 
-### Language
-
-There is an Anubi language, however only Anubi can use it and a select few half-breeds. There are under no circumstances any other subspecies of Pendragon that knows the Anubi language.
-
-```
-# Common (English) -> Anubian Cipher
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-O R S Q A G I B E G Z I J D U P T X C P Y Q H V N K
-```
-
 ### Religion
 
 The Anubi have a religion (Anubian) that differs from the rest of the world. It is cantered around central gods that manifest themselves in hidden temples that are scattered around the deserts.
@@ -71,8 +61,10 @@ During the Ramathian year 50,000, a strange and undocumented illness wreaked hav
 
 ## Appendix
 
-- Anubian - the most popular Anubi religion.
-- [Pyx'gesopeud Tradition](/culture/pyxgesopeud-tradition) - as practised by Anubians.
+- [Anubian, Language *The spoken language of the Anubi.*](/languages/anubian)
+- Anubian, Religion - the most popular Anubi religion.
+- [Pyx'gesopeud Tradition](/traditions/pyxgesopeud-tradition)
 - Quangest - a holiday to mourn the victims of the Anubi plague.
 - Krokino Prison
-- [Jolacom](/natural-resources/jolacom)
+- [Jolacom *A magic-suppressing natural resource.*](/natural-resources/jolacom)
+{.links-list}

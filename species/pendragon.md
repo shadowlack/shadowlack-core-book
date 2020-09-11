@@ -79,10 +79,10 @@ Males and females are equal caretakers. Males will help to incubate the egg, as 
 
 #### Traditions
 
-- [Addfesmatt Fastening Tradition *An upper class Swarajian wedding tradition.*](/culture/addfesmatt-fastening-tradition)
-- [Omesea *A marriage tradition dedicated specifically to same sex couples.*](/culture/omesea)
-- [Omesjei Tradition *A simple marriage tradition with emphasis on friends and family and tail-flame born jewelry.*](/culture/omesjei-tradition)
-- [Rympemd Tradition *A rather modern marriage tradition from Sudesha.*](/culture/rympemd-tradition)
+- [Addfesmatt Fastening Tradition *An upper class Swarajian wedding tradition.*](/traditions/addfesmatt-fastening-tradition)
+- [Omesea *A marriage tradition dedicated specifically to same sex couples.*](/traditions/omesea)
+- [Omesjei Tradition *A simple marriage tradition with emphasis on friends and family and tail-flame born jewelry.*](/traditions/omesjei-tradition)
+- [Rympemd Tradition *A rather modern marriage tradition from Sudesha.*](/traditions/rympemd-tradition)
 {.links-list}
 
 ## Habitat

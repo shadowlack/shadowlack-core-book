@@ -23,7 +23,7 @@ Yki always have white coats, with a secondary colour for markings, hair, and tai
 
 There is a particular hereditary gene found in a few Yki families, particularity the Jori and Tuggheja clans. The gene is recessive, and carried by the female, although it only seems to manifest itself in males. It affects the Yki's secondary colour, reversing the pelts colours so that the secondary colour overwhelms the white base. To all appearances the affected Yki seems to be a reverse of a normal individual, with white markings on a colour base instead of the opposite.
 
-Tribes identify each other by facial tattoos, given when a kit turns five. These tattoos are unique to each tribe, and are added to as the Yki matures; given in recognition of specific events, much like the [grading process](/culture/grading-system) in use in other parts of the world. A few of the more southern tribes grow out their fur and hair and wear it in dreadlocks, and then adored with beads and other ornaments made of coloured stones or metal.
+Tribes identify each other by facial tattoos, given when a kit turns five. These tattoos are unique to each tribe, and are added to as the Yki matures; given in recognition of specific events, much like the [grading process](/traditions/grading-system) in use in other parts of the world. A few of the more southern tribes grow out their fur and hair and wear it in dreadlocks, and then adored with beads and other ornaments made of coloured stones or metal.
 
 > Unless you have stated in your character's profile that your character is of non-tribe descent, please include what tribe your character belongs to. Yki have white coats, with a secondary color for markings, hair, and tail flame (in males). If you create a Yki, its base coat should be white.
 {.is-info}
@@ -74,10 +74,6 @@ Tribes identify each other by facial tattoos, and various styles of body ornamen
 
 Most tribes get along quite well; encouraging trade and apprentices exchange systems. Some tribes are more introverted than others, but all are wary of outsiders, strange Pendragons who come from the south to study their seemingly *barbaric* lifestyle. 
 
-### Language
-
-The Yki speak a sub-dialect of Ramathian, referred to as Ykili, but a few of the older, more learned individuals have taught themselves Common (English).
-
 ### Religion
 
 The Yki are spiritual and superstitious people, each tribe worshipping a patron deity. It is not unusual for a tribe shaman or seer to select a kit, and name it the tribe Dyp'khelp, or god child. This child is raised by the tribe priest or priestess, and is the centre of many religious ceremonies within the tribe. The chosen Yki is said to bring good luck, but if killed the tribe will be cursed. It is not uncommon for warring tribes to attempt to kidnap their enemies' Dyp'khelp, for a tribe without their godchild cannot hope to win against those with their deity’s support, and will immediately surrender.
@@ -90,7 +86,8 @@ Yki make their home on the continent of Dhruv, and on the sea ice that has this 
 
 ## Appendix
 
-- [Sha Qyememd Tradition](/culture/sha-qyememd-tradition) A Yki marriage tradition.
+- [Ykili](/languages/ykili) The Yki language.
+- [Sha Qyememd Tradition](/traditions/sha-qyememd-tradition) A Yki marriage tradition.
 
 ### Known Tribes
 

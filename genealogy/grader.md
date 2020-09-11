@@ -21,7 +21,7 @@ Many formidable mages have belonged to the Grader family, and their natural ties
 - Predominantly orange, pale green, or pale blue eyes
 - Often have blue blood
 - Are almost always incredibly adept with Magic, as they have strong ties to Fronima
-- Being [Graded](/culture/grading-system) by a Grader is considered one of the greatest honours on Ramath-lehi
+- Being [Graded](/traditions/grading-system) by a Grader is considered one of the greatest honours on Ramath-lehi
 - Are tied to many Ramathian conspiracies
     - The vague knowledge of which has spawned the phrase *A Grader's Way*, which means "to die suddenly and/or by possible conspiracy"
 - Are often portrayed as being untrustworthy, despite no substantial evidence
@@ -39,7 +39,7 @@ A family tree has not been created.
 ### Influence and Influences
 
 - Gradre A type of Apllea fruit.
-- [Grading](/culture/grading-system) The system of being ranked or "graded" as a mark of great achievement.
+- [Grading](/traditions/grading-system) The system of being ranked or "graded" as a mark of great achievement.
 - *A Grader's Way Phrase*. To die suddenly and/or by possible conspiracy.
 
 ### Notable Figures
