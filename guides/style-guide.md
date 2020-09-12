@@ -2,7 +2,7 @@
 title: Manual of Style
 description: Basic style guidelines to follow when editing or creating new pages in order to keep the wiki consistent. 
 published: true
-date: 2020-09-12T22:23:50.069Z
+date: 2020-09-12T22:28:49.994Z
 tags: guides
 editor: markdown
 dateCreated: 2020-09-12T21:26:20.462Z
@@ -40,11 +40,10 @@ Use the Metric system for units of measurement.
 
 ## Earth similies
 
-Please do not reference Earth (Terran) events or Humans when contributing to the wiki. Earth does not exist in our game. You should avoid writing descriptors such as:
+Do not reference Earth (Terran) events or Humans when contributing to the wiki. Earth does not exist in our game. Avoid writing descriptors such as:
 
 - "similar to an Earth crocodile"
-- "fox-like"
-- "like Harry Potter"
+- "bear-like"
 
 ## Accepted abbreviations
 
@@ -61,7 +60,9 @@ Please do not reference Earth (Terran) events or Humans when contributing to the
 
 An example naming convention:
 - `<article-name>-<username>.png`
+	- `<article-name>-<username>-<extra-info>.png`
 - `aquabat-shriker.png`
+	- `aquabat-shriker-swimming-around.png`
 
 Having your username in the image file name ensures that you are able to be properly given attribution credit.
 
