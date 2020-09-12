@@ -2,9 +2,9 @@
 title: Pendragon
 description: Draco sapiens
 published: true
-date: 2020-09-11T21:07:02.210Z
-tags: 
-editor: undefined
+date: 2020-09-12T22:05:55.844Z
+tags: species
+editor: markdown
 dateCreated: 2020-09-09T18:56:45.222Z
 ---
 
@@ -54,6 +54,9 @@ In the "internal phase," i.e., during the twenty days when the egg is still with
 ### Health
 
 In a perfect world, Pendragons would have no set life span; they grow more powerful as they age. They could live near forever if it wasn't for elements, murder, illness, and accidental deaths. However, the average life expectancy of any given pendragon is roughly 80 to 140 years.
+
+> Pendragons start with bonuses to Pilot and Physique.
+{.is-success}
 
 ### Diet
 
