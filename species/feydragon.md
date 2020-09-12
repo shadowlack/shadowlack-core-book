@@ -2,9 +2,9 @@
 title: Feydragon
 description: Draco sapiens pauxillulus
 published: true
-date: 2020-09-11T21:06:19.521Z
-tags: 
-editor: undefined
+date: 2020-09-12T22:01:54.223Z
+tags: species, fronima, magic
+editor: markdown
 dateCreated: 2020-09-09T00:28:13.609Z
 ---
 
@@ -29,6 +29,15 @@ Most notably, the Fey are smaller; on average and when fully-grown, quadrupeds a
 Fey always have wings and tail-flames. Fey wings are one of the most varied parts of their appearance; wings that would be biologically impossible, yet are capable of working, are not uncommon, and in fact are a good way of spotting a Fey.
 
 Nearly all Fey wear special tattoos, often related to their bloodlines and infused with Fronima. This technique was developed long before technology, and it continues to be used frequently, due to it being much cleaner and generally less painful and dangerous than regular tattoo artistry.
+
+### Sexual Dimorphism
+
+### Reproduction
+
+### Health
+
+> Feydragons start with bonuses to Fronima and Empathy.
+{.is-success}
 
 ## Feydragon Sub-species
 
