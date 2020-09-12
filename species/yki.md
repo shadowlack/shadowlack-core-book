@@ -2,9 +2,9 @@
 title: Yki
 description: Draco sapiens albusglacies
 published: true
-date: 2020-09-11T21:07:34.539Z
-tags: 
-editor: undefined
+date: 2020-09-12T22:07:54.765Z
+tags: species
+editor: markdown
 dateCreated: 2020-09-09T18:57:12.312Z
 ---
 
@@ -40,6 +40,9 @@ Unlike Pendragons, Yki are *not oviparous* – that is, they do not lay eggs, in
 ### Health
 
 Yki are susceptible to respiratory disease, and whole clans have been wiped out by a strange, pneumonia-like illness. Some of the clans are elitists, and do not condone mating with others outside the tribe; as such at least one clan has been having problems with the newest generation falling victim to genetic diseases such as hip dysplasia.
+
+> Yki start with bonuses to Artistry and Deceive.
+{.is-success}
 
 ### Diet
 
