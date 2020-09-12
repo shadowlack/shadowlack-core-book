@@ -2,7 +2,7 @@
 title: Manual of Style
 description: Basic style guidelines to follow when editing or creating new pages in order to keep the wiki consistent. 
 published: true
-date: 2020-09-12T22:17:47.276Z
+date: 2020-09-12T22:18:34.696Z
 tags: guides
 editor: markdown
 dateCreated: 2020-09-12T21:26:20.462Z
@@ -36,7 +36,7 @@ Italics are used for emphasis, rather than boldface or capitals. But overuse dim
 
 ## Units of measurement
 
-All units of measurement should be provided using the Metric system.
+Use the Metric system for units of measurement.
 
 ## Earth similies
 
