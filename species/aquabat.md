@@ -2,9 +2,9 @@
 title: Aquabat
 description: Resaquatilis sapiens
 published: true
-date: 2020-09-11T21:06:08.406Z
-tags: 
-editor: undefined
+date: 2020-09-12T21:59:37.272Z
+tags: species, aquatic, marine, amphibious
+editor: markdown
 dateCreated: 2020-09-09T00:28:04.452Z
 ---
 
@@ -34,6 +34,9 @@ Females carry the eggs in a pouch instead of leaving them in a nest, where they 
 To prevent inbreeding, Aquabats seek mates outside of the pack. Young Aquabats will sometimes leave their birth pack to join a mate in theirs, but the more common scenario is for two young Aquabats to meet, mate, and then move on, with the female of the encounter raising the young. A few Aquabats are monogamous, and more likely to switch packs, while most are polyamorous.
 
 ### Health
+
+> Aquabats start with bonuses to Athletics and Notice.
+{.is-success}
 
 ### Diet
 
