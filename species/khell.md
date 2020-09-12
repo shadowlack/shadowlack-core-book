@@ -2,9 +2,9 @@
 title: Khell
 description: Draco sapiens niteoliquidus
 published: true
-date: 2020-09-11T21:06:41.941Z
-tags: 
-editor: undefined
+date: 2020-09-12T22:03:15.184Z
+tags: trilok, inventors, species
+editor: markdown
 dateCreated: 2020-09-09T18:56:26.369Z
 ---
 
@@ -28,6 +28,11 @@ Males have much longer guard-hairs (up to 15 cm long for females and 40 cm for m
 ### Diet
 
 Khellin are highly carnivorous and are unable to survive on a vegetarian diet. They possess large scooped claws which are amazing for digging through earth and ice, and have special molars that allow them to rip apart meat or carrion that has been frozen solid.
+
+### Health
+
+> Khellin start with bonuses to Technology and Fight.
+{.is-success}
 
 ## Culture
 
