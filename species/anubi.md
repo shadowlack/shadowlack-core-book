@@ -2,9 +2,9 @@
 title: Anubi
 description: Draco sapiens anubidis
 published: true
-date: 2020-09-11T21:05:57.518Z
-tags: 
-editor: undefined
+date: 2020-09-12T21:58:46.024Z
+tags: diseases, anubi, species, desert, uhai desert, pwa desert
+editor: markdown
 dateCreated: 2020-09-08T02:19:14.951Z
 ---
 
@@ -41,6 +41,9 @@ Anubi would do almost anything in order to keep their ancient and royal bloodlin
 ### Health
 
 Anubi are extremely susceptible to disease due to inbreeding.
+
+> Anubi start with bonuses to Biotech and Lore.
+{.is-success}
 
 ## Culture
 
