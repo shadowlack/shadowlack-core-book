@@ -2,7 +2,7 @@
 title: Manual of Style
 description: Basic style guidelines to follow when editing or creating new pages in order to keep the wiki consistent. 
 published: true
-date: 2020-09-12T22:18:34.696Z
+date: 2020-09-12T22:23:50.069Z
 tags: guides
 editor: markdown
 dateCreated: 2020-09-12T21:26:20.462Z
@@ -55,7 +55,15 @@ Please do not reference Earth (Terran) events or Humans when contributing to the
 
 ### Images
 
-Images uploaded should be in **.png** format.
+1. Upload images in **.png** format.
+2. Use lowercase letters in the file name.
+3. Put the article name and your Shadowlack username in the file name.
+
+An example naming convention:
+- `<article-name>-<username>.png`
+- `aquabat-shriker.png`
+
+Having your username in the image file name ensures that you are able to be properly given attribution credit.
 
 ## Spelling
 
