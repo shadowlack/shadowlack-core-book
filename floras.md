@@ -2,7 +2,7 @@
 title: Floras
 description: Plant, bacterial, or fungal life.
 published: true
-date: 2020-09-12T19:48:42.709Z
+date: 2020-09-12T20:40:28.604Z
 tags: floras
 editor: markdown
 dateCreated: 2020-09-12T19:16:15.298Z
@@ -21,7 +21,6 @@ dateCreated: 2020-09-12T19:16:15.298Z
 
 ### Deserts
 
-- [Kilofyr](/floras/kilofyr)
 
 ### Forests
 
@@ -95,3 +94,7 @@ dateCreated: 2020-09-12T19:16:15.298Z
 - [Squeet](/floras/squeet)
 - [Skrud](/floras/skrud)
 - [Smoke Root](/floras/smoke-root)
+
+## Mythological
+
+- [Kilofyr](/floras/kilofyr)
