@@ -2,9 +2,9 @@
 title: Takula
 description: Draco sapiens lacerta
 published: true
-date: 2020-09-11T21:07:23.743Z
-tags: 
-editor: undefined
+date: 2020-09-12T22:06:44.593Z
+tags: species, jungles
+editor: markdown
 dateCreated: 2020-09-09T18:57:01.855Z
 ---
 
@@ -48,6 +48,9 @@ This very impersonal and somewhat grizzly method of reproduction has its flaws b
 ### Health
 
 Takula are unable to survive in colder climates. Their cold-blooded nature makes this impossible.
+
+> Takula start with bonuses to Physique and Fight.
+{.is-success}
 
 ### Diet
 
