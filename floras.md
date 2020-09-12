@@ -2,32 +2,57 @@
 title: Floras
 description: Plant, bacterial, or fungal life.
 published: true
-date: 2020-09-12T19:16:15.299Z
+date: 2020-09-12T19:29:46.151Z
 tags: floras
 editor: markdown
 dateCreated: 2020-09-12T19:16:15.298Z
 ---
 
-## Arctic
+## Location
 
-## Cities
+### Arctic
 
-## Coastal
+- [Lomaleli](/floras/lomaleli)
 
-## Deserts
+### Coastal
 
-## Forests
+- [Tupmatt Sjaa](/floras/tupmatt-sjaa)
 
-## Jungles
+### Deserts
 
-## Mountains
+### Forests
 
-## Oceans
+- [Onye Sjaa](/floras/onye-sjaa)
+- [Rojtsemd Yjumda Sjaa](/floras/rojtsemd-yjumda-sjaa)
 
-## Plains
+### Jungles
 
-## Rivers
+- [Korvandra](/floras/korvandra)
+- [Luceshtaf](/floras/luceshtaf)
+- [Skeleton Tree](/floras/skeleton-tree)
 
-## Swamps
+### Mountains
 
-## Underdark/Caves
+### Plains
+
+- [Achaela](/floras/achaela)
+- [Alneak](/floras/alneak)
+- [Toaal](/floras/toaal)
+
+### Underdark/Caves
+
+- [Rot Worm](/floras/rot-worm)
+
+## Aquatic
+
+### Oceans
+
+- [Trulear](/floras/trulear)
+- [Zomachubh](/floras/zomachubh)
+
+### Rivers
+
+### Swamps
+
+- [Bloodweed](/floras/bloodweed)
+- [Squeet](/floras/squeet)
