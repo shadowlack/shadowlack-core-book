@@ -2,7 +2,7 @@
 title: Floras
 description: Plant, bacterial, or fungal life.
 published: true
-date: 2020-09-12T20:40:28.604Z
+date: 2020-09-12T20:42:42.813Z
 tags: floras
 editor: markdown
 dateCreated: 2020-09-12T19:16:15.298Z
@@ -71,7 +71,6 @@ dateCreated: 2020-09-12T19:16:15.298Z
 - [Florni Marei](/floras/florni-marei)
 - [Gartarp](/floras/gartarp)
 - [Nujeq](/floras/nujeq)
-- [Rot Worm](/floras/rot-worm)
 - [Skrud](/floras/skrud)
 - [Smoke Root](/floras/smoke-root)
 
@@ -81,7 +80,6 @@ dateCreated: 2020-09-12T19:16:15.298Z
 
 - [Seefak](/floras/seefak)
 - [Trulear](/floras/trulear)
-- [Zomachubh](/floras/zomachubh)
 
 ### Rivers and Lakes
 
@@ -97,4 +95,8 @@ dateCreated: 2020-09-12T19:16:15.298Z
 
 ## Mythological
 
+Floras that are rumoured to exist only in myth and legend.
+
 - [Kilofyr](/floras/kilofyr)
+- [Rot Worm](/floras/rot-worm)
+- [Zomachubh](/floras/zomachubh)
