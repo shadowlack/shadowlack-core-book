@@ -2,7 +2,7 @@
 title: Manual of Style
 description: Basic style guidelines to follow when editing or creating new pages in order to keep the wiki consistent. 
 published: true
-date: 2020-09-12T22:28:49.994Z
+date: 2020-09-12T22:30:39.073Z
 tags: guides
 editor: markdown
 dateCreated: 2020-09-12T21:26:20.462Z
@@ -72,4 +72,4 @@ A quick spellcheck before saving your edit is greatly appreciated.
 
 ### British/Canadian or American spelling?
 
-Either spelling is *correct*, so do not unnecessarily edit articles to change the spelling. However, as Shadowlack is based out of Canada, the default spelling is **Canadian English**.
+Either spelling is *correct*. Do not unnecessarily edit articles to change the spelling. However, as Shadowlack is based out of Canada, the default spelling is **Canadian English**.
