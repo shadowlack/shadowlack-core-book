@@ -1,10 +1,11 @@
 ---
 title: Demori
-description:
+description: 
 published: true
-date: 2012-08-10T21:13:22Z
-tags: genealogy, pendragon, middle class
-editor: markdown
+date: 2020-09-11T20:47:13.015Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:29:51.934Z
 ---
 
 ## About

@@ -1,10 +1,11 @@
 ---
 title: Dragyn
-description:
+description: 
 published: true
-date: 2012-08-09T06:35:38Z
-tags: genealogy, candrice iv, dragyn, upper class, swaraj
-editor: markdown
+date: 2020-09-11T20:47:33.103Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:30:33.675Z
 ---
 
 ## About

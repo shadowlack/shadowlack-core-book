@@ -2,10 +2,10 @@
 title: Feydragon
 description: Draco sapiens pauxillulus
 published: true
-date: 2007-10-18T21:19:28Z
-tags: species, fronima, magic
-author: shriker
-editor: markdown
+date: 2020-09-11T21:06:19.521Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T00:28:13.609Z
 ---
 
 ![A Feydragon. Image by phylus.](/species/feydragon-phylus.png =250x)

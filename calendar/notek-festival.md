@@ -2,9 +2,10 @@
 title: Notek Festival
 description: A massively popular music festival.
 published: true
-date: 2012-08-24T20:41:27Z
-tags: calendar, holidays
-editor: markdown
+date: 2020-09-11T20:34:35.003Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T18:44:42.848Z
 ---
 
 The Notek Festival is a musical party for music lovers, creators and performers of all kinds. In the four days of Tria 237th - 240th there are all sort of activates that have something to do with music. Everyone is free to pay for a camp site on the outside of the field where they can spend their nights after a day in the field. The festival takes place in a large field on the out side of Vivuli Jungle, this is its 5th year of being held and each year they try and make it better then the one before.

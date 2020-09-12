@@ -1,10 +1,11 @@
 ---
 title: Trulear
-description:
+description: 
 published: true
-date: 2010-03-22T02:30:51Z
-tags: floras, aquatic, uncommon, small
-editor: markdown
+date: 2020-09-11T20:46:11.644Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:45:35.801Z
 ---
 
 A pretty and slender looking aquatic flower with a long neck and an expanded bulb like base (50 to 60cm high and 15 to 25 cm wide). Dark grey roots cling onto rock surfaces where it is found — It cannot take hold in the sandy ocean bottom due to the fineness of its roots - And allow it to stay affixed even in strong underwater currents. It is known to be a carnivorous plant that lures small to medium sized fish in its grasp with its unusual colours and worm-like lures.

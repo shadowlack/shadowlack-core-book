@@ -1,11 +1,11 @@
 ---
 title: Lorkhos Adamaint
-description:
+description: 
 published: true
-date: 2013-01-28T00:53:48Z
-tags: government
-author: nasuella
-editor: markdown
+date: 2020-09-11T20:53:13.232Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-07T02:12:48.139Z
 ---
 
 All about .

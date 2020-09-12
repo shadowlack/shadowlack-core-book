@@ -1,10 +1,11 @@
 ---
 title: Rot Worm
-description:
+description: 
 published: true
-date: 2010-03-03T17:20:39Z
-tags: floras, mythological, astronomical
-editor: markdown
+date: 2020-09-11T20:44:50.082Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:43:37.451Z
 ---
 
 The rot worm is said to be a slug-like blob, with spiny roots that can reach into outer space, if required. It's said to have a mouth like a leech on top, capable of consuming an adult Pendragon in a single "bite".

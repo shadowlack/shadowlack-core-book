@@ -2,9 +2,10 @@
 title: Menlo Team Game Play
 description: Menlo with opposing teams and capture-the-flag element.
 published: true
-date: 2020-09-06T22:41:52.253Z
+date: 2020-09-11T20:40:19.939Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T17:20:07.809Z
 ---
 
 The **Menlo Team** league is a relatively recent development in the history of the Menlo Competitions Corporation, and as such the more involved rules are still being changed and refined with each passing tournament. The team games play out like capture the flag, where each team has a ‘flag’ called a Standard, and a team must be in possession of both Standards, or disable all members of the opposing team to win a match.

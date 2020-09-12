@@ -2,10 +2,10 @@
 title: Riot Stormwing
 description: Once beat up a political figure.
 published: true
-date: 2012-08-10T21:02:20Z
-tags: historical figures
-author: stormwing
-editor: markdown
+date: 2020-09-11T20:54:19.361Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-07T02:14:52.840Z
 ---
 
 Her base color is a medium brown tone, which can lighten or darken depending on the seasons. She also has six white markings which look like bands: one around her muzzle, one around each wrist and ankle, and the last around the base of her tail. Her ears, fingers, toes, and tail are tipped in a matching white shade. Her hair, which is also white though the tips are often dyed a myriad of colors, is choppy, spiky, and it falls just short of her shoulder blades when she wears it down. Meanwhile, her left eye is a bright green color, while the right is startlingly blue.

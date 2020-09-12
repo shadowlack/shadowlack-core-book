@@ -2,9 +2,10 @@
 title: The Flux
 description: 
 published: true
-date: 2020-09-06T22:43:19.396Z
+date: 2020-09-11T20:56:18.444Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:52:03.533Z
 ---
 
 **The Flux** was a series of unfortunate catastrophes that struck the planet [Ramath-lehi](/solar-system/ramath-lehi "wikilink") due to some severe [Fronima](/Fronima "wikilink") power fluctuations. It resulted in a very long and controversial planetary-wide Ban on Magicka (Late Tessera 13, 81383 until Late Dyo 23, 81386), which prohibited the use of all magic and Fronima-powered devices on Ramath-lehi.

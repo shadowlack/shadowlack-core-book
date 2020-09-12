@@ -2,9 +2,10 @@
 title: Decanj Cureler
 description: A pioneer of Menlo virus play.
 published: true
-date: 2020-09-06T03:22:25.021Z
-tags: historical figures, menlo
+date: 2020-09-11T20:52:52.443Z
+tags: 
 editor: undefined
+dateCreated: 2020-09-07T02:12:07.155Z
 ---
 
 She was the pioneer for modern virus playing. Early in the history of the game, her opponents found themselves stumped at how she was able to beat almost every player who fought her without so much as breaking a sweat. Upon inspection of one of her cards various strange strands of code where found that seemed to serve no purpose but to take up space. For a while this was disregarded and she continued to play the way she did, even winning a couple of Menlo Competitions Corporation Official matches. Then one of her viruses went a little overboard and cut off all power to one of her opponent's suits just as the game began.

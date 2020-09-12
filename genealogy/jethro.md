@@ -1,11 +1,11 @@
 ---
 title: Jethro
-description:
+description: 
 published: true
-date: 2012-08-11T18:55:22Z
-tags: genealogy, swaraj, pendragon, lukuo
-author: lautir
-editor: markdown
+date: 2020-09-11T20:49:15.947Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:18:09.313Z
 ---
 
 ## About

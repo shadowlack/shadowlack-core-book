@@ -1,10 +1,11 @@
 ---
 title: Dusa Doujpeumt Clan
-description:
+description: 
 published: true
-date: 2012-08-15T20:48:11Z
-tags: genealogy, takula
-editor: markdown
+date: 2020-09-11T20:47:43.145Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:30:53.309Z
 ---
 
 ## About

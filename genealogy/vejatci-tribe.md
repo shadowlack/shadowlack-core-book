@@ -1,10 +1,11 @@
 ---
 title: VejaTci Tribe
-description:
+description: 
 published: true
-date: 2012-08-15T20:50:18Z
-tags: genealogy, takula
-editor: markdown
+date: 2020-09-11T20:52:22.128Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:20:36.859Z
 ---
 
 ## About

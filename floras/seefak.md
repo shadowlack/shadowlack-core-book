@@ -1,10 +1,11 @@
 ---
 title: Seefak
-description:
+description: 
 published: true
-date: 2010-03-22T02:35:44Z
-tags: floras, aquatic, common, small
-editor: markdown
+date: 2020-09-11T20:45:10.908Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:44:06.218Z
 ---
 
 A very delicate looking plant that sways gently on the rocky reefs of the ocean. It thrives worldwide in its watery habitat and provides a home for small fish to escape predators.

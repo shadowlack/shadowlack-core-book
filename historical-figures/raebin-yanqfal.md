@@ -2,10 +2,10 @@
 title: Raebin Yanq'fal
 description: Once the greatest Menlo player in the world. May have been murdered.
 published: true
-date: 2010-03-03T18:29:00Z
-tags: menlo, historical figures
-author: shriker
-editor: markdown
+date: 2020-09-11T20:54:05.312Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-07T02:14:31.902Z
 ---
 
 He was said to be the greatest [Menlo](/entertainment/menlo "wikilink") player in the world. His skills and technique were unmatched and unbeatable. He was the only player ever to win the Annual Spring Tournament 3 consecutive years. Raebin was the player that inspired young pendragons and made the game increasingly popular. He created many of the most valuable codes that are still used today. Raebin died unexpectedly at the age of 47 during what would be his fourth Annual Spring Tournament during a match. It was a major historical event in the history of the game. There is no evidence that his death was caused by the game, but doctors were unable to come up with any cause of death.

@@ -2,10 +2,10 @@
 title: Pendragon
 description: Draco sapiens
 published: true
-date: 2007-09-12T05:32:25Z
-tags: species
-author: shriker
-editor: markdown
+date: 2020-09-11T21:07:02.210Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T18:56:45.222Z
 ---
 
 ![By the Lake - A Pendragon. Image by temrin.](/species/pendragon-temrin.jpg =250x)

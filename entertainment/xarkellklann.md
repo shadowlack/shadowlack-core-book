@@ -2,9 +2,10 @@
 title: Xarkellklann
 description: 
 published: true
-date: 2020-09-06T22:42:35.116Z
+date: 2020-09-11T20:41:45.880Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:50:23.140Z
 ---
 
 **Xarkellklann** is a rock band originally from [Trilok](/countries/trilok "wikilink"). Most of the band members are [Khell](/species/khell "wikilink"), though there are also some regular pendragons among them.

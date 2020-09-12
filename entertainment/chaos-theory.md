@@ -2,9 +2,10 @@
 title: Chaos Theory
 description: An all-Feydragon rock band.
 published: true
-date: 2020-09-06T22:41:15.758Z
-tags: rock, musicians, band, music
+date: 2020-09-11T20:38:53.938Z
+tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:49:29.798Z
 ---
 
 **Chaos Theory** is a rock band formed in 81375. Initially they were mocked for having a "gimmicky" all-[Feydragon](/species/feydragon) lineup, and for having a first album which, to this day, is regarded as being "enjoyably bad". It was their second album, **Covenants of the Dragon**, that propelled the group into mainstream fame and popularity. Their signature style includes vocals from everyone in the band, and the use of dozens of instruments in each song.

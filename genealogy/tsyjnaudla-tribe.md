@@ -1,10 +1,11 @@
 ---
 title: Tsyjnaudla Tribe
-description:
+description: 
 published: true
-date: 2012-08-10T17:04:20Z
-tags: genealogy, yki, dhruv
-editor: markdown
+date: 2020-09-11T20:52:01.694Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:20:17.129Z
 ---
 
 ## About

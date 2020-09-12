@@ -2,9 +2,10 @@
 title: Anubian
 description: The language of the Anubi.
 published: true
-date: 2020-09-11T22:45:43.583Z
-tags: languages, anubi
-editor: markdown
+date: 2020-09-11T20:56:28.769Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T16:39:25.858Z
 ---
 
 There is an [Anubi](/species/anubi) language, however only Anubi can use it and a select few half-breeds. There are under no circumstances any other subspecies of Pendragon that knows the Anubi language.

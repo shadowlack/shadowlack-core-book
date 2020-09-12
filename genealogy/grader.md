@@ -1,10 +1,11 @@
 ---
 title: Grader
-description:
+description: 
 published: true
-date: 2012-08-09T19:14:55Z
-tags: genealogy, grader, pendragon, ajita
-editor: markdown
+date: 2020-09-11T20:48:35.523Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:32:33.698Z
 ---
 
 ## About

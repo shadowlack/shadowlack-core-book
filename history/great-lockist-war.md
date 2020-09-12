@@ -2,9 +2,10 @@
 title: Great Lockist War
 description: 
 published: true
-date: 2020-09-06T22:42:53.875Z
+date: 2020-09-11T20:55:36.850Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:50:51.325Z
 ---
 
 > ''Like the [Anubi](/species/anubi "wikilink") and [Takula](/species/takula "wikilink") before us, we, the *[Lokh](/species/khell "wikilink")* [Khellin] nearly went extinct in the mid-65th millennium. However, the Anubi were cursed by an incurable plague, and the Takula simply had the misfortune of being unable to adapt to a miniature ice age. We have nothing to blame for our brush with death... but ourselves.''

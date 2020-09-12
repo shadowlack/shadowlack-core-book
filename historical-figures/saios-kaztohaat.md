@@ -2,10 +2,10 @@
 title: Saios Kaztohaat
 description: A feared warlord.
 published: true
-date: 2010-07-02T01:30:50Z
-tags: warlords, wars, historical figures
-author: nasuella
-editor: markdown
+date: 2020-09-11T20:54:29.182Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-07T02:15:15.098Z
 ---
 
 The father of legendary [Warlord Nuji Kaztohaat](/historical-figures/nuji-kaztohaat "wikilink"), and a strong Warlord in his own right. Saios inherited the throne from his father, who had been killed in battle against a clan of Myshemd Fey. However, he only enjoyed power for so long; his wicked brother Ortyos wanted to be Warlord himself.

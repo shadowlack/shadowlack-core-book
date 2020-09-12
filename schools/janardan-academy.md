@@ -2,9 +2,10 @@
 title: Janardan Academy
 description: Burning hearts and curious minds.
 published: true
-date: 2020-09-06T22:46:46.346Z
-tags: schools, swaraj
-editor: markdown
+date: 2020-09-11T21:04:24.968Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-06T17:16:16.789Z
 ---
 
 ## Identity

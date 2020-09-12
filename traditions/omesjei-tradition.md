@@ -2,9 +2,10 @@
 title: Omesjei Tradition
 description: A male-driven marriage tradition.
 published: true
-date: 2012-11-02T17:00:37Z
-tags: traditions, marriage
-editor: markdown
+date: 2020-09-11T21:08:14.704Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T19:40:12.938Z
 ---
 
 After a mate has been picked out by a male and they are both well on the way with their relationship, for marriage the male is expected to present the female with a gift as proof of his intentions. The gift is also a measure of wealth and can be used to determine who could better care for a female. If the gift is accepted then after a fairly short period of time later the couple will be expected to have a ceremony.

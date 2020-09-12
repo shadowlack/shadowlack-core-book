@@ -1,10 +1,11 @@
 ---
 title: Dlukeajpjudym Tribe
-description:
+description: 
 published: true
-date: 2012-08-10T17:05:46Z
-tags: genealogy, yki, working class
-editor: markdown
+date: 2020-09-11T20:47:22.901Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:30:13.843Z
 ---
 
 ## About

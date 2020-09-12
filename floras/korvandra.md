@@ -1,10 +1,11 @@
 ---
 title: Korvandra
-description:
+description: 
 published: true
-date: 2011-05-17T12:49:59Z
-tags: floras, carnivorous
-editor: markdown
+date: 2020-09-11T20:43:14.915Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:41:06.413Z
 ---
 
 The **korvandra** is a sentient carnivorous plant. It's an offshoot of a similar plant called the vandra; a commonly held theory is that the korvandra developed after too many vandra plants absorbed too much Fromina.

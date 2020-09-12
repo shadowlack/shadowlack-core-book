@@ -2,9 +2,10 @@
 title: Merak Tribe
 description: A Takula tribe living in the Calamarha Swamp.
 published: true
-date: 2012-08-27T20:30:23Z
-tags: genealogy, takula, calamarha swamp
-editor: markdown
+date: 2020-09-11T20:50:18.209Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:18:53.902Z
 ---
 
 ## About

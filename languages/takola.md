@@ -2,9 +2,10 @@
 title: Takola
 description: The language of the Takula.
 published: true
-date: 2020-09-11T22:45:43.583Z
-tags: languages, takula
-editor: markdown
+date: 2020-09-11T20:57:41.886Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T16:40:23.728Z
 ---
 
 ## Phonology

@@ -2,9 +2,10 @@
 title: Temple of Dynir
 description: All for good. Religious public school of magic, religion, and marine biology.
 published: true
-date: 2020-09-06T22:47:11.548Z
+date: 2020-09-11T21:05:17.748Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T17:17:37.512Z
 ---
 
 Location 	Dhruv north of the Dhruv mountains

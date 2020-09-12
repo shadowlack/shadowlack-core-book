@@ -2,10 +2,10 @@
 title: Tumpges
 description: Obey the sky.
 published: true
-date: 2013-10-09T00:49:12Z
-tags: genealogy, anubi, uhai desert, borieos sudesha
-author: marcopablo
-editor: markdown
+date: 2020-09-11T20:52:11.832Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:20:27.062Z
 ---
 
 ## About

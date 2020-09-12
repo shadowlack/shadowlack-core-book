@@ -2,9 +2,10 @@
 title: Phatharla
 description: 
 published: true
-date: 2020-09-06T22:42:17.052Z
+date: 2020-09-11T20:41:17.124Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:50:07.996Z
 ---
 
 **Phatharla** is a progressive metal duo consisting of two close friends, [Syron Grimoire](/pop-culture-figures/syron-grimoire "wikilink") and [Raakin de'Ragnarok](/pop-culture-figures/raakin-deragnarok "wikilink"). The group released their first album in 81380, and have released a small number of them over their career. Though they have never reached widespread mainstream success, they have a loyal cult following.

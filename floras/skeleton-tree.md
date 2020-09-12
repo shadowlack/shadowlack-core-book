@@ -1,10 +1,11 @@
 ---
 title: Skeleton Tree
-description:
+description: 
 published: true
-date: 2010-03-22T02:21:18Z
-tags: floras, tree, uncommon, medium
-editor: markdown
+date: 2020-09-11T20:45:21.069Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:44:20.972Z
 ---
 
 The fruit of the Skeleton Tree, called Triloe, is rusty-orange in color and about the size of a small hand fruit. Its skin is soft and fuzzy to the touch, and its texture is slightly firm and juicy. The unique sweet-tart flavor of the fruit makes it highly desirable for culinary dishes, but special training and licensing is required to serve any dish using Triloe. The seeds of the fruit are extremely deadly if ingested.

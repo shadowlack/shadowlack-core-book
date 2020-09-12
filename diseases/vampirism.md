@@ -2,9 +2,10 @@
 title: Vampirism
 description: A drastically transformative magia morbus.
 published: true
-date: 2020-09-06T22:41:03.415Z
-tags: diseases, vampirism, magia morbii
+date: 2020-09-11T20:39:41.689Z
+tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:49:22.300Z
 ---
 
 **Vampirism** is a transformative *magia morbus*, or magical disease.

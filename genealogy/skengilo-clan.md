@@ -2,10 +2,10 @@
 title: Skengilo Clan
 description: Let the strength of your resolve overcome the weakness of your body.
 published: true
-date: 2012-08-11T02:57:28Z
-tags: genealogy, feydragon, boreios sudesha
-author: nasuella
-editor: markdown
+date: 2020-09-11T20:50:59.664Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:19:29.981Z
 ---
 
 ## About

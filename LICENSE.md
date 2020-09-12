@@ -2,9 +2,10 @@
 title: LICENSE
 description: 
 published: true
-date: 2020-09-06T22:39:37.990Z
+date: 2020-09-11T20:32:06.159Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:48:15.547Z
 ---
 
 # License

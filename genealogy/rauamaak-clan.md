@@ -2,10 +2,10 @@
 title: Rauamaak Clan
 description: An Alanamsul Feydragon clan of Aidlt.
 published: true
-date: 2012-08-16T05:53:22Z
-tags: genealogy, feydragon, ajita, alanamsul
-author: nasuella
-editor: markdown
+date: 2020-09-11T20:50:28.990Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:19:02.242Z
 ---
 
 ## About

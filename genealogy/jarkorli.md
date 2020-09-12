@@ -2,10 +2,10 @@
 title: Jarkorli
 description: Einvolkh i'Köyrjikh. "Power through Unity."
 published: true
-date: 2013-09-25T09:40:47Z
-tags: genealogy, khell, swaraj, ajita, trilok, sudesha, lukuo, pendragon
-author: nasuella
-editor: markdown
+date: 2020-09-11T20:49:06.186Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:17:59.446Z
 ---
 
 ## About

@@ -2,10 +2,10 @@
 title: Bann
 description: Never Falter
 published: true
-date: 2017-11-22T20:19:21Z
-tags: genealogy, yki, working class, dhruv, ajita
-author: zombilicious
-editor: markdown
+date: 2020-09-11T20:46:52.595Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:29:13.830Z
 ---
 
 ## About

@@ -2,9 +2,10 @@
 title: Pakaros
 description: 
 published: true
-date: 2020-09-06T22:43:00.447Z
+date: 2020-09-11T20:55:46.951Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:51:20.329Z
 ---
 
 Timeline of Events

@@ -2,9 +2,10 @@
 title: Addfesmatt Fastening Tradition
 description: An upper class Swarajian wedding tradition.
 published: true
-date: 2020-09-06T03:20:45.682Z
-tags:  traditions, marriage
-editor: markdown
+date: 2020-09-11T21:07:44.701Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T19:39:42.630Z
 ---
 
 This Swarajian wedding tradition involves several separate celebrations over the course of a few weeks. It is an ancient and spiritual practise, often used by upper class Ramathians.

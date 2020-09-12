@@ -2,9 +2,10 @@
 title: Sakenal
 description: The frontman and lead vocalist of Chaos Theory.
 published: true
-date: 2020-09-06T22:45:03.329Z
-tags: musicians, pop culture
+date: 2020-09-11T21:01:16.479Z
+tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:58:08.186Z
 ---
 
 Sakenal is the stage name used by the frontman and lead vocalist of the six-member Feydragon rock band [Chaos Theory](/entertainment/chaos_theory). While every member of the band is capable of singing, Sakenal is by and large their most versatile and powerful vocalist, and has incredible charisma on stage.

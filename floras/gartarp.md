@@ -2,9 +2,10 @@
 title: Gartarp
 description: 
 published: true
-date: 2020-09-06T03:23:53.471Z
-tags: floras, edible, fungus
-editor: markdown
+date: 2020-09-11T20:42:54.987Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:40:24.237Z
 ---
 
 The Gartarp is similar in appearance to a common mushroom, it has red spots with a yellow base.

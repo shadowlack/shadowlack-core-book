@@ -2,10 +2,10 @@
 title: Lukuo
 description: Draco sapiens mutabilis
 published: true
-date: 2007-10-18T16:43:39Z
-tags: species, mutations, genetics
-author: shriker
-editor: markdown
+date: 2020-09-11T21:06:52.083Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T18:56:36.270Z
 ---
 
 ![A Lukuo named Thrain Sable. Image by enalska.](/species/lukuo-enalska-thrain-sable.png =250x)

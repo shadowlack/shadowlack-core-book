@@ -2,9 +2,10 @@
 title: Sha Qyememd Tradition
 description: A marriage tradition among the Yki.
 published: true
-date: 2012-08-24T21:44:57Z
-tags: traditions, marriage, yki
-editor: markdown
+date: 2020-09-11T21:08:41.707Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T19:40:44.214Z
 ---
 
 Marriage among the [Yki](/species/yki) is both a serious, and highly jovial occasion for all those involved. Once a male and female have made the decision to become lifelong partners, the male (or on rare occasion the female) leaves their home tribe to join their future mate in their tribe. The newcomer is treated as an outsider, set up in a temporary shelter on the outskirts of the settlement, where over the course of a week they are visited by the adults of the tribe who will inspect the male/female. At this time, if any problem arises regarding the ‘dragons suitability/compatibility, this is the point where any who wish to do so will approach the medicine dragon and voice any concerns. If any serious issue arises, the ceremonies will be postponed indefinitely until things are either solved or dismissed.

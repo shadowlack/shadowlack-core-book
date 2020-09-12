@@ -1,10 +1,11 @@
 ---
 title: EkaTci Tribe
-description:
+description: 
 published: true
-date: 2012-08-15T20:52:20Z
-tags: genealogy, takula, swaraj, vivuli jungle
-editor: markdown
+date: 2020-09-11T20:48:04.113Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:31:33.058Z
 ---
 
 ## About

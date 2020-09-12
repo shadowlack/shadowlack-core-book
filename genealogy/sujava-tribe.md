@@ -1,10 +1,11 @@
 ---
 title: SujaVa Tribe
-description:
+description: 
 published: true
-date: 2012-08-27T20:27:23Z
-tags: genealogy, takula
-editor: markdown
+date: 2020-09-11T20:51:20.654Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:19:47.829Z
 ---
 
 ## About

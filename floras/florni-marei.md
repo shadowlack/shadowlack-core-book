@@ -2,9 +2,10 @@
 title: Florni Marei
 description: 
 published: true
-date: 2020-09-06T03:23:28.499Z
-tags: floras, medicinal
-editor: markdown
+date: 2020-09-11T20:42:45.730Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:40:02.928Z
 ---
 
 Though not edible raw, alchemists and people good with medicines use this herb for medical purposes.

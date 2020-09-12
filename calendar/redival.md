@@ -2,9 +2,10 @@
 title: Redival
 description: A celebration of the gift of fire and Ramathian knowledge.
 published: true
-date: 2012-08-24T20:33:23Z
-tags: calendar, holidays
-editor: markdown
+date: 2020-09-11T20:35:03.130Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T18:45:01.201Z
 ---
 
 It is said that the first Ramathians were brought to life at the beginning of Dyo, and they blossomed with the bountiful flowers and thrived with the forests which had already graced the planet for many years before Tanastlasei blessed the earth by forming life from its clay.

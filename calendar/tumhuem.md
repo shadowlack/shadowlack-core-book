@@ -2,9 +2,10 @@
 title: Tumhuem
 description: A macabre holiday about death with costumed masquerades.
 published: true
-date: 2012-08-24T20:26:04Z
-tags: calendar, holidays, halloween
-editor: markdown
+date: 2020-09-11T20:35:17.861Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T18:45:11.730Z
 ---
 
 Dressed in costumes (often with themes tied to death, horror, and the macabre, as with the holiday's ancient relation), groups of Ramathians attend huge parties and masquerades that begin at around ten o'clock (this custom was started after the first Tumhuem party). And, just like its Dyo counterpart, [Lybaj'tpui](/calendar/lybajtpui), Tumhuem is the time for partying.

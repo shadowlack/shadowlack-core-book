@@ -1,10 +1,11 @@
 ---
 title: Rizu
-description:
+description: 
 published: true
-date: 2010-03-26T19:16:56Z
-tags: floras, small plants, uncommon, small
-editor: markdown
+date: 2020-09-11T20:44:31.347Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:43:08.270Z
 ---
 
 The broad milky white leaves of this herb are similar in shape to the earthen lettuce, they are thick and rubbery to the touch but in its' raw unprocessed format it is nothing more than a shrub, in its shrub format it would literally look like a giant white lettuce.

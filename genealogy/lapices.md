@@ -2,10 +2,10 @@
 title: Lapices
 description: A family of magic scholars.
 published: true
-date: 2012-08-03T19:46:23Z
-tags: genealogy, pendragon, swaraj, academics, magic, fronima
-author: shriker
-editor: markdown
+date: 2020-09-11T20:49:56.969Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:18:36.222Z
 ---
 
 ## About

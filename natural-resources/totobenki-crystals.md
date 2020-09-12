@@ -2,9 +2,10 @@
 title: Totobenki Crystals
 description: A popular battery source for machina technology.
 published: true
-date: 2020-09-06T23:03:36.111Z
+date: 2020-09-11T20:59:04.384Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T22:21:11.716Z
 ---
 
 Totobenki Crystals are small crystals that are roughly three inches long and two inches thick. They look very similar to shards of ice with bright blue spheres in the centre. They may only be obtained by finding and killing a Totobenki, or waiting for a Totobenki to die of natural causes. Totobenki often appear in Trilok and Dhruv where they are regularly farmed for their crystals. The Totobenki Crystals are a Fronima source, commonly used as a battery in high-energy consuming machina (like the Portal Transportation System), or to research devastating elemental spells.

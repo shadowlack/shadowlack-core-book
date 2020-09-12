@@ -2,9 +2,10 @@
 title: Takula
 description: Draco sapiens lacerta
 published: true
-date: 2007-10-18T21:25:35Z
-tags: species, jungles
-editor: markdown
+date: 2020-09-11T21:07:23.743Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T18:57:01.855Z
 ---
 
 ![Takula, GameMaster Veja. Image by lautir.](/species/takula-lautir-gamemaster-veja.png =250x)

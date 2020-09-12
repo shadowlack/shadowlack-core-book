@@ -1,11 +1,11 @@
 ---
 title: Hybrids
-description:
+description: 
 published: true
-date: 2012-08-02T16:20:53Z
-tags: species, hybrids
-author: shriker
-editor: markdown
+date: 2020-09-11T21:06:31.645Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T18:56:17.095Z
 ---
 
 Not all species on Ramath-lehi are able to interbreed and produce offspring. This chart outlines which species may produce hybrid offspring with one another.

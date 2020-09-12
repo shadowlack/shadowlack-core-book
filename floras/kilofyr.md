@@ -1,10 +1,11 @@
 ---
 title: Kilofyr
-description:
+description: 
 published: true
-date: 2010-03-08T21:08:44Z
-tags: floras
-editor: markdown
+date: 2020-09-11T20:43:05.159Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:40:45.074Z
 ---
 
 One reported in existance.

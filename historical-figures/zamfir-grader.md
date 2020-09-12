@@ -1,11 +1,11 @@
 ---
 title: Zamfir Grader
-description:
+description: 
 published: true
-date: 2010-01-23T19:16:27Z
-tags: historical figures, government, graders
-author: shriker
-editor: markdown
+date: 2020-09-11T20:55:00.583Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-07T02:16:26.755Z
 ---
 
 **Zamfir Grader** (Tessera 50, 81273 – Mia 22, 81380) was the reigning Arch Magos of Ramath-lehi between the years 81343 and 81380. Zamfir came from the noble Grader family – a wealthy and powerful line of mages. His control over Fronima was a highly commendable one. Known for his strength and strong leadership skills, Zamfir only wanted the best for Ramath-lehi. His accomplishments were many and it can certainly be said that he made countless improvements to the planet.

@@ -2,9 +2,10 @@
 title: Arsenic Strychnine
 description: A world famous fashion designer.
 published: true
-date: 2020-09-06T22:44:08.798Z
-tags: fashion, textiles, pop culture
+date: 2020-09-11T20:59:14.746Z
+tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:52:18.898Z
 ---
 
 Arsenic Strychnine was once known as Dylan Aciana - however, after a series of traumatic events, he changed his identity. He is now a world-famous fashion designer, the father of Requiem Falahau, and - allegedly - Koani Grader's best friend.

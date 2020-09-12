@@ -2,9 +2,10 @@
 title: Rapine
 description: The language of the Rapine.
 published: true
-date: 2020-09-11T22:45:43.583Z
-tags: languages, rapine
-editor: markdown
+date: 2020-09-11T20:57:29.749Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T16:40:14.866Z
 ---
 
 ## Phonology

@@ -2,9 +2,10 @@
 title: Achaela
 description: 
 published: true
-date: 2020-09-06T02:56:23.691Z
-tags: floras, medicinal, edible
-editor: markdown
+date: 2020-09-11T20:41:55.185Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:38:18.375Z
 ---
 
 **Achaela** is an erect plant that produces one to several stems (0.5 to 2 feet high). Leaves are evenly distributed along the stem, with the leaves near the middle and bottom of the stem being the largest. The leaves have varying degrees of hairiness. The leaves are 3-7 inches long, almost feathery, and arranged spirally on the stems. Small flowers burst from the top, arranged in a ray or disc formation, in red or pink.

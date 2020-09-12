@@ -2,9 +2,10 @@
 title: Khatt
 description: 
 published: true
-date: 2020-09-06T22:41:39.969Z
+date: 2020-09-11T20:39:50.409Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T17:19:32.568Z
 ---
 
 Ramathian chess.

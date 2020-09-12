@@ -2,9 +2,10 @@
 title: Common
 description: The working class common language of Ramath-lehi.
 published: true
-date: 2020-09-11T22:45:43.583Z
-tags: languages
-editor: markdown
+date: 2020-09-11T20:56:49.091Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T16:39:41.276Z
 ---
 
 Surprise, it's English.

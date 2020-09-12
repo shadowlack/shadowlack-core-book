@@ -2,9 +2,10 @@
 title: Fallen Graders
 description: 
 published: true
-date: 2020-09-06T22:42:47.616Z
+date: 2020-09-11T20:55:25.982Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:50:38.308Z
 ---
 
 What an average Ramathian (your character) would know:

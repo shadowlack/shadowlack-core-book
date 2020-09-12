@@ -2,9 +2,10 @@
 title: Crop Rot
 description: A bacterial disease primarily affecting flora.
 published: true
-date: 2020-09-06T22:40:19.433Z
-tags: diseases, bacterial diseases
+date: 2020-09-11T20:36:44.237Z
+tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:48:23.919Z
 ---
 
 **Crop Rot** is known to be a disaster for crops and fields, infecting entire areas making food products unfit to be ingested by any living population. The bacteria itself can't be found in records until agriculture and a sedentary lifestyle was started across the planet of Ramath-lehi, it showed a dramatic increase once the world started to go industrial.

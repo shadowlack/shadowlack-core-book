@@ -2,9 +2,10 @@
 title: Pjaunfaubaj School of the Arcane
 description: A private school catering toward the study of magic in Boreios Sudesha.
 published: true
-date: 2020-09-06T22:46:56.446Z
+date: 2020-09-11T21:04:45.720Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T17:16:50.681Z
 ---
 
 Location 	Boreios Sudesha (Edge of the Nyonge Mountain Range)

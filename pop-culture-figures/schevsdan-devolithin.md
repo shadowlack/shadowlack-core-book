@@ -2,9 +2,10 @@
 title: Schevsdan de'Volithin
 description: A famous bounty hunter from the Bounty Hunter Brotherhood.
 published: true
-date: 2020-09-06T22:45:13.827Z
-tags: pop culture, bounty hunters, khell
+date: 2020-09-11T21:01:36.735Z
+tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:59:28.758Z
 ---
 
 The Guildmaster of the [Bounty Hunter Brotherhood](/bounty-hunter-brotherhood "wikilink"), having held the position since his late 70s. Like [his brother](/ruos-halnakh-devolithin "wikilink"), Schevsdan comes from a military background, but unlike Ruos, he left the Trilok army after 12 years and went on to join the Brotherhood. Over the decades he rose through the ranks to become one of their elites, and eventually was elected as Guildmaster to replace the old one, who was planning to retire.

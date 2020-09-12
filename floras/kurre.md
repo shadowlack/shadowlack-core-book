@@ -1,10 +1,11 @@
 ---
 title: Kurre
-description:
+description: 
 published: true
-date: 2010-05-31T16:40:38Z
-tags: floras
-editor: markdown
+date: 2020-09-11T20:43:24.665Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:41:23.688Z
 ---
 
 The kurre is a herbaceous and biennial (meaning it takes about two years for it to complete its life cycle) plant with leaves forming a characteristic compact cluster at the centre (the head, which is eaten) around which the partially unfolded outer leaves are spread. The dense core at the centre of the leafy head is not eaten commonly. It is a dark green colour when healthy.

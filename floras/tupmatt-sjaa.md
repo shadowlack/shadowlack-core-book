@@ -1,10 +1,11 @@
 ---
 title: Tupmatt Sjaa
-description:
+description: 
 published: true
-date: 2010-03-26T17:22:28Z
-tags: floras, medicinal, tree, common, large
-editor: markdown
+date: 2020-09-11T20:46:21.648Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:45:51.474Z
 ---
 
 The **tupmatt** is a tree that looks rather sickly, even in full health. It's branches always droop towards the ground, and it's relatively thin trunk is normally curved to one side. It's roots grow deep, and stretch very far, considering the height of the tree. This is because they need water almost as much as they need the sunlight. It's beneficial to plant them in flood areas, because they will both help hold down the dirt and, in essence, suck up the standing water. Its greyish-green leaves are small; only two inches long, but there are thousands of them in every tree, and hundreds on every long, thin, drooping branch.

@@ -2,9 +2,10 @@
 title: The Prologue
 description: 
 published: true
-date: 2020-09-06T22:43:07.331Z
+date: 2020-09-11T20:55:57.626Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T16:51:34.448Z
 ---
 
 **When:** Afternoon, Day 2, Tria Quarter, 81374

@@ -1,10 +1,11 @@
 ---
 title: Sun
-description:
+description: 
 published: true
-date: 2014-08-19T01:26:29Z
-tags: genealogy, sun, pendragon
-editor: markdown
+date: 2020-09-11T20:51:30.837Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:19:57.132Z
 ---
 
 ## About

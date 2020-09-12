@@ -2,10 +2,10 @@
 title: Oumha Kertia
 description: A well-known engineer and inventor. Founder of Cajseu Univeristy.
 published: true
-date: 2011-05-07T03:15:34Z
-tags: historical figures, ajita, inventors
-author: nasuella
-editor: markdown
+date: 2020-09-11T20:53:52.894Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-07T02:14:11.725Z
 ---
 
 An Ajitian engineer and inventor. Known for being highly intelligent and expecting a lot of his peers. Unfortunately, he also had ego problems, later leading into depression. He managed to recover enough and become stable several years before his death.

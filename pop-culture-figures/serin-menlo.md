@@ -2,9 +2,10 @@
 title: Serin Menlo
 description: Creator of the Menlo game and head of the Menlo Competitions Corporation.
 published: true
-date: 2020-09-06T22:45:18.813Z
-tags: menlo, pop culture, inventors
+date: 2020-09-11T21:01:47.227Z
+tags: 
 editor: undefined
+dateCreated: 2020-09-06T17:00:09.738Z
 ---
 
 **Serin Menlo** is the creator of the wildly popular game, [Menlo](/entertainment/menlo "wikilink"). He began his career as a successful robotics engineer after graduating from [Hyota Yv Daujt](/schools/hyota-yv-daujt "wikilink") at the top of his class.

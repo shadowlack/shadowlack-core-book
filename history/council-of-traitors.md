@@ -2,9 +2,10 @@
 title: Council of Traitors
 description: 
 published: true
-date: 2020-09-06T22:42:40.898Z
+date: 2020-09-11T20:55:14.144Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T20:14:16.390Z
 ---
 
 -   The still-very-new Council of Thirteen plans to hold an inauguration event aboard a large sea-faring cruise ship.

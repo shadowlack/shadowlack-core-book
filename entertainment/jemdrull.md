@@ -2,9 +2,10 @@
 title: Jemdrull
 description: 
 published: true
-date: 2020-09-06T22:41:33.924Z
+date: 2020-09-11T20:39:35.997Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T17:19:15.118Z
 ---
 
 **Jemdrull** (*Ringball*) is a popular team sport on Ramath-lehi. 

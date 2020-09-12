@@ -2,9 +2,10 @@
 title: Lybaj'tpui
 description: A celebration of love and compassion.
 published: true
-date: 2012-08-24T20:43:18Z
-tags: calendar, holidays
-editor: markdown
+date: 2020-09-11T20:34:21.404Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T18:44:33.717Z
 ---
 
 In the beginning, there was nothing. As Tanastlasei breathed life, and she happened upon Cyudiha (later to be Ramath-lehi) she found there was a certain lack of something. A malfunction that maimed her people, the Pendragons. A virus that couldn't be purged away. Something that, once opened, was irretrievable, irremovable, undeniable, and unstoppable. It was called hatred. So when Dymikca was blinked to life out of Fromina and blessed the Ramathians with love, countering hate, the Creator Goddess was overjoyed. She gave her thriving people a day to celebrate their love and compassion: **Lybaj'tpui** (or simply *Tpui*).

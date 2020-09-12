@@ -2,10 +2,10 @@
 title: Kill Clan
 description: We slay all who oppose us. We do not pander, we do not disrespect the elders. We are Kill! We are Kill!
 published: true
-date: 2017-02-10T14:57:56Z
-tags: genealogy, feydragon
-author: thesecretivefurry
-editor: markdown
+date: 2020-09-11T20:49:46.407Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:18:27.145Z
 ---
 
 ## About

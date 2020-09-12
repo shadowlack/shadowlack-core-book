@@ -1,10 +1,11 @@
 ---
 title: Punzkin
-description:
+description: 
 published: true
-date: 2010-05-31T16:36:32Z
-tags: floras
-editor: markdown
+date: 2020-09-11T20:44:21.969Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:42:53.315Z
 ---
 
 Origin unknown, The Punzkin is a variant of the thick skin fruits that have finally withered away in the harsher climates. Though this is not general knowledge - it is definitely blossoming in the warmer Ramathian soils after careful cross-pollination back many, many centuries ago. Varies generally, about 40cm wide and 30cm tall - smaller and bigger varieties not uncommon

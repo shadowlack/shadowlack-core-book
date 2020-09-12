@@ -1,11 +1,11 @@
 ---
 title: Ekavyz Tribe
-description:
+description: 
 published: true
-date: 2012-08-10T20:41:43Z
-tags: genealogy, yki, krishna sea islands, dhruv
-author: iversia
-editor: markdown
+date: 2020-09-11T20:48:14.552Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:31:52.222Z
 ---
 
 ## About

@@ -2,9 +2,10 @@
 title: Omesea
 description: A marriage ritual formulated for homosexual couples.
 published: true
-date: 2012-08-24T21:27:07Z
-tags: traditions, marriage
-editor: markdown
+date: 2020-09-11T21:08:04.806Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T19:40:02.167Z
 ---
 
 The Omesea is a relatively modern ritual taking place over the course of a week, formulated for homosexual couples. In the first three days of the ritual is partying with the couple’s family and friends.

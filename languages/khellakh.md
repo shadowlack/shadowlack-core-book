@@ -2,9 +2,10 @@
 title: Khellakh
 description: The language of the Khell.
 published: true
-date: 2020-09-11T22:45:43.583Z
-tags: languages, khell
-editor: markdown
+date: 2020-09-11T20:57:09.420Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T16:39:57.477Z
 ---
 
 ## Phonology

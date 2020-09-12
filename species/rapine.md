@@ -2,10 +2,10 @@
 title: Rapine
 description: They will swallow your soul.
 published: true
-date: 2007-10-18T21:39:49Z
-tags: rapine, soulsuckers, wars
-author: shriker
-editor: markdown
+date: 2020-09-11T21:07:12.649Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-07T03:23:16.681Z
 ---
 
 ![Rathskellar the Rapine. Image by shriker.](/species/rapine-shriker.jpg =250x)

@@ -2,9 +2,10 @@
 title: Bloodweed
 description: 
 published: true
-date: 2020-09-06T03:21:06.429Z
-tags: floras, vampirism, edible
-editor: markdown
+date: 2020-09-11T20:42:25.421Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:39:21.412Z
 ---
 
 It is as if this mysterious plant once somehow tried to become a [Pendragon](/species/pendragon). The shape of the flower/fruit, which covers the whole plant in small clusters, is very similar to a Pendragon fetus, curled together with its underdeveloped head connecting to the thick base that attaches it to the main plant. The colouration differs between dirty brownish yellow to high intense red. It sends out an aroma of rotting flesh, which keeps most floral eating creatures away. Despite its unpleasant smell and appearance, it can be used for multiple medical treatment. Inside the meat-filled fetus shaped fruit, there is a thick, crimson liquid. The blood like liquid is almost identical to the blood type 0, and can be used on the general population. Rare mutations of the flora will result in other blood types, or even poison. The liquid can be directly injected into the blood to improve blood production, or to temporary compensate for heavy blood loss. It can also to a certain limit purify and treat blood diseases.

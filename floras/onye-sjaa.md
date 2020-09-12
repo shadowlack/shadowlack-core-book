@@ -1,10 +1,11 @@
 ---
 title: Onye Sjaa
-description:
+description: 
 published: true
-date: 2010-03-26T18:45:40Z
-tags: floras, tree
-editor: markdown
+date: 2020-09-11T20:44:02.605Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T20:42:23.278Z
 ---
 
 A medium sized tree, growing just about anywhere, but fruit production requires the climate to have at least a frost a minimum of once a year.

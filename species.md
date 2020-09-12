@@ -2,10 +2,10 @@
 title: Species
 description: The inhabitants of planet Ramath-lehi.
 published: true
-date: 2007-10-18T21:38:14Z
-tags: species
-author: shriker
-editor: markdown
+date: 2020-09-11T20:33:54.345Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-07T03:23:09.063Z
 ---
 
 All species at Shadowlack have been player-created.

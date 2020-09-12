@@ -2,9 +2,10 @@
 title: Pjudym Shyjm Collegiate Institute
 description: The cutting edge of learning.
 published: true
-date: 2020-09-06T22:47:01.213Z
+date: 2020-09-11T21:04:55.932Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T17:17:06.717Z
 ---
 
 Staff 	1200

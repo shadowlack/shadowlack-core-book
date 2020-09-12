@@ -1,10 +1,11 @@
 ---
 title: Gyetymapeka Tribe
-description:
+description: 
 published: true
-date: 2012-08-10T20:42:48Z
-tags: genealogy, yki, the badlands, dhruv
-editor: markdown
+date: 2020-09-11T20:48:46.034Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:17:40.749Z
 ---
 
 ## About

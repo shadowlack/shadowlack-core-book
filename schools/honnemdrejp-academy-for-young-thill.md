@@ -2,9 +2,10 @@
 title: Honnemdrejp Academy for Young Thill
 description: 
 published: true
-date: 2020-09-06T22:46:24.444Z
+date: 2020-09-11T21:03:53.189Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T17:15:10.753Z
 ---
 
 Location 	Swaraj (on the edge of Magi Lake)

@@ -1,10 +1,11 @@
 ---
 title: HarkCi Tribe
-description:
+description: 
 published: true
-date: 2012-08-27T20:31:37Z
-tags: genealogy, takula
-editor: markdown
+date: 2020-09-11T20:48:56.083Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T21:17:49.973Z
 ---
 
 ## About

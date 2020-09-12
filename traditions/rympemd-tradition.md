@@ -2,9 +2,10 @@
 title: Rympemd Tradition
 description: A modern Sudesha marriage ceremony.
 published: true
-date: 2012-11-02T17:02:27Z
-tags: traditions, marriage
-editor: markdown
+date: 2020-09-11T21:08:35.863Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T19:40:33.978Z
 ---
 
 A fairly modern tradition that ties into old customs from the Sudesha region is the Rympemd ceremony. 10 days after the male purposes to his mate a large party is held at either of the parents of the engaged house. (Who ever is willing to hold the party) Everyone is invited to this celebration and the parties are known to last long into the night. It’s during this party that everyone is celebrating the new life that the couple is about to being as they work their way toward their marriage. Within the next few days, plans are made for the saying of the vows and exchange of gifts between the couple. Lots of thought is put into the gifts and neither of the pair is able to ask for help in what they give each other.

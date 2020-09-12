@@ -2,9 +2,10 @@
 title: House of Anpu
 description: 
 published: true
-date: 2020-09-06T22:46:29.295Z
+date: 2020-09-11T21:04:03.769Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T17:15:27.433Z
 ---
 
 Location 	Notios Sudesha (around the Tmu Desert, not far from the Krokino Prison)

@@ -2,9 +2,10 @@
 title: Uslumset College
 description: 
 published: true
-date: 2020-09-06T22:47:21.212Z
+date: 2020-09-11T21:05:37.425Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-06T17:18:11.518Z
 ---
 
 Location 	Aurius

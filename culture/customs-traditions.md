@@ -2,9 +2,10 @@
 title: Customs and Traditions
 description: Blend in... or not.
 published: true
-date: 2020-09-06T22:40:09.888Z
-tags: culture
-editor: markdown
+date: 2020-09-11T20:35:32.513Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-07T02:47:19.021Z
 ---
 
 ## Greetings and Presenting Oneself as Friendly

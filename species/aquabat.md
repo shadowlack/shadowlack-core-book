@@ -2,10 +2,10 @@
 title: Aquabat
 description: Resaquatilis sapiens
 published: true
-date: 2007-10-18T21:14:11Z
-tags: species, aquatic, marine, amphibious
-author: shriker
-editor: markdown
+date: 2020-09-11T21:06:08.406Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-09T00:28:04.452Z
 ---
 
 ![An Aquabat. Image by shriker.](/species/aquabat-shriker.jpg =250x)

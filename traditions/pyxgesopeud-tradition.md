@@ -2,9 +2,10 @@
 title: Pyx'gesopeud Tradition
 description: An Anubian marriage tradition.
 published: true
-date: 2012-08-24T21:05:43Z
-tags: traditions, marriage, anubi
-editor: markdown
+date: 2020-09-11T21:08:25.281Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T19:40:23.712Z
 ---
 
 Due to secrecy, and determination to remain pure, marriage within an [Anubi](/species/anubi "wikilink") tribe or community is kept strict, right down to the very letter.

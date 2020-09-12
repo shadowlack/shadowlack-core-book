@@ -2,10 +2,10 @@
 title: Karryasa Grader
 description: A renown Arch Magosai with formidable telepathic abilities.
 published: true
-date: 2010-01-23T19:19:14Z
-tags: historical figures, government, graders
-author: shriker
-editor: markdown
+date: 2020-09-11T20:53:02.880Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-07T02:12:27.540Z
 ---
 
 **Karryasa Jolten Grader** (Dyo 32, 81272 – Mia 48, 81378) was the reigning Arch Magosai of Ramath-lehi between the years 81343 and 81378. Karryasa was widely known and feared for her mental prowess. From a young age it was apparent that her ties to Fronima were immensely strong and that she had off the chart mental capabilities. These mental abilities ranged widely, from simple telepathy and telekinesis, to more manipulative abilities such as suggestion and puppetry.
