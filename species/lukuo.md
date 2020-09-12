@@ -2,9 +2,9 @@
 title: Lukuo
 description: Draco sapiens mutabilis
 published: true
-date: 2020-09-11T21:06:52.083Z
-tags: 
-editor: undefined
+date: 2020-09-12T22:04:30.464Z
+tags: species, mutations, genetics
+editor: markdown
 dateCreated: 2020-09-09T18:56:36.270Z
 ---
 
@@ -44,6 +44,9 @@ The exact percentage varies depending on the parent's mutations. If both parents
 Lukuo are seen as physically healthy, though there are mutations which have impeded one's ability to thrive. In extreme cases Lukuo have undergone corrective surgery: removing excess bone, horn, non-functional or backwards wings, etc.
 
 There is a strong cosmetic industry that is dedicated to removing, or hiding visible Lukuo mutations.
+
+> Lukuo start with bonuses to Fronima and Will.
+{.is-success}
 
 Some Lukuo pride themselves on certain traits and actively separate themselves from mainstream Pendragon society. They only marry and/or reproduce with other Lukuo sharing the same mutation they carry, to continue their clan or family's mutation indefinitely. Other Lukuo marry and reproduce freely among Lukuo and Pendragon alike, with no notion as to preserve a particular gene.
 
