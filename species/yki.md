@@ -2,7 +2,7 @@
 title: Yki
 description: Draco sapiens albusglacies
 published: true
-date: 2020-09-12T22:07:54.765Z
+date: 2020-09-12T22:10:14.183Z
 tags: species
 editor: markdown
 dateCreated: 2020-09-09T18:57:12.312Z
@@ -29,7 +29,7 @@ Tribes identify each other by facial tattoos, given when a kit turns five. These
 > Unless you have stated in your character's profile that your character is of non-tribe descent, please include what tribe your character belongs to. Yki have white coats, with a secondary color for markings, hair, and tail flame (in males). If you create a Yki, its base coat should be white.
 {.is-info}
 
-### Sexual Dimorphism
+### Sexual dimorphism
 
 Yki vary widely in size, although females are usually larger than males.
 
@@ -58,7 +58,7 @@ A kits education is the responsibility of the whole tribe, although their limite
 
 At the age of 15, Yki kits go on their first solo hunting mission. If successful, they are accepted into the adult rankings and become fulled fledged warriors of the tribe.
 
-### Social Structure
+### Social structure
 
 The Yki tribes are made up of several clans united together, and lead by a council made up of the clan elders. The clans, and therefore the tribes as well, are matriarchal; led by the wisest, the strongest, and the most cunning of the female kiom. According to Yki laws, there must always be at least one male on the council in the name of fairness. Tribes claim territories and hunting grounds, and to be caught hunting on another tribes lands incurs the harshest penalties. Most tribes accept, and even encourage, their young adults to seek mates from other tribes. It is customary for the male to join the female’s tribe, becoming a permanent member of his mate’s tribe.
 
@@ -66,7 +66,7 @@ Expulsion from the tribe is the most severe form of punishment, the offending in
 
 Tribes identify each other by facial tattoos, and various styles of body ornamentation. Jewellery and ornamentation of the fur on the head and nape varies from tribe to tribe, and is also used for recognition.
 
-#### Social Roles
+#### Social roles
 
 - **Nioti(e):** The young of the tribe are in charge of a few small chores, such as cleaning out the den and disposing of leftovers. Older Nioti/e help look after kits in the crèche, and assisting the tribe’s kiom.
 - **Thill:** Thill usually fill the ranks of the tribe’s warriors, usually being larger and stronger than their male counterparts. The females usually occupy the occupations that require strength, such as smithing, where their size is put to good use. They are usually the more passionate of the Yki, more inclined to follow their heart instead of their head.
@@ -74,7 +74,7 @@ Tribes identify each other by facial tattoos, and various styles of body ornamen
 - **Kiom-Nushib:** Females who are too old to hunt: the Kiom-Nushib not on the tribe council act as mentors to the younger generation. Adept telepaths, it is rare for them to speak aloud, preferring telepathy instead.
 - **Kiom-Weshib:** Males too old to hunt, the Kiom-Weshib are mentors, much like the Kiom-Nushib. Strong mages and shape shifters, they are the spies of a tribe, and the Kiom-Weshib on the tribe council act as the voice of the male half of the tribe.
 
-### Inter-tribal Relations
+### Inter-tribal relations
 
 Most tribes get along quite well; encouraging trade and apprentices exchange systems. Some tribes are more introverted than others, but all are wary of outsiders, strange Pendragons who come from the south to study their seemingly *barbaric* lifestyle. 
 
@@ -93,7 +93,7 @@ Yki make their home on the continent of Dhruv, and on the sea ice that has this 
 - [Ykili](/languages/ykili) The Yki language.
 - [Sha Qyememd Tradition](/traditions/sha-qyememd-tradition) A Yki marriage tradition.
 
-### Known Tribes
+### Known tribes
 
 A compiled list of the tribes that have been discovered by Ramathian scholars, and where their territories lie in Dhruv.
 
