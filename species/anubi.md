@@ -2,7 +2,7 @@
 title: Anubi
 description: Draco sapiens anubidis
 published: true
-date: 2020-09-12T21:58:46.024Z
+date: 2020-09-12T22:13:30.865Z
 tags: diseases, anubi, species, desert, uhai desert, pwa desert
 editor: markdown
 dateCreated: 2020-09-08T02:19:14.951Z
@@ -25,7 +25,7 @@ Anubi have tall pointed ears, narrow faces with long snouts, lithe and muscular 
 > Anubi are known for their ability to survive in extreme desert climates. Anubi have a knack for Necromancy, magic involving darkness and shadows, Artistry, Astrology, Herbs and Medicine, Languages, History, Elemental Sorcery, and Elemental Kinesis.
 {.is-info}
 
-### Sexual Dimorphism
+### Sexual dimorphism
 
 There is no distinguishing differences between sexes. Both male and female Anubi have slender and feminine appearances. Their thin frames and graceful movements are much akin to those of a dancer — agile yet strong.
 
@@ -55,7 +55,7 @@ The Anubi have a religion (Anubian) that differs from the rest of the world. It 
 
 It is a known fact that the Anubi Pendragons of old were an advanced society. They isolated themselves from other Pendragons, believing them to be unclean. The Anubi lived in tribes deep in the hearts of deserts where no other Pendragon subspecies with normal mind would dare to venture.
 
-Ancient Anubi architecture can still be found in the Uhai Desert, and a few small Anubi tribes still take up residence there, their numbers not much more than a few thousand. An even smaller population of Anubi can be found in Swaraj in the Pwa Desert. The most distinguished tribe of Anubi (the Anubi Yv sha Ledhs) however, can be found in the southern desert regions of Notios Sudesha around the Tmu Desert. This particular tribe has been entrusted with the management of the Krokino Prison, where the most deadly and hostile of criminal offenders are sent when death just isn’t an option.
+Ancient Anubi architecture can still be found in the Uhai Desert, and a few small Anubi tribes still take up residence there, their numbers not much more than a few thousand. An even smaller population of Anubi can be found in Swaraj in the Pwa Desert. The most distinguished tribe of Anubi (the *Anubi Yv sha Ledhs*) however, can be found in the southern desert regions of Notios Sudesha around the Tmu Desert. This particular tribe has been entrusted with the management of the Krokino Prison, where the most deadly and hostile of criminal offenders are sent when death just isn’t an option.
 
 Anubi used stone and glass as their main building materials, making large sparkling structures in the middle of the deserts. Their main means of transportation was foot, believing in those times that machines and machina would cause evil. Other means of transportation were altogether unnecessary due to the fact that their settlements were close enough together that faster and more efficient modes of transportation were never desired.
 
@@ -66,9 +66,9 @@ During the Ramathian year 50,000, a strange and undocumented illness wreaked hav
 ## Appendix
 
 - [Anubian, Language *The spoken language of the Anubi.*](/languages/anubian)
-- Anubian, Religion - the most popular Anubi religion.
-- [Pyx'gesopeud Tradition](/traditions/pyxgesopeud-tradition)
-- [Quangest](/calendar/quangest) - A holiday to mourn the victims of the Anubi plague.
+- Anubian, Religion The most popular Anubi religion.
+- [Pyx'gesopeud Tradition *An Anubian marriage tradition.*](/traditions/pyxgesopeud-tradition)
+- [Quangest *A holiday to mourn the victims of the Anubi plague.*](/calendar/quangest)
 - Krokino Prison
 - [Jolacom *A magic-suppressing natural resource.*](/natural-resources/jolacom)
 {.links-list}
