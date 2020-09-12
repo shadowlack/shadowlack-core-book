@@ -2,7 +2,7 @@
 title: Floras
 description: Plant, bacterial, or fungal life.
 published: true
-date: 2020-09-12T20:42:42.813Z
+date: 2020-09-12T20:45:03.112Z
 tags: floras
 editor: markdown
 dateCreated: 2020-09-12T19:16:15.298Z
@@ -17,7 +17,7 @@ dateCreated: 2020-09-12T19:16:15.298Z
 
 ### Coastal
 
-- [Tupmatt Sjaa](/floras/tupmatt-sjaa)
+- [Tupmatt sjaa](/floras/tupmatt-sjaa)
 
 ### Deserts
 
@@ -25,15 +25,15 @@ dateCreated: 2020-09-12T19:16:15.298Z
 ### Forests
 
 - [Bokbu](/floras/bokbu)
-- [Florni Marei](/floras/florni-marei)
+- [Florni marei](/floras/florni-marei)
 - [Gartarp](/floras/gartarp)
 - [Kurre](/floras/kurre)
 - [Nujeq](/floras/nujeq)
-- [Onye Sjaa](/floras/onye-sjaa)
-- [Phae Phae](/floras/phae-phae)
+- [Onye sjaa](/floras/onye-sjaa)
+- [Phae phae](/floras/phae-phae)
 - [Punzkin](/floras/punzkin)
 - [Rizu](/floras/rizu)
-- [Rojtsemd Yjumda Sjaa](/floras/rojtsemd-yjumda-sjaa)
+- [Rojtsemd yjumda sjaa](/floras/rojtsemd-yjumda-sjaa)
 - [Scanzi](/floras/scanzi)
 - [Skrud](/floras/skrud)
 
@@ -43,24 +43,24 @@ dateCreated: 2020-09-12T19:16:15.298Z
 - [Luceshtaf](/floras/luceshtaf)
 - [Punzkin](/floras/punzkin)
 - [Rizu](/floras/rizu)
-- [Skeleton Tree](/floras/skeleton-tree)
+- [Skeleton tree](/floras/skeleton-tree)
 
 ### Mountains
 
 - [Apllea](/floras/apllea)
 - [Bokbu](/floras/bokbu)
 - [Kurre](/floras/kurre)
-- [Phae Phae](/floras/phae-phae)
+- [Phae phae](/floras/phae-phae)
 - [Scanzi](/floras/scanzi)
 - [Skrud](/floras/skrud)
-- [Smoke Root](/floras/smoke-root)
+- [Smoke root](/floras/smoke-root)
 
 ### Plains
 
 - [Achaela](/floras/achaela)
 - [Alneak](/floras/alneak)
 - [Apllea](/floras/apllea)
-- [Florni Marei](/floras/florni-marei)
+- [Florni marei](/floras/florni-marei)
 - [Gartarp](/floras/gartarp)
 - [Nujeq](/floras/nujeq)
 - [Toaal](/floras/toaal)
@@ -68,11 +68,11 @@ dateCreated: 2020-09-12T19:16:15.298Z
 
 ### Underdark and Caves
 
-- [Florni Marei](/floras/florni-marei)
+- [Florni marei](/floras/florni-marei)
 - [Gartarp](/floras/gartarp)
 - [Nujeq](/floras/nujeq)
 - [Skrud](/floras/skrud)
-- [Smoke Root](/floras/smoke-root)
+- [Smoke root](/floras/smoke-root)
 
 ## Aquatic
 
@@ -91,12 +91,12 @@ dateCreated: 2020-09-12T19:16:15.298Z
 - [Scanzi](/floras/scanzi)
 - [Squeet](/floras/squeet)
 - [Skrud](/floras/skrud)
-- [Smoke Root](/floras/smoke-root)
+- [Smoke root](/floras/smoke-root)
 
 ## Mythological
 
-Floras that are rumoured to exist only in myth and legend.
+Floras that are rumoured to exist in myth and legend.
 
 - [Kilofyr](/floras/kilofyr)
-- [Rot Worm](/floras/rot-worm)
+- [Rot worm](/floras/rot-worm)
 - [Zomachubh](/floras/zomachubh)
