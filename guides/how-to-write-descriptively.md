@@ -2,7 +2,7 @@
 title: How to Write Descriptively
 description: 
 published: true
-date: 2020-09-13T02:13:23.008Z
+date: 2020-09-13T02:15:02.860Z
 tags: guides
 editor: markdown
 dateCreated: 2020-09-13T02:13:23.008Z
@@ -55,4 +55,4 @@ Once you finish writing your description it should be thorough and should create
 
 ## Summary
 
-This is the end of the guide. I hope that you learned a little more about writing effectively. If you have more questions, feel free to ask them at the help_desk. As you roleplay, always try to write about as many details as you can. If you do this, then your descriptive writing skills will continue to improve and your roleplaying will become a more enjoyable experience for both you and those you play with.
+This is the end of the guide. I hope that you learned a little more about writing effectively. If you have more questions, feel free to ask them at the help desk. As you roleplay, always try to write about as many details as you can. If you do this, then your descriptive writing skills will continue to improve and your roleplaying will become a more enjoyable experience for both you and those you play with.
