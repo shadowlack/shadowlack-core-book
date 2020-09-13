@@ -2,7 +2,7 @@
 title: Customs and Traditions
 description: Blend in... or not.
 published: true
-date: 2020-09-12T22:33:53.305Z
+date: 2020-09-13T00:45:58.094Z
 tags: culture
 editor: markdown
 dateCreated: 2020-09-07T02:47:19.021Z
@@ -18,7 +18,7 @@ Touch is generally avoided by mages, who are more wary of touch-driven curses. W
 
 Tattoos are a large part of the planet life on Ramath-lehi. Tattoos are so culturally ingrained in Ramathian society, that it is actually considered weird for someone to not have tattoos. One of the oldest practises involves getting [Grading Stripes](/traditions/grading-system) which are tattooed stripes that Ramathians would receive for recognition of a great achievement. While dated, many Ramathians still get visible Grading Stripes - usually on their faces. However they are not always given out by the Grader family, which was who the tradition originated with. Instead there are many families who chose to reward their own kin with their own markings and insignia.
 
-Tattoos have also become more complicated and ornate over the years. Sometimes Ramathians get their tattoos “infused” with special magic properties using a special Fronimium ink. These can vary from simple glowing, to colour changes, or even giving off heat. It takes a very skilled mage and tattoo artist to create these particular permanent works of art, and they often do not come cheap.
+Tattoos have also become more complicated and ornate over the years. Sometimes Ramathians get their tattoos *infused* with special magic properties using a special Fronimium ink. These can vary from simple glowing, to colour changes, or even giving off heat. It takes a very skilled mage and tattoo artist to create these particular permanent works of art, and they often do not come cheap.
 
 Becoming a tattoo artist is considered to be a very respectable career by Ramathian standards.
 
@@ -72,4 +72,4 @@ Not many Ramathians practise Blood Oaths as they are considered to be very archa
 
 ## Smoking
 
-Smoking is not a very popular past-time on Ramath-lehi and is generally frowned upon. It has been scientifically proven to cause long-term respiratory damage. However the smoking of Nujeq is still relatively popular. It is much more common to see Nujeq being taken orally, or baked into things, than smoked.
+Smoking is not a very popular past-time on Ramath-lehi and is generally frowned upon. It has been scientifically proven to cause long-term respiratory damage. However the smoking of [nujeq](/floras/nujeq) is still relatively popular. It is much more common to see nujeq being taken orally, or baked into things, than smoked.
