@@ -2,11 +2,28 @@
 title: Manual of Style
 description: Basic style guidelines to follow when editing or creating new pages in order to keep the wiki consistent. 
 published: true
-date: 2020-09-12T22:30:39.073Z
+date: 2020-09-13T02:23:51.649Z
 tags: guides
 editor: markdown
 dateCreated: 2020-09-12T21:26:20.462Z
 ---
+
+## Page titles
+
+- Use lowercase letters for the URL portion of the page title.
+- Capitalize the initial letter, but otherwise follow sentence case for page titles.
+- Do not use A, An, or The as the first word.
+- Normally use nouns or noun phrases: Early life, not In early life.
+
+## Page sections
+
+A page should begin with an introductory lead section—a concise summary of the page—which is never divided into sections. This is the section before the table of contents and the first heading. The lead serves as an introduction to the page and a summary of its most important contents.
+
+A lead section should contain no more than four well-composed paragraphs and be carefully sourced as appropriate.
+
+### Boldface
+
+Use boldface (**text like this**) to highlight the first occurrence of the title word/phrase of the article in the lead section.
 
 ## Capitalization
 
@@ -15,9 +32,6 @@ dateCreated: 2020-09-12T21:26:20.462Z
 - Do not capitalize names of floras and creatures unless they are at the beginning of a sentence.
 - Use sentence case for article sub-headings. Eg. Units of measurement.
 
-## Boldface
-
-Use boldface (**text like this**) to highlight the first occurrence of the title word/phrase of the article in the lead section.
 
 ## Italics
 
