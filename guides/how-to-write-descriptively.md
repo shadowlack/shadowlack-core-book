@@ -1,8 +1,8 @@
 ---
-title: How to Write Descriptively
-description: 
+title: How to write descriptively
+description: A small guide on ways you can flesh out your writing.
 published: true
-date: 2020-09-13T02:15:02.860Z
+date: 2020-09-13T02:16:21.829Z
 tags: guides
 editor: markdown
 dateCreated: 2020-09-13T02:13:23.008Z
