@@ -2,24 +2,24 @@
 title: Natural Resources
 description: Useful minerals and other naturally ocurring substances.
 published: true
-date: 2020-09-11T20:33:28.204Z
-tags: 
-editor: undefined
+date: 2020-09-13T14:53:46.659Z
+tags: natural-resources
+editor: markdown
 dateCreated: 2020-09-06T22:40:03.100Z
 ---
 
 ## Textiles
 
-* [Arkatrosi Silk](/natural-resources/arkatrosi-silk "wikilink")
+- [Arkatrosi silk](/natural-resources/arkatrosi-silk)
 
 ## Liquids
 
-* [Blotkars Blood](/natural-resources/blotkars-blood "wikilink")
-* [Numsuju Blood](/natural-resources/numsuju-blood "wikilink")
+- [Blotkars blood](/natural-resources/blotkars-blood)
+- [Numsuju blood](/natural-resources/numsuju-blood)
 
 ## Minerals
 
-* [Fasgoth](/natural-resources/fasgoth "wikilink")
-* [Fronimium](/natural-resources/fronimium "wikilink")
-* [Jolacom](/natural-resources/jolacom "wikilink")
-* [Totobenki Crystals](/natural-resources/totobenki-crystals "wikilink")
+- [Fasgoth](/natural-resources/fasgoth)
+- [Fronimium](/natural-resources/fronimium)
+- [Jolacom](/natural-resources/jolacom)
+- [Totobenki crystals](/natural-resources/totobenki-crystals)
