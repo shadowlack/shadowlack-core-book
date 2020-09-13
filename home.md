@@ -2,7 +2,7 @@
 title: Shadowlack
 description: This wiki revolves around the Shadowlack World Building Project.
 published: true
-date: 2020-09-12T21:54:46.137Z
+date: 2020-09-13T02:26:55.164Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-06T17:47:00.222Z
@@ -18,6 +18,5 @@ dateCreated: 2020-09-06T17:47:00.222Z
 
 ## Contribute
 
-- [:book: Manual of Style *How wiki pages should be written and formatted.*](/guides/style-guide)
-- [GitHub *The entire contents of this wiki.*](https://github.com/shadowlack/shadowlack-core-book)
+- [:book: Manual of style *How wiki pages should be written and formatted.*](/guides/manual-of-style)
 {.links-list}
