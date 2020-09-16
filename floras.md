@@ -1,8 +1,8 @@
 ---
-title: Floras
+title: Flora
 description: Plant, bacterial, or fungal life.
 published: true
-date: 2020-09-12T20:45:03.112Z
+date: 2020-09-16T17:52:13.232Z
 tags: floras
 editor: markdown
 dateCreated: 2020-09-12T19:16:15.298Z
