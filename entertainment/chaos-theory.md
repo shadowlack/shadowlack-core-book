@@ -2,9 +2,9 @@
 title: Chaos Theory
 description: An all-Feydragon rock band.
 published: true
-date: 2020-09-11T20:38:53.938Z
-tags: 
-editor: undefined
+date: 2020-09-16T17:56:03.503Z
+tags: music, rock, musicians, band
+editor: markdown
 dateCreated: 2020-09-06T16:49:29.798Z
 ---
 
@@ -16,7 +16,7 @@ Along with a successful musical career, the band's members are known for their a
 
 ### Sakenal
 
-[Sakenal](/pop-culture-figures/sakenal) is the band's frontman and lead vocalist. Out of the entire band, he is the most versatile and skilled when it comes to vocals, and perhaps more importantly, he has the necessary charisma. Combined with his good looks, some have suspected that he may be an Azetsum; however, Sakenal has neither confirmed nor denied this.
+[Sakenal](/characters/sakenal) is the band's frontman and lead vocalist. Out of the entire band, he is the most versatile and skilled when it comes to vocals, and perhaps more importantly, he has the necessary charisma. Combined with his good looks, some have suspected that he may be an Azetsum; however, Sakenal has neither confirmed nor denied this.
 
 ### Garon & Rogan
 
