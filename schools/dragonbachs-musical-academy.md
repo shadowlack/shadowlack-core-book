@@ -2,9 +2,9 @@
 title: Dragonbach's Musical Academy
 description: 
 published: true
-date: 2020-09-11T21:03:32.385Z
-tags: 
-editor: undefined
+date: 2020-09-16T18:13:13.975Z
+tags: private school, swaraj
+editor: markdown
 dateCreated: 2020-09-06T17:14:37.646Z
 ---
 
@@ -19,4 +19,4 @@ Dragonbach's is an elite school for those with skills and talents in music-makin
 
 ## Graduates
 
-* [Requiem Falahau](/pop-culture-figures/requiem-falahau "wikilink")
+- [Parallax](/entertainment/parallax) band members: [Requiem Falahau](/characters/requiem-falahau), Jello Yissin, and Nell Asinio
