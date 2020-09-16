@@ -1,14 +1,16 @@
 ---
 title: Zoar Dragyn
-description:
+description: 
 published: true
-date: 2012-08-09T21:37:13Z
-tags:
-author: iversia
+date: 2020-09-16T17:30:06.894Z
+tags: 
 editor: markdown
+dateCreated: 2020-09-13T17:52:43.919Z
 ---
 
-Zoar is a small [Pendragon](/Pendragon "wikilink"), although he would never admit it. He stands about 25 at the shoulder, which is short for his age. His fur is a bright green colour and his matted hair his a light blue. Around his left eye he has a black star, and around his right he has a comet shaped marking. At the bend in each limb there is a tuft of pink fur. Zoar has earned two of his stripes. In Zoar's first war, he was badly injured. His left hind leg and most of his tail were severed, but thanks to [Machina Technology](/Machina_Technology "wikilink"), his missing limbs were restored, but at the price of a favour to [Talis Adamaint|Talis]. Zoar's tattoo can be found on both of his rear haunches. It is black, and shaped like a little mouse. It means 'little warrior'.
+Zoar is a small [Pendragon](/species/pendragon), although he would never admit it. He stands about 25 at the shoulder, which is short for his age. His fur is a bright green colour and his matted hair his a light blue. Around his left eye he has a black star, and around his right he has a comet shaped marking. At the bend in each limb there is a tuft of pink fur. Zoar has earned two of his [Grading Stripes](/traditions/grading-system).
+
+In Zoar's first war, he was badly injured. His left hind leg and most of his tail were severed, but thanks to Machina Technology, his missing limbs were restored, but at the price of a favour to [Talis Adamaint](/characters/talis-adamaint). Zoar's tattoo can be found on both of his rear haunches. It is black, and shaped like a little mouse. It means *little warrior*.
 
 Personality
 -----------
