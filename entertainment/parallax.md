@@ -2,7 +2,7 @@
 title: Parallax
 description: 
 published: true
-date: 2020-09-16T18:11:10.694Z
+date: 2020-09-16T18:13:05.126Z
 tags: music, rock, alternative
 editor: markdown
 dateCreated: 2020-09-06T16:49:59.506Z
