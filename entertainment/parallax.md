@@ -2,7 +2,7 @@
 title: Parallax
 description: 
 published: true
-date: 2020-09-16T17:57:26.212Z
+date: 2020-09-16T18:07:59.566Z
 tags: music, rock, alternative
 editor: markdown
 dateCreated: 2020-09-06T16:49:59.506Z
@@ -12,8 +12,7 @@ dateCreated: 2020-09-06T16:49:59.506Z
 
 Rumours have surfaced that Requiem and Jello had an affair, but Falahau denies this, saying that he is gay and would never sleep with a girl.
 
-Band Members
-------------
+## Band Members
 
 ### Requiem Falahau
 
@@ -21,19 +20,20 @@ Requiem Falahau was born in Dhruv as a half-Yki. He moved to Watani to be school
 
 ### Jello Yissin
 
+Jello is the band's only female member and seems to be their fag hag - every male member of the band is bisexual or gay. She's the most upbeat and hyper of the group, with wildy-colored hair and fur that pulses in time to music. She is the keyboardist and mixer for the band, using precision and a vivid musical taste in her work. 
+
 ### Nell Asinio
+
+Nell and Requiem are best friends, and were, for a short span of time, lovers. He is the peacemaker and most easygoing of the band, and his beauty, coupled with his irrisistible charm and longing for love, make him one of the most-loved characters in musical history. He is the band's bassist, playing with all the grace and ease of a big cat. 
 
 ### William Gojgla
 
-Discography
------------
+## Discography
 
-### Albums
+### Studio Albums
 
-- 81377: <i>This Is the End</i> 
-- 81379: <i>I Guess I Loved You</i>
-- 81381: <i>Underworld</i>
-
-### Singles
-
-<i>Closer</i> from This is the End <i>Iris</i> from This is the End <i>A Kick in the Teeth</i> from I Guess I Loved You <i>We're in This Together Now</i> from I Guess I Loved You <i>Haunted</i> from I Guess I Loved You <i>Get Over It</i> from I Guess I Loved You <i>Disarm</i> from I Guess I Loved You <i>Cleanse Song</i> from I Guess I Loved You <i>Bittersweet Symphony</i> from I Guess I Loved You <i>Classifieds</i> from Underworld <i>Black Mamba</i> from Underworld <i>Slow Down</i> from Underworld</i>
+| Year    | Album          |
+| :------ | :------------- |
+| 81377   | *This Is the End* |
+| 81379   | *I Guess I Loved You*|
+| 81381   | *Underworld* |
