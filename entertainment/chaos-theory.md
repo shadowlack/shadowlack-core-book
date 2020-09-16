@@ -2,13 +2,13 @@
 title: Chaos Theory
 description: An all-Feydragon rock band.
 published: true
-date: 2020-09-16T17:56:03.503Z
+date: 2020-09-16T18:09:28.419Z
 tags: music, rock, musicians, band
 editor: markdown
 dateCreated: 2020-09-06T16:49:29.798Z
 ---
 
-**Chaos Theory** is a rock band formed in 81375. Initially they were mocked for having a "gimmicky" all-[Feydragon](/species/feydragon) lineup, and for having a first album which, to this day, is regarded as being "enjoyably bad". It was their second album, **Covenants of the Dragon**, that propelled the group into mainstream fame and popularity. Their signature style includes vocals from everyone in the band, and the use of dozens of instruments in each song.
+**Chaos Theory** is a rock band formed in 81375. Initially they were mocked for having a "gimmicky" all-[Feydragon](/species/feydragon) lineup, and for having a first album which, to this day, is regarded as being "enjoyably bad". It was their second album, *Covenants of the Dragon*, that propelled the group into mainstream fame and popularity. Their signature style includes vocals from everyone in the band, and the use of dozens of instruments in each song.
 
 Along with a successful musical career, the band's members are known for their active work in bridging the social gap between Feydragons and mainstream Ramathian society. Everyone in the group goes by a stage name to protect their identities, and while they have used these names since the band had been formed, it has been confirmed that they had been wanting to end the segregation for years.
 
@@ -38,12 +38,12 @@ Jesthor, the drummer, is quiet, shy, and socially awkward. When alone with his b
 
 ### Studio Albums
 
-| Year              | Album                         |
-| :-------------    | :-------------                |
-| 81375             | **Loving Love**               |
-| 81378             | **Covenants of the Dragon**   |
-| 81380             | **Project: Countdown**        |
-| 81382             | **Beyond the Impossible**
-| 81383             | **A Prayer for Unity**
+| Year    | Album          |
+| :------ | :------------- |
+| 81375   | *Loving Love* |
+| 81378   | *Covenants of the Dragon* |
+| 81380   | *Project: Countdown* |
+| 81382   | *Beyond the Impossible* |
+| 81383   | *A Prayer for Unity* |
 
 [^1]: You really had to be there.
