@@ -1,6 +1,6 @@
 ---
 title: Jaceen Lapices
-description: 
+description: History teacher and administrator at Janardan Academy.
 published: true
 date: 2020-09-13T17:48:52.906Z
 tags: lapices
@@ -12,13 +12,11 @@ Jaceen is a little on the short size (151cm / \~4'10") for her age. She has a sm
 
 A black mask covers Jaceen's face, which makes her pupil-less white-yellow eyes stand out even more. Her ears are black and she often wears purple clasped ear rings in them. Jaceen's front left paw is also completely black, however this wasn't a naturally occurring mark. In fact it was part of an initiation that she went through in order to become a senior staff member at Janardan. Jaceen also wears purple coloured cuffs around her ankles. Her symbol on her left haunch is of a black butterfly with a few red markings on it.
 
-Personality
------------
+## Personality
 
 As far as making first impressions go, Jaceen would probably come off as a kind and caring soul. That's not to say that she isn't. There's just many layers to her and not just that outer one that is always ready to bear a smile or pass on words of encouragement. Someone strong in empathy would be able to sense her troubles easily. Getting Jaceen to talk about them would be a much different matter. She likes to deal with things by herself and would turn down aid if she felt that she could get out of a situation with her bearings still intact.
 
-History
--------
+## History
 
 Jaceen was born into a quiet family. It was small, compact, and in Jaceen's opinion, it had been almost perfection. The family consisted of herself, her parents, and her brother. Her brother, Saber, was just a few Ramathian years older than her. It can be said that the two of them had a bond that went a little further than just sibling love. The two trusted each other with their lives, their hopes, and their dreams.
 

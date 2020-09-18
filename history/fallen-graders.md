@@ -11,7 +11,7 @@ dateCreated: 2020-09-06T16:50:38.308Z
 What an average Ramathian (your character) would know:
 ======================================================
 
-1.  Karryasa and Zamfir Grader were the [Arch Magos and Magosai of Ramath-lehi](/Government "wikilink").
+1.  Karryasa and Zamfir Grader were the [Arch Magos and Magosai of Ramath-lehi](/Government).
 2.  Karryasa Grader was killed / swallowed up by the Nothing.
 3.  Zamfir Grader was hospitalized.
 4.  In her parent's absence, Koani Grader took over their duties.
@@ -41,23 +41,23 @@ Yeah, patricide. She didn't want to see her Father suffer any more, so she poiso
 Major Characters
 ================
 
--   [Karryasa Grader](/Karryasa_Grader "wikilink") (Arch Magosai) - Zamfir's mate; rather maimed/torn in appearance; a very renown seer; seen as the "head" of the Grader operation; thought to have Zamfir under a spell to "use" him
--   [Zamfir Grader](/Zamfir_Grader "wikilink") (Arch Magos) - Karryasa's mate; deeply into politics; known more so for his "presence"; very adept with elemental magic and "shadier" things; all of his magic has a signature aqua colour, typical of a Grader
--   [Koani Grader](/Koani_Grader "wikilink") - Eldest daughter of Karryasa and Zamfir; widow; somewhat of a seer, but not nearly as good as her mother; appeared to crawl out of the woodwork when turmoil hit the Grader family; has had dealings with rapine in the past
--   [Kakosenas Shriker](/Kakosenas_Shriker "wikilink") - Alleged murderer of Karryasa; the catalyst
--   [Riot Stormwing](/Riot_Stormwing "wikilink") - Took justice into her own hands (beat the shit out of Koani for not giving Kakosenas a fair trial.)
+-   [Karryasa Grader](/characters/karryasa-grader) (Arch Magosai) - Zamfir's mate; rather maimed/torn in appearance; a very renown seer; seen as the "head" of the Grader operation; thought to have Zamfir under a spell to "use" him
+-   [Zamfir Grader](/characters/zamfir-grader) (Arch Magos) - Karryasa's mate; deeply into politics; known more so for his "presence"; very adept with elemental magic and "shadier" things; all of his magic has a signature aqua colour, typical of a Grader
+-   [Koani Grader](/characters/koani-grader) - Eldest daughter of Karryasa and Zamfir; widow; somewhat of a seer, but not nearly as good as her mother; appeared to crawl out of the woodwork when turmoil hit the Grader family; has had dealings with rapine in the past
+-   [Kakosenas Shriker](/characters/kakosenas-shriker) - Alleged murderer of Karryasa; the catalyst
+-   [Riot Stormwing](/characters/riot-stormwing) - Took justice into her own hands (beat the shit out of Koani for not giving Kakosenas a fair trial.)
 
 Minor Characters
 ================
 
--   [Sari Zeb](/Sari_Zeb "wikilink") - Arch Magosai before the Grader reign; mated to Arch Magos Thanos Dragyn; died in a "suspicious" machina explosion; was an exceptional seer; rumoured to speak to Karryasa Grader in her dreams; another catalyst
--   [Vythe Vidallyn](/Vythe_Vidallyn "wikilink") - Grader's Head of Security; Koani's personal bodyguard; actually happens to have a "thing" for Koani that isn't really mutual
--   [Codat](/Codat "wikilink") - A Grader bodyguard; USR trained; not too much "real" experience under his belt just yet; took a bullet through the hand from Riot during the showdown at the Rloa Kumiym
--   [Szambel](/Szambel "wikilink") - Another Grader bodyguard; USR trained
--   [Radin Dragyn](/Radin_Dragyn "wikilink") - Cayson's most bestest best friend in the entire universe; son of Ratharee and Lorax Dragyn; comes from a very, very large family; okay, so maybe he's not crucial to the plot, but he's so goddamn cute
--   [Lakmir Grader](/Lakmir_Grader "wikilink") - Zamfir's younger brother; Koani's uncle; "rightful" heir to the Grader reign; was skillfully manipulated by Koani Grader for her own personal gain
--   [Jaceen Lapices](/Jaceen_Lapices "wikilink") - Really just tossed in the plot to give Koani added trouble; Saber's sister; Cayson's "adoptive" mother; is very, very mistrustful of Koani
--   [Sabre Lapices](/Sabre_Lapices "wikilink") - Koani's late husband; Cayson's father; was murdered by a rapine on planet Candrice IV; some believe that Koani killed him though
--   [Ramix Sun](/Ramix_Sun "wikilink") - Council of Twelve member; into inventing / troubleshooting; the Sun's are one of the "founding" families of the Council with a lineage that can be traced far, far, back; a very royal bloodline
--   [Jecht Savarally](/Jecht_Savarally "wikilink") - The student that was found dismembered at the Janardan Academy.
--   [Thoren Jumakh](/Thoren_Jumakh "wikilink") - A character who perished during a cult initiation because of "Paupfaedhs, a legendary powder that causes the drinker to sink when they hit water." He was eaten by a Kuenym.
+-   [Sari Zeb](/characters/sari-zeb) - Arch Magosai before the Grader reign; mated to Arch Magos Thanos Dragyn; died in a "suspicious" machina explosion; was an exceptional seer; rumoured to speak to Karryasa Grader in her dreams; another catalyst
+-   [Vythe Vidallyn](/characters/vythe-vidallyn) - Grader's Head of Security; Koani's personal bodyguard; actually happens to have a "thing" for Koani that isn't really mutual
+-   [Codat](/characters/codat) - A Grader bodyguard; USR trained; not too much "real" experience under his belt just yet; took a bullet through the hand from Riot during the showdown at the Rloa Kumiym
+-   [Szambel](/characters/szambel) - Another Grader bodyguard; USR trained
+-   [Radin Dragyn](/characters/radin-dragyn) - Cayson's most bestest best friend in the entire universe; son of Ratharee and Lorax Dragyn; comes from a very, very large family; okay, so maybe he's not crucial to the plot, but he's so goddamn cute
+-   [Lakmir Grader](/characters/lakmir-grader) - Zamfir's younger brother; Koani's uncle; "rightful" heir to the Grader reign; was skillfully manipulated by Koani Grader for her own personal gain
+-   [Jaceen Lapices](/characters/jaceen-lapices) - Really just tossed in the plot to give Koani added trouble; Saber's sister; Cayson's "adoptive" mother; is very, very mistrustful of Koani
+-   [Sabre Lapices](/characters/sabre-lapices) - Koani's late husband; Cayson's father; was murdered by a rapine on planet Candrice IV; some believe that Koani killed him though
+-   [Ramix Sun](/characters/ramix-sun) - Council of Twelve member; into inventing / troubleshooting; the Sun's are one of the "founding" families of the Council with a lineage that can be traced far, far, back; a very royal bloodline
+- [Jecht Savarally](/characters/jecht-savarally) - The student that was found dismembered at the Janardan Academy.
+-   [Thoren Jumakh](/characters/thoren-jumakh) - A character who perished during a cult initiation because of "Paupfaedhs, a legendary powder that causes the drinker to sink when they hit water." He was eaten by a Kuenym.
