@@ -3,8 +3,8 @@ title: Cadmium J66
 description: 
 published: true
 date: 2020-09-13T17:47:35.455Z
-tags: 
-editor: undefined
+tags: jpack
+editor: markdown
 dateCreated: 2020-09-13T17:47:30.487Z
 ---
 

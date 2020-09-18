@@ -3,7 +3,7 @@ title: Kakosenas Shriker
 description: Karryasa Grader's alleged murderer.
 published: true
 date: 2020-09-16T17:44:22.458Z
-tags: 
+tags: shriker
 editor: undefined
 dateCreated: 2020-09-06T16:53:35.368Z
 ---

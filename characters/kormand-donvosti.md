@@ -3,7 +3,7 @@ title: Kormand Donvosti
 description: 
 published: true
 date: 2020-09-13T17:49:24.158Z
-tags: 
+tags: donvosti
 editor: undefined
 dateCreated: 2020-09-13T17:49:19.362Z
 ---

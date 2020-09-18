@@ -3,7 +3,7 @@ title: Hart Demori
 description: 
 published: true
 date: 2020-09-13T17:48:22.216Z
-tags: 
+tags: demori
 editor: undefined
 dateCreated: 2020-09-13T17:48:17.064Z
 ---

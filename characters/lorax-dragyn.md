@@ -3,10 +3,18 @@ title: Lorax Dragyn
 description: 
 published: true
 date: 2020-09-13T17:49:56.016Z
-tags: 
-editor: undefined
+tags: dragyn
+editor: markdown
 dateCreated: 2020-09-13T17:49:51.042Z
 ---
+
+**Gender:** male
+**Age:** 40
+**Mother:** Sari Dragyn
+**Father:** Thanos Dragyn
+**Siblings:** Terez Dragyn, Lorax Dragyn
+**Trades:** Space Operations (Master), Astronomy (Master)
+**Player:** Shriker
 
 If it had not of been for time and its impact, Lorax would be an identical carbon copy of his twin brother: Draco Dragyn. However, over time, their similar yet incredibly different lifestyles, has shaped two individuals who are not only different physically, but mentally as well.
 
@@ -20,8 +28,7 @@ His tail-flame is average, as it burns the natural colour of fire. What is mildl
 
 Lorax's markings are surprisingly simple. He has a thick black marking over his snout as well as black triangles burnt underneath both of his eyes. On his left haunch, Lorax also wears a tattoo given to him by his own mother Sari, a renowned seer. The tattoo is set up like a round target with feathered arrows set up at its compass points. The tattoo itself means something along the lines of 'Guide,' or 'Found'. Lorax, despite all the major pitfalls that he has faced in his life, has somehow managed to attain all four of his Grading stripes.
 
-Personality
------------
+## Personality
 
 Lorax is much quieter than his twin brother, keeping many things to himself. He can slip into the carefree and fun filled pendragon he used to be on given occasions though. When he's not in a 'funk,' he likes to laugh, joke, and play harmless pranks on those around him. Despite having to be a father figure to so many youngsters, Lorax refuses to fully grow up. He likes to treat his own children (21 in total' yes, that is a lot) as if they were his best friends. When they do act out of line, he's forced to fall back into the stereotypical role of a father (as much as he dislikes it). When they're sick, or missing' he worries, which is to be expected, as he is a rather compassionate type.
 
@@ -29,8 +36,7 @@ Another word to describe Lorax would be proud. He's proud of who he is. He's pro
 
 His wife and life-mate, Ratha, is the one who continuously dampens his moods. She teeters from time to time on the brink of insanity, which makes Lorax more often than not, fear for her well-being.
 
-History
--------
+## History
 
 Beginnings
 

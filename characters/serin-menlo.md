@@ -3,7 +3,7 @@ title: Serin Menlo
 description: Creator of the Menlo game and head of the Menlo Competitions Corporation.
 published: true
 date: 2020-09-16T17:33:25.979Z
-tags: 
+tags: menlo
 editor: undefined
 dateCreated: 2020-09-06T17:00:09.738Z
 ---
