@@ -2,9 +2,9 @@
 title: Anubi
 description: Draco sapiens anubidis
 published: true
-date: 2020-09-12T22:13:30.865Z
-tags: diseases, anubi, species, desert, uhai desert, pwa desert
-editor: markdown
+date: 2020-09-12T22:13:35.687Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-08T02:19:14.951Z
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Vythe Vidallyn
-description:
+description: 
 published: true
-date: 2012-08-13T17:25:12Z
-tags:
-author: shriker
-editor: markdown
+date: 2020-09-13T17:52:25.514Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:52:20.682Z
 ---
 
 Appearance

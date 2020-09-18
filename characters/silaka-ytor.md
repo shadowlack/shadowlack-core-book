@@ -1,11 +1,11 @@
 ---
 title: Silaka Ytor
-description:
+description: 
 published: true
-date: 2012-08-21T18:46:17Z
-tags:
-author: keblinky
-editor: markdown
+date: 2020-09-13T18:13:14.295Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T18:13:09.688Z
 ---
 
 Height- 5'0

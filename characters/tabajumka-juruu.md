@@ -2,7 +2,7 @@
 title: Tabajumka Juruu
 description: An indie comic writer and artist.
 published: true
-date: 2020-09-11T21:02:08.325Z
+date: 2020-09-16T17:32:07.263Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:01:49.147Z

@@ -1,11 +1,11 @@
 ---
 title: Thrai Bwekxa
-description:
+description: 
 published: true
-date: 2010-03-18T23:13:09Z
-tags:
-author: shriker
-editor: markdown
+date: 2020-09-13T17:51:54.764Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:51:49.794Z
 ---
 
 Being a Yki, his body is a pure color, from, obviously, head to toe and tail. His canine head has a marking, similar to a barcode, on the right side of his face. His vivid blue eyes closely resemble sapphires. His head hair is a gold color with silvery-platinum streaks on a few strands.

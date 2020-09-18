@@ -2,9 +2,9 @@
 title: Social Faux Pas and Taboos
 description: Things you should know about being a Ramathian.
 published: true
-date: 2020-09-12T22:34:34.584Z
-tags: culture
-editor: markdown
+date: 2020-09-12T22:34:39.396Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-07T02:47:35.320Z
 ---
 

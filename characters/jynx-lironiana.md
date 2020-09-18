@@ -1,11 +1,11 @@
 ---
 title: Jynx Lironiana
-description:
+description: 
 published: true
-date: 2010-03-18T23:04:58Z
-tags:
-author: shriker
-editor: markdown
+date: 2020-09-13T17:49:16.449Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:49:11.318Z
 ---
 
 Jynx is black with pale blue hair with gray streaks and bright blue eyes. Her nose is long, resembling a canine , and her tail looks like an arrowhead on the end. Her claws are gray, and she has a scar going vertically down her left eye, ending above her cheek. The flesh around and in the scar is red, as if it were given to her recently.

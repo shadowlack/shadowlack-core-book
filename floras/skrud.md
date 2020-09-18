@@ -2,9 +2,9 @@
 title: Skrud
 description: 
 published: true
-date: 2020-09-12T19:53:34.006Z
-tags: mountains, floras, fungus, common, tiny, wetlands
-editor: markdown
+date: 2020-09-12T19:53:38.642Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-11T20:44:34.862Z
 ---
 

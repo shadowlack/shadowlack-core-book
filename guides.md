@@ -2,9 +2,9 @@
 title: Guides
 description: 
 published: true
-date: 2020-09-13T02:26:32.563Z
-tags: guides
-editor: markdown
+date: 2020-09-13T02:26:37.026Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-13T01:59:17.590Z
 ---
 

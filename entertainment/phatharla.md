@@ -2,9 +2,9 @@
 title: Phatharla
 description: 
 published: true
-date: 2020-09-16T18:03:00.893Z
-tags: music, metal
-editor: markdown
+date: 2020-09-16T18:03:06.368Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-06T16:50:07.996Z
 ---
 

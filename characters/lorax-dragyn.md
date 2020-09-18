@@ -1,11 +1,11 @@
 ---
 title: Lorax Dragyn
-description:
+description: 
 published: true
-date: 2012-08-10T18:30:29Z
-tags:
-author: iversia
-editor: markdown
+date: 2020-09-13T17:49:56.016Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:49:51.042Z
 ---
 
 If it had not of been for time and its impact, Lorax would be an identical carbon copy of his twin brother: Draco Dragyn. However, over time, their similar yet incredibly different lifestyles, has shaped two individuals who are not only different physically, but mentally as well.

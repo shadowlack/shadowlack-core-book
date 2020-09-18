@@ -1,11 +1,11 @@
 ---
 title: Attrius
-description:
+description: 
 published: true
-date: 2010-09-23T23:40:33Z
-tags:
-author: attrius
-editor: markdown
+date: 2020-09-13T17:46:47.569Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:46:42.906Z
 ---
 
 BADASS MOFUCKA

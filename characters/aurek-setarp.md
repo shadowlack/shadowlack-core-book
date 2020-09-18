@@ -2,9 +2,10 @@
 title: Aurek Setarp
 description: 
 published: true
-date: 2020-09-06T03:20:54.569Z
+date: 2020-09-13T17:46:55.485Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-13T17:46:50.538Z
 ---
 
 Height- 4'7 ft

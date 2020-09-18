@@ -1,11 +1,11 @@
 ---
 title: Nyulie Tien
-description:
+description: 
 published: true
-date: 2013-12-15T01:13:47Z
-tags:
-author: salvation
-editor: markdown
+date: 2020-09-13T18:12:59.086Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T18:12:54.133Z
 ---
 
 All about .

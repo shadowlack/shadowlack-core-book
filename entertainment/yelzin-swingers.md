@@ -2,9 +2,9 @@
 title: Yelzin Swingers
 description: 
 published: true
-date: 2020-09-13T02:39:16.420Z
-tags: music, jazz, swing, aurius
-editor: markdown
+date: 2020-09-13T02:39:21.020Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-06T16:50:15.575Z
 ---
 

@@ -2,9 +2,10 @@
 title: Binail Hachuan
 description: 
 published: true
-date: 2020-09-06T03:19:07.731Z
-tags: pop culture
-editor: markdown
+date: 2020-09-13T17:47:19.337Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:47:14.395Z
 ---
 
 Physical Description

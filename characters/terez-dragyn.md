@@ -1,11 +1,11 @@
 ---
 title: Terez Dragyn
-description:
+description: 
 published: true
-date: 2010-01-26T03:03:08Z
-tags:
-author: shriker
-editor: markdown
+date: 2020-09-13T17:51:47.019Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:51:41.791Z
 ---
 
 {{Character |name=Terez Dragyn |image=[280px|thumb|center|Image by Wolf Paws.](/File:Dragyn-terez.gif‎ "wikilink") |status=Alive |race=Pendragon |gender=Male |mother=[Sari Dragyn](/Sari_Dragyn "wikilink") |father=[Thanos Dragyn](/Thanos_Dragyn "wikilink") |siblings=[Draco Dragyn](/Draco_Dragyn "wikilink"), [Lorax Dragyn](/Lorax_Dragyn "wikilink") |offspring= [Mezzo Dragyn](/Mezzo_Dragyn "wikilink") |player=Wolf Paws } Terez's fur is a light maroon colour, and his mane and goatee are both dark violet-red. His hair colour is a dark slate blue, and it is short and spiky. He also has the same coloured hair in tufts at his elbows. Terez wears blueish green cuffs around his ankles that have alternating black stripes (one points up, one points down). His symbol on his left haunch is a "Z" with a rectangle above it, a triangle below and to the left of it, and two curves to the right of it. Its meaning, *"loud, anger"*.

@@ -1,11 +1,11 @@
 ---
 title: Ruos-Halnakh de'Volithin
-description:
+description: 
 published: true
-date: 2012-12-12T02:29:33Z
-tags:
-author: nasuella
-editor: markdown
+date: 2020-09-13T17:51:15.107Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:51:10.015Z
 ---
 
 All about .

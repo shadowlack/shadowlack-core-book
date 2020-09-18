@@ -1,11 +1,11 @@
 ---
 title: Nickel J65
-description:
+description: 
 published: true
-date: 2012-08-10T18:22:34Z
-tags:
-author: stormwing
-editor: markdown
+date: 2020-09-13T17:50:35.915Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:50:31.078Z
 ---
 
 Nickel's pack identification tattoo, the Ramathian symbol for "J65," is on his right palm.

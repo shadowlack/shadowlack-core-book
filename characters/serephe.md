@@ -1,11 +1,11 @@
 ---
 title: Serephe
-description:
+description: 
 published: true
-date: 2012-04-28T15:09:43Z
-tags:
-author: syruslynch
-editor: markdown
+date: 2020-09-13T18:13:06.915Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T18:13:01.986Z
 ---
 
 **Name:** Sephere Tay'Tren **Age:** 21 **Gender:** Androgynous (Hermaphrodite) **Race:** Yki **Base:** White **Secondary color:** Goldentan **Eyecolor:** Purple **Specific marks:** White wings and featherquills running from the top of hir head and down along the back of hir head and to halfway down hir back. Scytheblade on the tailtip and various smaller decorative accessories on tail and wrists/ankles (Usually cuffs of sorts). Has a gem in the forehead, placed by hir former Master (An amethyst).

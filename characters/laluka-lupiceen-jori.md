@@ -1,11 +1,11 @@
 ---
 title: Laluka Lupiceen Jori
-description:
+description: 
 published: true
-date: 2012-08-10T20:51:31Z
-tags:
-author: iversia
-editor: markdown
+date: 2020-09-13T17:49:48.118Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:49:43.322Z
 ---
 
 A nimble creature, despite her many years, Laluka can easily keep up with pendragons a third her age. She is tough and resilient, with wiry muscles and sinew. She is believed to be half-Yki; her wolfish build is unusual for any from the tribe. Her build is lupine, but she still retains the natural size and coat of her people. Although she is large for a Yki, she is still no bigger than a Labrador. Laluka prefers to remain in her quadruped form, but if necessary she can shift to bipedal. Although a huntress, and a warrior to be reckoned with, Laluka still retains an aristocratic air of femininity about her. In her quadrupedal form, she lacks hair, appearing much like a miss-sized, oddly colored wolf.

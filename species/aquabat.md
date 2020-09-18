@@ -2,9 +2,9 @@
 title: Aquabat
 description: Resaquatilis sapiens
 published: true
-date: 2020-09-12T21:59:37.272Z
-tags: species, aquatic, marine, amphibious
-editor: markdown
+date: 2020-09-12T21:59:41.958Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-09T00:28:04.452Z
 ---
 

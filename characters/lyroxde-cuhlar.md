@@ -2,9 +2,9 @@
 title: Lyrox'de Cuhlar
 description: A character from Ramathian legend.
 published: true
-date: 2020-09-16T17:22:05.923Z
-tags: swaraj, historical figures
-editor: markdown
+date: 2020-09-16T17:22:26.004Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-07T02:13:30.219Z
 ---
 

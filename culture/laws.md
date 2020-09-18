@@ -2,9 +2,9 @@
 title: Laws and Illegal Activities
 description: Things that are illegal, or that are surprisingly not illegal.
 published: true
-date: 2020-09-12T22:38:17.635Z
-tags: culture
-editor: markdown
+date: 2020-09-12T22:38:22.866Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-07T02:47:27.382Z
 ---
 

@@ -2,9 +2,9 @@
 title: Yki
 description: Draco sapiens albusglacies
 published: true
-date: 2020-09-12T22:10:14.183Z
-tags: species
-editor: markdown
+date: 2020-09-12T22:10:19.663Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-09T18:57:12.312Z
 ---
 

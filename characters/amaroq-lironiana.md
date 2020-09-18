@@ -2,9 +2,10 @@
 title: Amaroq Lironiana
 description: 
 published: true
-date: 2020-09-06T03:18:51.583Z
+date: 2020-09-13T17:46:24.387Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-13T17:46:19.655Z
 ---
 
 Amaroq is black with gray spikes on his neck. He has dark purple spots here and there,and his wings are also purple. The part that connects his wing to his back is black, but in between is purple. His talons curve only slightly, but are long. His tail flame is usually black, but occasionally it is purple or blue.

@@ -1,11 +1,11 @@
 ---
 title: Zara Angeli
-description:
+description: 
 published: true
-date: 2019-02-14T11:09:33Z
-tags:
-author: mklizzy
-editor: markdown
+date: 2020-09-13T17:52:33.541Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:52:28.370Z
 ---
 
 All about .

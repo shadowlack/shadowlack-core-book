@@ -2,9 +2,9 @@
 title: Entertainment
 description: Music, games, sports, things to do and things to read.
 published: true
-date: 2020-09-13T03:10:54.196Z
-tags: entertainment, pop culture
-editor: markdown
+date: 2020-09-13T03:10:59.162Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-06T16:49:44.355Z
 ---
 

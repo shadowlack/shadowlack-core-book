@@ -2,9 +2,9 @@
 title: Grading System
 description: The practise of "earning one's stripes."
 published: true
-date: 2020-09-16T17:55:22.322Z
-tags: traditions
-editor: markdown
+date: 2020-09-16T17:55:27.543Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-11T19:39:51.730Z
 ---
 

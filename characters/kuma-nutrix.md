@@ -1,11 +1,11 @@
 ---
 title: Kuma Nutrix
-description:
+description: 
 published: true
-date: 2010-03-18T23:15:26Z
-tags:
-author: shriker
-editor: markdown
+date: 2020-09-13T17:49:32.570Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:49:27.017Z
 ---
 
 Kuma is a slim, muscled 'dragon. He's tall, around 6'4 or 6'5, and has plain black hair that follows his spine to the base of his tail. His ears are that of a cat. He has almond shaped eyes that have no color, and although he can see perfectly well he looks like he's blind. His face is sharp and narrowed, like a cat's.

@@ -1,11 +1,11 @@
 ---
 title: Marei Kynigos
-description:
+description: 
 published: true
-date: 2011-02-28T09:41:37Z
-tags:
-author: nasuella
-editor: markdown
+date: 2020-09-13T17:50:12.092Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:50:07.167Z
 ---
 
 Kynnyn Feydragon and bounty hunter. This page is reserved for her backstory.

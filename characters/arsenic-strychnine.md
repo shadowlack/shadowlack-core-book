@@ -2,9 +2,9 @@
 title: Arsenic Strychnine
 description: A world famous fashion designer.
 published: true
-date: 2020-09-16T17:47:12.860Z
-tags: pop culture, fashion, textiles, lukuo
-editor: markdown
+date: 2020-09-16T17:47:28.812Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-06T16:52:18.898Z
 ---
 

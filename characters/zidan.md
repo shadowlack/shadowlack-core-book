@@ -1,11 +1,11 @@
 ---
 title: Zidan
-description:
+description: 
 published: true
-date: 2010-03-23T15:37:30Z
-tags:
-author: arctickiba
-editor: markdown
+date: 2020-09-13T17:52:41.088Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:52:36.169Z
 ---
 
 Description

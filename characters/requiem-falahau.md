@@ -2,9 +2,9 @@
 title: Requiem Falahau
 description: Member of the band, Parallax.
 published: true
-date: 2020-09-16T17:35:36.464Z
-tags: pop culture, musicians
-editor: markdown
+date: 2020-09-16T17:47:31.592Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-07T02:22:47.026Z
 ---
 

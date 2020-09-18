@@ -1,11 +1,11 @@
 ---
 title: Jekhujp Petla
-description:
+description: 
 published: true
-date: 2012-08-10T20:57:29Z
-tags:
-author: iversia
-editor: markdown
+date: 2020-09-13T17:49:00.703Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:48:55.720Z
 ---
 
 Jékhujp is old, and wise. However, he does not appear to be aged. He doesn’t look a shade over forty. This in itself is pretty remarkable, but this male’s most outstanding feature is his height. He stands over seven feet tall, causing him to tower over the majority of the population. He is very thin, but his frame is more often than not hidden by thick, flowing robes. His face, which is likewise thin, is often shadowed by a hood, but his crystal blue eyes can never be hidden – they sparkle and dance no matter what. As for Jekhujp’s coloration, he is a silver color, with a sort of icy tint to his fur. Even his tail flame is a frigid blue, like a living icicle.

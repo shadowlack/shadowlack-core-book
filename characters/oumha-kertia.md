@@ -2,7 +2,7 @@
 title: Oumha Kertia
 description: A well-known engineer and inventor. Founder of Cajseu Univeristy.
 published: true
-date: 2020-09-11T20:53:52.894Z
+date: 2020-09-16T17:21:29.029Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-07T02:14:11.725Z

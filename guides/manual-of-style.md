@@ -2,9 +2,9 @@
 title: Manual of style
 description: Basic style guidelines to follow when editing or creating new pages in order to keep the wiki consistent. 
 published: true
-date: 2020-09-13T02:24:24.368Z
-tags: guides
-editor: markdown
+date: 2020-09-13T02:25:12.360Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-12T21:26:20.462Z
 ---
 

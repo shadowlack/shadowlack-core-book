@@ -1,11 +1,11 @@
 ---
 title: Jaceen Lapices
-description:
+description: 
 published: true
-date: 2012-08-13T16:52:46Z
-tags:
-author: iversia
-editor: markdown
+date: 2020-09-13T17:48:52.906Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:48:47.983Z
 ---
 
 Jaceen is a little on the short size (151cm / \~4'10") for her age. She has a small, almost petite figure that usually makes others think that she is much younger (and inexperienced) than she really is. Her pelt is of a very vibrant yellow. Jaceen's hair is a bright red and is made up of very thick and choppy sections. The hair atop of her head is fairly long and reaches down around her chest. Her tail is also made up of the same choppy bladed hair and is usually wrapped with a purple band at the top.

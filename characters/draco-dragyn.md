@@ -2,9 +2,10 @@
 title: Draco Dragyn
 description: 
 published: true
-date: 2020-09-06T03:22:39.803Z
+date: 2020-09-13T17:47:58.477Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-13T17:47:53.371Z
 ---
 
 {{Character |name=Draco Dragyn |status=Alive |race=Pendragon |gender=Male |mother=[Sari Dragyn](/Sari_Dragyn "wikilink") |father=[Thanos Dragyn](/Thanos_Dragyn "wikilink") |siblings=[Terez Dragyn](/Terez_Dragyn "wikilink"), [Lorax Dragyn](/Lorax_Dragyn "wikilink") |offspring= [Naka Dragyn](/Naka_Dragyn "wikilink") |player=Wolf Paws } Draco's fur is a fairly dark red, with black paws and black stripes down his back and tail. He has two stripes across his nose, and one behind each ear. The symbol on his haunch is of the constellation, draco (the dragon), and it means 'look to the stars'. Around his eyes are thick, black, crescent moons and he has earned all four of his 'stripes'. His hair is a light blueish-grey colour, and runs half way down his back. Draco has feathery wings that are a blueish-green. And at the very end of his tail, hidden by flame is a sort of cupped claw formation that is able to give enemies a sharp pinch, or if closed, a harsh blow.

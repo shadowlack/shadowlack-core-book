@@ -2,9 +2,9 @@
 title: Lorkhos Adamaint
 description: 
 published: true
-date: 2020-09-16T17:24:07.902Z
-tags: government, historical figures
-editor: markdown
+date: 2020-09-16T17:24:22.098Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-07T02:12:48.139Z
 ---
 

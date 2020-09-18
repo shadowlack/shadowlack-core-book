@@ -2,9 +2,10 @@
 title: Hart Demori
 description: 
 published: true
-date: 2020-09-06T03:24:18.445Z
+date: 2020-09-13T17:48:22.216Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-13T17:48:17.064Z
 ---
 
 There is no creature from the deceased Earth that could describe Hart's appearance. Perhaps that is because she is a mixture of so many. Her head is like that of a coyote, with the slender snout, and blackened, leathery nose that were traits of earthen beast. Her eyes, on the other hand, are definitely feline, curved in shape with slanted pupils. One of her ears is floppy, the upper half falling down close to her eye, whereas the rest stands erect. It is like those of a feline, triangular, narrow, with a small tuft of fur at the tip. The other ear – the left – is more like that of a wolf, though slightly larger. Short bladed locks begin between her ears - very much like bangs - then, as the hair progresses down her neck, the hair starts to grow longer. The majority of the longer ones are tied in braids, to keep them out of her face, safely falling down her shoulders and ending at the middle of her forearms. She keeps the bangs clipped short to keep them out of her eyes. Both forelegs are muscular – but not bulkily so – and shaped like those of a "big cat" from earthen days, intended to latch on to – and, if possible, crush the neck of – prey. The wickedly curved claws hidden within further that idea, intended to clutch and penetrate, to rip and rend the flesh of other beasts.

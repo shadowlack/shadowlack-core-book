@@ -2,9 +2,9 @@
 title: Syron Grimoire
 description: The lead vocalist, guitarist and main songwriter of Phatharla.
 published: true
-date: 2020-09-16T17:32:32.861Z
-tags: pop culture, musicians
-editor: markdown
+date: 2020-09-16T17:32:46.508Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-06T17:00:57.758Z
 ---
 

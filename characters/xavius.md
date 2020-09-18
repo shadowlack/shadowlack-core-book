@@ -1,11 +1,11 @@
 ---
 title: Xavius
-description:
+description: 
 published: true
-date: 2012-01-09T05:36:23Z
-tags:
-author: lordacheron
-editor: markdown
+date: 2020-09-13T18:13:21.670Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T18:13:17.018Z
 ---
 
 Xavius looks very odd for a pendragon, mostly he resembles a draconic form. His face has no muzzle, and a very serpentine nose. His narrow angled eyes contain firey red iris'.Within those iris' a constant emition of hate. A terrible, emense feel of hate. But at the same time, his eyes carry a look of dark intellegnece. He has two small holes for ears, and as a result of such, he is under average in that regard. There are no visible lips on his face, his mouth is simply thin, long gash upon his face. His teeth, shining white and sharp like daggers. His skin, tight against his face causeing a rather gaunt visage.

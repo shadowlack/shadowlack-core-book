@@ -2,7 +2,7 @@
 title: Pakaros
 description: Leader of the Free Mages.
 published: true
-date: 2020-09-11T21:00:46.135Z
+date: 2020-09-16T17:36:11.393Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:56:50.010Z

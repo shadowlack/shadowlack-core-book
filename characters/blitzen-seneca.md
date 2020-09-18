@@ -2,9 +2,10 @@
 title: Blitzen Seneca
 description: 
 published: true
-date: 2020-09-06T02:57:21.261Z
+date: 2020-09-13T17:47:27.525Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-13T17:47:22.163Z
 ---
 
 {{Character |name=Blitzen Seneca |status=Alive |race=Lukuo |gender=Male |mother=[Iversia Seneca](/Iversia_Seneca "wikilink") |father=[Jay Seneca](/Jay_Seneca "wikilink") |siblings=[Celest Seneca](/Celest_Seneca "wikilink") |player=Wolf Paws } Blitzen has short, spiky hair, that he obviously trims himself because its a real hack job. Blitzen is very large for only being fourteen. He is very heavily built, and could pass off for a twenty five year old no problem. Blitzen isn't fat, just built thick. But Blitzen has a uniqueness to him that so far, no other pendragon has. His fur has no actual hue. He blends in with his surroundings like a lizard. He has the capability to change the colour and patterns of his fur so when another being looks at him, they don't exactly see him. But what makes this so interesting is that Blitzen can camouflage like this very quickly. He can run through a forest, and the patterns of the trees ripple along his fur. The only distinct way to know that there is actually a pendragon there would be if you was his tail. It is long and most of the time brown because instead of a flame, Blitzen's tail parts off into stiff sections resembling a tree branch.

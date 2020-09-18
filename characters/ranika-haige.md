@@ -1,11 +1,11 @@
 ---
 title: Ranika Haige
-description:
+description: 
 published: true
-date: 2013-03-18T02:27:48Z
-tags:
-author: sadie
-editor: markdown
+date: 2020-09-13T17:50:59.157Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:50:54.368Z
 ---
 
 <big>**Description**</big>

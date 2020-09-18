@@ -1,11 +1,11 @@
 ---
 title: Strehi Ouyiuc
-description:
+description: 
 published: true
-date: 2016-05-12T16:17:50Z
-tags:
-author: jmonster
-editor: markdown
+date: 2020-09-13T17:51:31.225Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:51:25.513Z
 ---
 
 All about .

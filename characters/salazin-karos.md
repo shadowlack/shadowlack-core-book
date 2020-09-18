@@ -2,7 +2,7 @@
 title: Salazin Karos
 description: Attempted to assassinate a Dragyn unsuccessfully.
 published: true
-date: 2020-09-11T20:54:39.377Z
+date: 2020-09-16T17:20:32.445Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-07T02:15:37.581Z

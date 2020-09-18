@@ -1,11 +1,11 @@
 ---
 title: Naka Dragyn
-description:
+description: 
 published: true
-date: 2010-01-26T03:09:39Z
-tags:
-author: wolf paws
-editor: markdown
+date: 2020-09-13T17:50:27.960Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:50:22.411Z
 ---
 
 {{Character |name=Naka Dragyn |status=Alive |race=Pendragon |gender=Female |mother=[Robyn Savarally](/Robyn_Savarally "wikilink") |father=[Draco Dragyn](/Draco_Dragyn "wikilink") |significant_other=[Jargon Kavner](/Jargon_Kavner "wikilink") |player=Wolf Paws } Naka is a relatively normal sized pendragon for her age and sex. She used to be a very slender pendragon as a pup, but has thickened out nicely. Her hair is alot like her fathers, sectioned into lifeless spikes that are soft and slumped down over her face. She has let her hair grow out longer and it now hangs down over her shoulders. Her hair and tail colour was once a deep purple, but presently only a few streaks of purple can be found in her mothers red hair colour.

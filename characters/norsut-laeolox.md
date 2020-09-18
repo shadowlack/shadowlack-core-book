@@ -1,11 +1,11 @@
 ---
 title: Norsut Laeolox
-description:
+description: 
 published: true
-date: 2013-03-18T08:59:56Z
-tags:
-author: nasuella
-editor: markdown
+date: 2020-09-13T17:50:43.567Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:50:38.637Z
 ---
 
 All about .

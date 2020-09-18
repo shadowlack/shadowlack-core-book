@@ -1,11 +1,11 @@
 ---
 title: Assassin Avrum
-description:
+description: 
 published: true
-date: 2010-01-26T03:13:46Z
-tags:
-author: wolfpaws
-editor: markdown
+date: 2020-09-13T17:46:39.724Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:46:34.847Z
 ---
 
 {{Character |name=Assassin Avrum |status=Alive |race=Pendragon |gender=Male |mother=[Kati Avrum](/Kati_Avrum "wikilink") |father=[Kovak Avrum](/Kovak_Avrum "wikilink") |siblings=[Lotkeh Avrum](/Lotkeh_Avrum "wikilink") |player=Wolf Paws } Assassin is a bright green colour, and around his eyes is a bright yellow patch, which prevents anyone from looking him directly in the eyes. It has also cause Assassin to squint, and have several eye problems. His hair isn't much like hair, but more like bright yellow spikes running down his back. Assassin wears a black torn teeshirt, and gloves with metal claws attached on them. Assassin never allows his tail to have a flame, therefore the tip of his tail is crooked, from years of keeping the flame to a low flicker until it finally died. Assassin's rear symbol is of a skull and crossbones and it means "deadly."

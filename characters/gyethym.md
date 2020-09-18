@@ -2,9 +2,10 @@
 title: Gyethym
 description: 
 published: true
-date: 2020-09-06T03:24:12.514Z
+date: 2020-09-13T17:48:14.335Z
 tags: 
 editor: undefined
+dateCreated: 2020-09-13T17:48:09.514Z
 ---
 
 Gyetym is large and muscular with deep, golden eyes. His hair is light blue, falling across his face most of the time. His chest and stomach are covered with hard gray scales, while the rest of his body has short, pure white fur.

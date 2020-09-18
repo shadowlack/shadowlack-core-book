@@ -1,11 +1,11 @@
 ---
 title: Tymek Antisopter
-description:
+description: 
 published: true
-date: 2012-08-18T00:25:55Z
-tags:
-author: keblinky
-editor: markdown
+date: 2020-09-13T17:52:10.200Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:52:05.318Z
 ---
 
 APPEARANCE:

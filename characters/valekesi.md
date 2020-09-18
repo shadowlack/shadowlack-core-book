@@ -1,11 +1,11 @@
 ---
 title: Valekesi
-description:
+description: 
 published: true
-date: 2010-05-31T16:48:13Z
-tags:
-author: shriker
-editor: markdown
+date: 2020-09-13T17:52:17.894Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:52:13.062Z
 ---
 
 At 5'8", Valekesi is a tall and heavily toned pendragon due to her military training. She possesses a brilliant sun-yellow pelt that she is most certainly not afraid to get dirty. Her hands and feet look as though they have been dipped in violet paint. Valekesi’s hair, which she often wears up while she is working, is her primary source of vanity. While she often refers to herself as a tomboy, her hair does not quite fit into that stereotype. It is a cool baby blue that has been meticulously dyed so that it fades to purple and then bright red at the very tips. Her eyes, which can be found underneath messy bangs, are primarily blue with a few tinges of green.

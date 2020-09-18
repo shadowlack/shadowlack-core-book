@@ -1,11 +1,11 @@
 ---
 title: Plicae Decatur
-description:
+description: 
 published: true
-date: 2012-08-10T20:54:29Z
-tags:
-author: stormwing
-editor: markdown
+date: 2020-09-13T17:50:51.636Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:50:46.544Z
 ---
 
 Plicae is a solid black color, though the topside of his short lapin tail is orange, and the underside is a stark white. He has matching orange and white highlights in his hair, as well. Otherwise, he bears no markings or tattoos, save for the orange and white bands tattooed on his genitals.

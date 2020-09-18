@@ -1,11 +1,11 @@
 ---
 title: Temrin
-description:
+description: 
 published: true
-date: 2011-09-11T22:17:50Z
-tags:
-author: temrin
-editor: markdown
+date: 2020-09-13T17:51:38.925Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:51:34.044Z
 ---
 
 **Temrin Sanjem (OLD WRITTEN REF)**

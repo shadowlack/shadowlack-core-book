@@ -1,11 +1,11 @@
 ---
 title: Kurokemuri Jori
-description:
+description: 
 published: true
-date: 2012-08-10T21:00:35Z
-tags:
-author: iversia
-editor: markdown
+date: 2020-09-13T17:49:40.502Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-13T17:49:35.490Z
 ---
 
 Kurokemuri –or just Ku- is of an average build for a Yki male. Slim and lithe, he is leanly muscular, while still retaining an almost under-weight appearance. His chest is deep, but his waist is thin, giving him the stark contrast that leads many to believe that he is emaciated. His legs are slightly longer than the average Yki’s, but not so much that he appears disproportionate. His head follows the standard vulpine build for his breed, a narrow muzzle and a domed skull toped by a pair of large, triangular ears. He is built for speed and agility, and as such is not overly strong or powerful, but has an almost unmatchable stamina.

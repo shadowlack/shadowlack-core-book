@@ -2,9 +2,10 @@
 title: Cadmium J66
 description: 
 published: true
-date: 2020-09-06T02:57:31.648Z
+date: 2020-09-13T17:47:35.455Z
 tags: 
-editor: stormwing
+editor: undefined
+dateCreated: 2020-09-13T17:47:30.487Z
 ---
 
 Cadmium is a lustrous jet black hue, free of natural markings, though she has her pack tattoo as well as occasional temporary tattoos. She has a lithe, well-muscled body, fox-like features, and a prehensile tail. Her hands and feet are webbed with skin of blended blue and green hues. A matching sheath of thin skin surrounds the end of her tail, like a tadpole's. Bat wings sprout from her shoulderblades; they are small, but help to aid with underwater steerage. Her eyes are a faintest silver color, which is where she got her name. Also, around her throat is a choker collar, a teardrop of cadmium attached to it.
