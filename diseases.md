@@ -2,7 +2,7 @@
 title: Diseases
 description: What appears to be ailing you?
 published: true
-date: 2020-09-19T08:41:01.130Z
+date: 2020-09-19T08:42:12.119Z
 tags: diseases
 editor: markdown
 dateCreated: 2020-09-06T20:09:35.614Z
@@ -21,7 +21,7 @@ A **disease** is an abnormal condition affecting the body of an organism. While 
 *Magia morbus* (plural *magia morbii*) is the term used to describe medical conditions that are magical in nature, instead of being just physiological or mental. That is to say, these diseases are caused by magical abnormalities. *Magia morbii* are often difficult to cure, treat, and even diagnose. In light of it's poorly understood nature, those possessed with these diseases find themselves facing social stigmatization and isolation.
 
 - [Dermallaghica](/diseases/dermallaghica)
-- [Magihaematophagia](/diseases/magihaematophagia)
+- [Magihaematophagia](/diseases/magihaematophagia) (*Proto-Vampirism*)
 - [Magimetachrosis](/diseases/magimetachrosis)
 - Painted eyes
 - Revenant syndrome
