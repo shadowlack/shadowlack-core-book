@@ -2,9 +2,9 @@
 title: Customs and Traditions
 description: Blend in... or not.
 published: true
-date: 2020-09-19T02:13:55.533Z
-tags: 
-editor: undefined
+date: 2020-09-19T07:44:24.926Z
+tags: culture
+editor: markdown
 dateCreated: 2020-09-07T02:47:19.021Z
 ---
 
@@ -16,7 +16,7 @@ Touch is generally avoided by mages, who are more wary of touch-driven curses. W
 
 ## Tattoos
 
-Tattoos are a large part of the planet life on Ramath-lehi. Tattoos are so culturally ingrained in Ramathian society, that it is actually considered weird for someone to not have tattoos. One of the oldest practises involves getting [Grading Stripes](/traditions/grading-system) which are tattooed stripes that Ramathians would receive for recognition of a great achievement. While dated, many Ramathians still get visible Grading Stripes - usually on their faces. However they are not always given out by the Grader family, which was who the tradition originated with. Instead there are many families who chose to reward their own kin with their own markings and insignia.
+Tattoos are a large part of the planet life on Ramath-lehi. Tattoos are so culturally ingrained in Ramathian society, that it is actually considered weird for someone to not have tattoos. One of the oldest practises involves getting [Grading Stripes](/traditions/grading-system) which are tattooed stripes that Ramathians would receive for recognition of a great achievement. While dated, many Ramathians still get visible Grading Stripes - usually on their faces. However they are not always given out by the [Grader](/genealogy/grader) family, which was who the tradition originated with. Instead there are many families who chose to reward their own kin with their own markings and insignia.
 
 Tattoos have also become more complicated and ornate over the years. Sometimes Ramathians get their tattoos *infused* with special magic properties using a special Fronimium ink. These can vary from simple glowing, to colour changes, or even giving off heat. It takes a very skilled mage and tattoo artist to create these particular permanent works of art, and they often do not come cheap.
 
@@ -48,7 +48,7 @@ It is not uncommon for family sizes to be very large. Some families have had up 
 
 ## Egg shells
 
-It is very common for the parents of a Ramathian to keep the egg shells that their offspring hatched from (if they are an egg-producing race). The shell of a new hatchling is said to have magical properties and is used as a base for many powerful spells. The larger the shell fragment, the more powerful it is said to be. Many Ramathians keep their offspring’s shell fragments and end up getting them encased and put on display in their living rooms. Upon death, these egg shells will often be turned into the focal point of shrines deep within family tombs.
+It is very common for the parents of a Ramathian to keep the egg shells that their offspring hatched from (if they are an egg-producing species). The shell of a new hatchling is said to have magical properties and is used as a base for many powerful spells. The larger the shell fragment, the more powerful it is said to be. Many Ramathians keep their offspring’s shell fragments and end up getting them encased and put on display in their living rooms. Upon death, these egg shells will often be turned into the focal point of shrines deep within family tombs.
 
 ## Being a good host
 
@@ -62,9 +62,9 @@ The older a Ramathian is, the stronger they feel the pull of Fronima. Eventually
 
 ## Deaths and funerals
 
-When a Ramathian dies, it is believed that their soul then goes to Fronima (unless their soul has been lost and/or eaten by a Rapine). Almost always, upon death, a Ramathian’s body is burned to ashes in order to destroy the vessel and prevent all forms of necromancy. The ashes are then often carried deep into caves and scattered. The specific rituals and customs vary between the races (such as the Khell choosing to skin their family members before burning).
+When a Ramathian dies, it is believed that their soul then goes to Fronima (unless their soul has been lost and/or eaten by a [Rapine](/species/rapine)). Almost always, upon death, a Ramathian’s body is burned to ashes in order to destroy the vessel and prevent all forms of Necromancy. The ashes are then often carried deep into caves and scattered. The specific rituals and customs vary between species (such as the [Khell](/species/khell) choosing to skin their family members before burning).
 
-Funerals are almost always seen as a way to celebrate an individual’s life, and crying is not very common. Instead there is often a lot of drinking, dancing, and telling stories. Most funerals are public events and anyone may partake.
+Funerals are seen as a way to celebrate an individual’s life, and crying is not very common. Instead there is often a lot of drinking, dancing, and telling stories. Most funerals are public events and anyone may partake.
 
 ## Blood Oaths
 
