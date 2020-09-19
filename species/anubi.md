@@ -2,9 +2,9 @@
 title: Anubi
 description: Draco sapiens anubidis
 published: true
-date: 2020-09-19T01:29:49.759Z
-tags: 
-editor: undefined
+date: 2020-09-19T08:48:17.601Z
+tags: diseases, anubi, species, desert, uhai desert, pwa desert
+editor: markdown
 dateCreated: 2020-09-08T02:19:14.951Z
 ---
 
@@ -71,4 +71,5 @@ During the Ramathian year 50,000, a strange and undocumented illness wreaked hav
 - [Quangest *A holiday to mourn the victims of the Anubi plague.*](/calendar/quangest)
 - Krokino Prison
 - [Jolacom *A magic-suppressing natural resource.*](/natural-resources/jolacom)
+- [House of Anpu *Anubi-only school of magic in Notios Sudesha.*](/schools/house-of-anpu)
 {.links-list}
