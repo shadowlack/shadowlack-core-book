@@ -2,7 +2,7 @@
 title: Magic
 description: 
 published: true
-date: 2020-09-19T08:38:48.826Z
+date: 2020-09-19T08:45:15.243Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T08:05:49.247Z
@@ -35,7 +35,6 @@ Magic on the planet Ramath-lehi is a force of nature, much like gravity.
 	- Flora
 	- Other
 - [Magia morbii](/diseases#magia-morbii)
-	- Undeath
 - [Lukuo](/species/lukuo) species
 - [Magic-imbued tattoos](/culture/customs-traditions#magic-imbued-tattoos)
 
