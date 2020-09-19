@@ -2,7 +2,7 @@
 title: Magic
 description: 
 published: true
-date: 2020-09-19T08:20:22.481Z
+date: 2020-09-19T08:29:57.338Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T08:05:49.247Z
@@ -34,9 +34,11 @@ Magic on the planet Ramath-lehi is a force of nature, much like gravity.
 	- Fauna
 	- Flora
 	- Other
-- [Magia morbii](/diseases)
-- Undeath
+- [Magia morbii](/diseases#magia-morbii)
+	- Undeath
 - [Lukuo](/species/lukuo) species
+- [Magic-imbued tattoos](/culture/customs-traditions#magic-imbued-tattoos)
+- [Blood Oaths](/culture/customs-traditions#blood-oaths)
 
 ## Places to learn Magic
 
@@ -55,4 +57,8 @@ Not all schools on the planet Ramath-lehi offer to teach students magic because 
 
 ## Magic History and Culture
 
+- [Power of names](/culture/superstitions#the-power-of-names)
+- [Source of Fronima](/culture/superstitions#the-source-of-fronima)
+- [Legality and acceptance of magic](/culture/social-faux-pas-taboos#legality-and-acceptance-of-magic)
+- [Nullfires and nobility](/culture/social-faux-pas-taboos#nullfires-and-nobility)
 - Mage duels
