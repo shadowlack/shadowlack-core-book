@@ -2,7 +2,7 @@
 title: Diseases
 description: What appears to be ailing you?
 published: true
-date: 2020-09-19T08:40:18.336Z
+date: 2020-09-19T08:41:01.130Z
 tags: diseases
 editor: markdown
 dateCreated: 2020-09-06T20:09:35.614Z
