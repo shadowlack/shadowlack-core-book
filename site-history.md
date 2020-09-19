@@ -1,6 +1,6 @@
 ---
 title: Site history
-description: How Shadowlack came into existance.
+description: How Shadowlack came into existence.
 published: true
 date: 2020-09-18T15:04:45.317Z
 tags: 
