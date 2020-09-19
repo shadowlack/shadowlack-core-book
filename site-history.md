@@ -2,7 +2,7 @@
 title: Site history
 description: How Shadowlack came into existence.
 published: true
-date: 2020-09-19T02:03:48.610Z
+date: 2020-09-19T02:13:01.544Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-18T20:44:03.820Z
@@ -28,33 +28,33 @@ The introduction of Seth caused some major changes to *The Comic*. Within no tim
 
 Ever since then, Ramath-lehi has been growing and developing as it continues to be shaped by its players.
 
-### Name change
-
 ## Past incarnations
+
+What Shadowlack has looked like over the years.
 
 ### War (Jul. 2002 to Nov./Dec.)
 
-[![War](/images/site-history/2002-07-war-thumb.jpg)](/images/site-history/2002-07-war.jpg){.align-right} This was Ramath-lehi's very first layout. It wasn't very browser friendly, but then again, it was my first attempt at coding a "real" web site. The top banner was just some random free clipart that I found of some cougar eyes. It was pretty simple... and the colours sure were something. Acid green and orange?
+[![War](/images/site-history/2002-07-war-thumb.jpg){.align-left}](/images/site-history/2002-07-war.jpg) This was Ramath-lehi's very first layout. It wasn't very browser friendly, but then again, it was my first attempt at coding a "real" web site. The top banner was just some random free clipart that I found of some cougar eyes. It was pretty simple... and the colours sure were something. Acid green and orange?
 
 ### Iversia Seneca (Jan. 2003 to Mar. 2003)
 
-[![Iversia Seneca](/images/site-history/2003-01-iversia-thumb.jpg)](/images/site-history/2003-01-iversia.jpg){.align-right} Our second layout featured Iversia Seneca, one of my own characters. She was the arch rival of Karryasa Grader during Ramath-lehi's "comic" days. This layout featured iFrames. Unfortunately as I quickly found out, there were quite a few people out there with browsers that didn't support iFrames. So, while it was a nice layout, it got tossed quickly.
+[![Iversia Seneca](/images/site-history/2003-01-iversia-thumb.jpg){.align-left}](/images/site-history/2003-01-iversia.jpg) Our second layout featured Iversia Seneca, one of my own characters. She was the arch rival of Karryasa Grader during Ramath-lehi's "comic" days. This layout featured iFrames. Unfortunately as I quickly found out, there were quite a few people out there with browsers that didn't support iFrames. So, while it was a nice layout, it got tossed quickly.
 
 ### Bones (Mar. 2003 to Sept. 2003)
 
-[![Bones](/images/site-history/2003-03-bones-thumb.jpg)](/images/site-history/2003-03-bones.jpg){.align-right} A lot of people seemed to like this one. :] It was really fast loading as the navigation was all simple text links... but um, notice the headers? Yes. That's rotting flesh hanging from that poor dead critter's ribcage, and yep, that's blood slowly leaking out of that pendragon skull. While I personally liked this layout a lot, it proved to be just a *little* too intimidating. I think I scared off quite a few newcomers... not to mention what parents would think if they saw their kids surfing a web site with some huge ass bleeding skull. So while it was cool and creepy/morbid while it lasted, it still wasn't quite "right."
+[![Bones](/images/site-history/2003-03-bones-thumb.jpg){.align-left}](/images/site-history/2003-03-bones.jpg) A lot of people seemed to like this one. :] It was really fast loading as the navigation was all simple text links... but um, notice the headers? Yes. That's rotting flesh hanging from that poor dead critter's ribcage, and yep, that's blood slowly leaking out of that pendragon skull. While I personally liked this layout a lot, it proved to be just a *little* too intimidating. I think I scared off quite a few newcomers... not to mention what parents would think if they saw their kids surfing a web site with some huge ass bleeding skull. So while it was cool and creepy/morbid while it lasted, it still wasn't quite "right."
 
 ### Cayson Lapices (Sept. 2003 to Oct. 30th, 2003)
 
-[![Cayson Lapices](/images/site-history/2003-09-cayson-thumb.jpg)](/images/site-history/2003-09-cayson.jpg){.align-right} I hated this layout. It featured another one of my characters - Cayson Lapices. It wound up being too cartoony and childish for my liking. Not to mention is was very slow loading. Starting about here though I began to really learn how to code things with PHP and MySQL though.
+[![Cayson Lapices](/images/site-history/2003-09-cayson-thumb.jpg){.align-left}](/images/site-history/2003-09-cayson.jpg) I disliked this layout. It featured another one of my characters - Cayson Lapices. It wound up being too cartoony and childish for my liking. Not to mention is was very slow loading. Starting about here though I began to really learn how to code things with PHP and MySQL though.
 
 ### The Graders (Oct. 30th, 2003 to Jul. 25th, 2004)
 
-[![The Graders](/images/site-history/2003-10-graders-thumb.jpg)](/images/site-history/2003-10-graders.jpg){.align-right} I really liked this layout. The colour blends (at least to me) were very appealing. Somehow it also reminded me of the Final Fantasy series. The only thing that I didn't like was the JavaScript menu at the top. See, Ramath-lehi is a growing site. Because of that, we ended up accumulating A LOT of informational links... and unfortunately all of these ended up being stuck into that menu bar. The end result? We ended up scaring quite a few potential members away by confusing them with our content links. I decided to opt for a more "newbie friendly" site design. Thus began the era of the New Player Guide and the joining quiz.
+[![The Graders](/images/site-history/2003-10-graders-thumb.jpg){.align-left}](/images/site-history/2003-10-graders.jpg) I really liked this layout. The colour blends (at least to me) were very appealing. Somehow it also reminded me of the Final Fantasy series. The only thing that I didn't like was the JavaScript menu at the top. See, Ramath-lehi is a growing site. Because of that, we ended up accumulating A LOT of informational links... and unfortunately all of these ended up being stuck into that menu bar. The end result? We ended up scaring quite a few potential members away by confusing them with our content links. I decided to opt for a more "newbie friendly" site design. Thus began the era of the New Player Guide and the joining quiz.
 
 ### Dreamcatcher (Jul. 25th, 2004 to Jul. 3rd 2005)
 
-[![Dreamcatcher](/images/site-history/2004-06-dreamcatcher-thumb.jpg)](/images/site-history/2004-06-dreamcatcher.jpg){.align-right} This layout was something. It reminds me of a nightclub rave. The colours are bright, but blend well enough together so as not to be an eyesore. I cut down on the navigational links, and instead created a "Member Area", specially coded so that only approved members can read the special content that I put there. Sure it's a little strange with the really wide sidebar, and really not all that practical... but it is a change.
+[![Dreamcatcher](/images/site-history/2004-06-dreamcatcher-thumb.jpg){.align-left}](/images/site-history/2004-06-dreamcatcher.jpg) This layout was something. It reminds me of a nightclub rave. The colours are bright, but blend well enough together so as not to be an eyesore. I cut down on the navigational links, and instead created a "Member Area", specially coded so that only approved members can read the special content that I put there. Sure it's a little strange with the really wide sidebar, and really not all that practical... but it is a change.
 
 ## Platform history
 
