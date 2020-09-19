@@ -2,18 +2,22 @@
 title: Ajita
 description: Always go forth
 published: true
-date: 2020-09-19T21:11:08.263Z
+date: 2020-09-19T21:14:34.192Z
 tags: magic, biophilic architecture, country, pretentious, windy, fresh, nature, arts, high society, aqua glow, water vapour
 editor: markdown
 dateCreated: 2020-09-19T21:11:08.263Z
 ---
 
+<div class="infobox">
+  
 **National Motto:** *Always go forth*
 **Population:** 13,052,608
 **Demonym:** Ajitian
 **Capital City:** Pealagi
 **Official Languages:**	Ramathian, Common
 **Currency:** Khasi
+
+</div>
 
 For millennia **Ajita** has floated in the skies of Ramath-lehi. In the past, it used to regularly make trips around the world, never staying in the same place for more than a week at a time. The Magos and Magosai felt that this was a great way to foster a sense of community (or a sense of fear in a *we are always watching you* sense), and to ensure that their presence was one that was always felt. Despite the fact that Ajita has propulsion systems, these days it almost always stays still, situating itself between Bhim, Aurius, and Mansukh, where it was first born out of the ground. It was felt that moving the floating island around all of the time was too distressing for the inhabitants of Ramath-lehi, and that it could be very disruptive.
 
@@ -23,7 +27,14 @@ Being so high in the sky, Ajita has gained a very standoffish and untouchable re
 
 Ajita is also a place that is rich in arts and culture. The country devotes a lot of its wealth to promoting Ramathian artists and further enhancing the culture of the planet Ramath-lehi as a whole. It is not unheard of for Ajitians to fund arts programs in other countries, or to devote time and efforts to this individual causes.
 
-## Cities
+## Locations
+
+### Cities
+
+### Landmarks
+
+### Schools
+
 
 ## History
 
