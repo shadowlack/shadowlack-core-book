@@ -2,7 +2,7 @@
 title: Ajita
 description: Always go forth
 published: true
-date: 2020-09-19T21:14:34.192Z
+date: 2020-09-19T21:29:47.370Z
 tags: magic, biophilic architecture, country, pretentious, windy, fresh, nature, arts, high society, aqua glow, water vapour
 editor: markdown
 dateCreated: 2020-09-19T21:11:08.263Z
@@ -19,9 +19,9 @@ dateCreated: 2020-09-19T21:11:08.263Z
 
 </div>
 
-For millennia **Ajita** has floated in the skies of Ramath-lehi. In the past, it used to regularly make trips around the world, never staying in the same place for more than a week at a time. The Magos and Magosai felt that this was a great way to foster a sense of community (or a sense of fear in a *we are always watching you* sense), and to ensure that their presence was one that was always felt. Despite the fact that Ajita has propulsion systems, these days it almost always stays still, situating itself between Bhim, Aurius, and Mansukh, where it was first born out of the ground. It was felt that moving the floating island around all of the time was too distressing for the inhabitants of Ramath-lehi, and that it could be very disruptive.
+For millennia **Ajita** has floated in the skies of Ramath-lehi. In the past, it used to regularly make trips around the world, never staying in the same place for more than a week at a time. The Magos and Magosai felt that this was a great way to foster a sense of community (or a sense of fear in a *we are always watching you* sense), and to ensure that their presence was one that was always felt. Despite the fact that Ajita has propulsion systems, these days it almost always stays still, situating itself between [Bhim](/countries/bhim), [Aurius](/countries/aurius), and [Mansukh](/countries/mansukh), where it was first born out of the ground. It was felt that moving the floating island around all of the time was too distressing for the inhabitants of Ramath-lehi, and that it could be very disruptive.
 
-Ajita has always been a place of magic. It shares an affinity for Fronima just like its land-bound counterpart, Mansukh. Many special ceremonies are held on Ajita because it is believed that the ground is sacred. Many Ramathians simply visit Ajita in order to watch the large flocks of beautiful Sharrathi flying around, as they are said to be really good source of inspiration. Many have attributed their success with the arts to a Sharrath.
+Ajita has always been a place of magic. It shares an affinity for Fronima just like its land-bound counterpart, Mansukh. Many special ceremonies are held on Ajita because it is believed that the ground is sacred. Many Ramathians visit Ajita to watch the large flocks of beautiful [sharrathi](/faunas/sharrath) flying around, as they are said to be really good source of inspiration. Many have attributed their success with the arts to a sharrath.
   
 Being so high in the sky, Ajita has gained a very standoffish and untouchable reputation. Its residents are often comprised of only the most affluent and popular of Ramathian society. It is also where there is a lot of *old money* as a lot of the older Ramathian families have vast estates that their offspring continuously inherits.
 
@@ -30,6 +30,19 @@ Ajita is also a place that is rich in arts and culture. The country devotes a lo
 ## Locations
 
 ### Cities
+
+- Pealagi
+ Capital
+ Largest city
+ Location of the Council Chamber.
+- Aardeleid
+ Dense residential area in Ajita's inner core.
+- Vehklemine
+ Sprawling residential area. Location of the Grader Manor.
+- Loikaja
+ Warehouse district. Located on the west side of Ajita.
+- Tarkus
+ Home of the USR headquarters, Ramath-lehi's largest military base.
 
 ### Landmarks
 
