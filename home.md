@@ -2,15 +2,15 @@
 title: Shadowlack
 description: This wiki revolves around the Shadowlack World Building Project.
 published: true
-date: 2020-09-19T02:00:55.510Z
+date: 2020-09-19T08:49:04.291Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-09-06T17:47:00.222Z
 ---
 
 - Ramathians
 	- [Genealogical family profiles](/t/genealogy)
-	- [Pop culture figures](/t/pop%20culture), [Historical figures](/t/historical%20figures)
+	- [Characters](/characters), [Pop culture figures](/t/pop%20culture), [Historical figures](/t/historical%20figures)
 - Places
 	- Schools
 
