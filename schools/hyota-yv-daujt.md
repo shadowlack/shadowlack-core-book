@@ -2,14 +2,14 @@
 title: Hyota Yv Daujt
 description: Private and world-renowned mechanical engineering school.
 published: true
-date: 2020-09-19T01:28:54.268Z
-tags: 
-editor: undefined
+date: 2020-09-19T08:10:28.054Z
+tags: bhim, magic school, private school
+editor: markdown
 dateCreated: 2020-09-06T17:15:43.762Z
 ---
 
 Location 	Bhim (Eastern Bhim)
-Colours 	Steel Grey, Black, Neon Green Trans.gif Trans.gif Trans.gif
+Colours 	Steel Grey, Black, Neon Green
 Mascot 	Widget the Torber ("Domesticated" Torber owned by the Principal).
 Sports 	Jemdrull, Menlo, Harok*
 
@@ -19,5 +19,4 @@ They're really good at Harok racing, but were disqualified one year because thei
 
 ## Graduates
 
-* [Serin Menlo](/pop-culture-figures/serin-menlo "wikilink"), the creator of the game [Menlo](/entertainment/menlo "wikilink").
-
+* [Serin Menlo](/characters/serin-menlo), the creator of the game [Menlo](/entertainment/menlo).
