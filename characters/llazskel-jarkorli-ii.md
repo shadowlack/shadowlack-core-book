@@ -2,7 +2,7 @@
 title: Llazskel Jarkorli II
 description: Ruler of Trilok.
 published: true
-date: 2020-09-16T17:36:33.994Z
+date: 2020-09-19T02:07:35.976Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:56:12.321Z

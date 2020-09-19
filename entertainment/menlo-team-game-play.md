@@ -2,7 +2,7 @@
 title: Menlo Team Game Play
 description: Menlo with opposing teams and capture-the-flag element.
 published: true
-date: 2020-09-11T20:40:19.939Z
+date: 2020-09-19T02:15:48.063Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:20:07.809Z

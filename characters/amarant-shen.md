@@ -2,10 +2,10 @@
 title: Amarant Shen
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, shen
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:02:03.601Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-19T00:00:29.648Z
 ---
 
 **Gender:** male

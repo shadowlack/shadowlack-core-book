@@ -2,7 +2,7 @@
 title: Janardan Academy
 description: Burning hearts and curious minds.
 published: true
-date: 2020-09-11T21:04:24.968Z
+date: 2020-09-19T01:28:59.938Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:16:16.789Z

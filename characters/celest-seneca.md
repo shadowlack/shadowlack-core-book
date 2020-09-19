@@ -2,10 +2,10 @@
 title: Celest Seneca
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, seneca
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:03:33.222Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-18T22:46:08.138Z
 ---
 
 **Gender:** female

@@ -2,7 +2,7 @@
 title: Superstitions
 description: Maybe it's superstition, or maybe it's magic. Why gamble?
 published: true
-date: 2020-09-12T22:35:40.439Z
+date: 2020-09-19T02:14:17.112Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-07T02:47:43.386Z

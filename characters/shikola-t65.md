@@ -2,8 +2,8 @@
 title: Shikola T65
 description: 
 published: true
-date: 2020-09-13T17:51:22.793Z
-tags: tpack
+date: 2020-09-19T02:11:26.008Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:51:17.956Z
 ---

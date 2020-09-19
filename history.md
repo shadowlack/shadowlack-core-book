@@ -2,7 +2,7 @@
 title: History
 description: 
 published: true
-date: 2020-09-11T20:33:00.967Z
+date: 2020-09-19T02:00:50.558Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:51:36.523Z

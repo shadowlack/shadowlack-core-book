@@ -2,10 +2,10 @@
 title: Belunga Oakenblade
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, oakenblade
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:02:54.930Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-19T00:00:53.633Z
 ---
 
 **Gender:** male

@@ -2,8 +2,8 @@
 title: Jynx Lironiana
 description: 
 published: true
-date: 2020-09-13T17:49:16.449Z
-tags: lironiana
+date: 2020-09-19T02:06:28.956Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:49:11.318Z
 ---

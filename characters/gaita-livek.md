@@ -2,8 +2,8 @@
 title: Gaita Livek
 description: 
 published: true
-date: 2020-09-13T17:48:06.485Z
-tags: livek
+date: 2020-09-19T02:05:10.396Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:48:01.459Z
 ---

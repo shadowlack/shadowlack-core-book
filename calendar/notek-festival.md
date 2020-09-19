@@ -2,7 +2,7 @@
 title: Notek Festival
 description: A massively popular music festival.
 published: true
-date: 2020-09-11T20:34:35.003Z
+date: 2020-09-19T02:01:33.369Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T18:44:42.848Z

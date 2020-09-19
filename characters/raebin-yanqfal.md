@@ -2,7 +2,7 @@
 title: Raebin Yanq'fal
 description: Once the greatest Menlo player in the world. May have been murdered.
 published: true
-date: 2020-09-16T17:21:15.628Z
+date: 2020-09-19T02:09:22.775Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-07T02:14:31.902Z

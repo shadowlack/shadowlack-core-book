@@ -2,7 +2,7 @@
 title: Temple of Dynir
 description: All for good. Religious public school of magic, religion, and marine biology.
 published: true
-date: 2020-09-11T21:05:17.748Z
+date: 2020-09-19T01:29:27.071Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:17:37.512Z

@@ -2,10 +2,10 @@
 title: Snydget Strydra
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, strydra
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:11:46.040Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-19T00:03:52.433Z
 ---
 
 **Gender:** female

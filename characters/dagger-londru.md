@@ -2,10 +2,10 @@
 title: Dagger Londru
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, londru
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:04:16.814Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-19T00:01:25.182Z
 ---
 
 **Gender:** male

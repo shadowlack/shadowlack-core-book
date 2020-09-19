@@ -2,8 +2,8 @@
 title: Aurek Setarp
 description: 
 published: true
-date: 2020-09-13T17:46:55.485Z
-tags: setarp
+date: 2020-09-19T02:02:44.846Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:46:50.538Z
 ---

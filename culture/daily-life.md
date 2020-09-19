@@ -2,7 +2,7 @@
 title: Daily Life
 description: What you can expect from a typical day in Ramath-lehi.
 published: true
-date: 2020-09-13T00:42:26.943Z
+date: 2020-09-19T02:14:01.101Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-07T02:16:02.746Z

@@ -2,7 +2,7 @@
 title: Parallax
 description: 
 published: true
-date: 2020-09-16T18:13:10.317Z
+date: 2020-09-19T02:16:04.403Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:49:59.506Z

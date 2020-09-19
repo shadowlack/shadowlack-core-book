@@ -2,7 +2,7 @@
 title: Rot Worm
 description: 
 published: true
-date: 2020-09-11T20:44:50.082Z
+date: 2020-09-19T02:18:00.513Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:43:37.451Z

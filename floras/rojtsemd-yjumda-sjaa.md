@@ -2,7 +2,7 @@
 title: Rojtsemd Yjumda Sjaa
 description: 
 published: true
-date: 2020-09-11T20:44:40.730Z
+date: 2020-09-19T02:17:55.542Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:43:23.141Z

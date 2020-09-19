@@ -2,7 +2,7 @@
 title: Dermallaghica
 description: A magia morbus with varied and unpredictable effects.
 published: true
-date: 2020-09-11T20:36:58.706Z
+date: 2020-09-19T02:14:27.540Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:48:31.241Z

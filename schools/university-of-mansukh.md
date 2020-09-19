@@ -2,7 +2,7 @@
 title: University of Mansukh
 description: 
 published: true
-date: 2020-09-11T21:05:27.565Z
+date: 2020-09-19T01:29:32.479Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:17:53.874Z

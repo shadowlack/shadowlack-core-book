@@ -2,7 +2,7 @@
 title: Skeleton Tree
 description: 
 published: true
-date: 2020-09-11T20:45:21.069Z
+date: 2020-09-19T02:18:15.454Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:44:20.972Z

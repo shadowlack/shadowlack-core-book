@@ -2,7 +2,7 @@
 title: Thrai Bwekxa
 description: 
 published: true
-date: 2020-09-13T17:51:54.764Z
+date: 2020-09-19T02:12:32.559Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:51:49.794Z

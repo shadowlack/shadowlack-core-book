@@ -2,7 +2,7 @@
 title: Pop Culture Figures
 description: Celebrities that may be found on Ramath-lehi and what they are known for.
 published: true
-date: 2020-09-11T20:33:41.164Z
+date: 2020-09-19T02:01:06.506Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:53:13.138Z

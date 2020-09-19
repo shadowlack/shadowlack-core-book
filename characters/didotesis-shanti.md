@@ -2,10 +2,10 @@
 title: Didotesis Shanti
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, shanti
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:04:32.728Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-19T00:01:33.178Z
 ---
 
 **Gender:** male

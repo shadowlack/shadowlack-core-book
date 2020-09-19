@@ -2,7 +2,7 @@
 title: Common
 description: The working class common language of Ramath-lehi.
 published: true
-date: 2020-09-11T20:56:49.091Z
+date: 2020-09-19T01:26:49.066Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T16:39:41.276Z

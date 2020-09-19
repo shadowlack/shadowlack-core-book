@@ -2,7 +2,7 @@
 title: Temrin
 description: 
 published: true
-date: 2020-09-13T17:51:38.925Z
+date: 2020-09-19T02:12:22.099Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:51:34.044Z

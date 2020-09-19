@@ -2,10 +2,10 @@
 title: Celia Arachnid
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, arachnid
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:03:38.214Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-18T21:19:17.985Z
 ---
 
 **Gender:** female

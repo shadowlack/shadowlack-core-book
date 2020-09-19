@@ -2,7 +2,7 @@
 title: Toaal
 description: 
 published: true
-date: 2020-09-11T20:46:01.706Z
+date: 2020-09-19T02:18:34.409Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:45:20.493Z

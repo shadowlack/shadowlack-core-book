@@ -2,7 +2,7 @@
 title: Skengilo Clan
 description: Let the strength of your resolve overcome the weakness of your body.
 published: true
-date: 2020-09-11T20:50:59.664Z
+date: 2020-09-19T02:21:03.116Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:19:29.981Z

@@ -2,8 +2,8 @@
 title: Koani Grader
 description: A political and fashion figure.
 published: true
-date: 2020-09-16T17:42:25.239Z
-tags: grader
+date: 2020-09-19T02:06:59.904Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:55:01.044Z
 ---

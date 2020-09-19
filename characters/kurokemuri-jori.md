@@ -2,8 +2,8 @@
 title: Kurokemuri Jori
 description: 
 published: true
-date: 2020-09-13T17:49:40.502Z
-tags: jori
+date: 2020-09-19T02:07:20.731Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:49:35.490Z
 ---

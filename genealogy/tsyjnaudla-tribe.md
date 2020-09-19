@@ -2,7 +2,7 @@
 title: Tsyjnaudla Tribe
 description: 
 published: true
-date: 2020-09-11T20:52:01.694Z
+date: 2020-09-19T02:21:32.395Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:20:17.129Z

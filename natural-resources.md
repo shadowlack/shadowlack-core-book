@@ -2,7 +2,7 @@
 title: Natural resources
 description: Useful minerals and other naturally ocurring substances.
 published: true
-date: 2020-09-13T14:55:45.391Z
+date: 2020-09-19T02:01:01.023Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T22:40:03.100Z

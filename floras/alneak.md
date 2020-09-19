@@ -2,7 +2,7 @@
 title: Alneak
 description: 
 published: true
-date: 2020-09-11T20:42:05.497Z
+date: 2020-09-19T02:16:34.796Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:38:39.425Z

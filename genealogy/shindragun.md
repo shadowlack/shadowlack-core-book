@@ -2,7 +2,7 @@
 title: Shindragun
 description: Keep your mind sharp, your step swift and silent, your aim ever-true, and your condition enduring!
 published: true
-date: 2020-09-11T20:50:49.682Z
+date: 2020-09-19T02:20:57.702Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:19:20.726Z

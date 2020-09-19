@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2020-09-19T02:00:11.906Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-19T01:03:37.088Z
+---
+
 <p align="center"><img src="./images/supplemental/bunglebearz-cayson.png" alt="Image of the character Cayson Lapices by bunglebearz."></p>
 <h1 align="center">Shadowlack Core Book ☄️</h1>
 <p align="center"><b>Shadowlack</b> is a free and imaginary fictional world setting (geofiction) that revolves around the planet Ramath-lehi.</p>

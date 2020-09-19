@@ -2,7 +2,7 @@
 title: Rympemd Tradition
 description: A modern Sudesha marriage ceremony.
 published: true
-date: 2020-09-11T21:08:35.863Z
+date: 2020-09-19T01:31:15.920Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T19:40:33.978Z

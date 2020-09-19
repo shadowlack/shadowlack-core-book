@@ -2,7 +2,7 @@
 title: Zomachubh
 description: 
 published: true
-date: 2020-09-11T20:46:31.974Z
+date: 2020-09-19T02:18:49.114Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:46:06.620Z

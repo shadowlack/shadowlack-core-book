@@ -2,10 +2,10 @@
 title: Jecht Savarally
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, savarally
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:06:13.967Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-19T00:02:10.087Z
 ---
 
 **Gender:** male

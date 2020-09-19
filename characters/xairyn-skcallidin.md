@@ -2,8 +2,8 @@
 title: Xairyn Skcallidin
 description: An ex-pirate turned government official.
 published: true
-date: 2020-09-16T17:31:16.348Z
-tags: skcallidin
+date: 2020-09-19T02:13:18.827Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:12:59.590Z
 ---

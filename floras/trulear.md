@@ -2,7 +2,7 @@
 title: Trulear
 description: 
 published: true
-date: 2020-09-11T20:46:11.644Z
+date: 2020-09-19T02:18:39.127Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:45:35.801Z

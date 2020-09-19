@@ -2,10 +2,10 @@
 title: Randu Lesckhili'zzro
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, lesckhilizzro
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:09:38.042Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-19T00:03:13.800Z
 ---
 
 **Gender:** male

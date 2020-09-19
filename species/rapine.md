@@ -2,7 +2,7 @@
 title: Rapine
 description: They will swallow your soul.
 published: true
-date: 2020-09-11T21:07:12.649Z
+date: 2020-09-19T01:30:32.762Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-07T03:23:16.681Z

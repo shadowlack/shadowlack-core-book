@@ -2,7 +2,7 @@
 title: Diseases
 description: 
 published: true
-date: 2020-09-11T20:32:33.215Z
+date: 2020-09-19T02:00:28.566Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T20:09:35.614Z

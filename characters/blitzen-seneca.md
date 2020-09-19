@@ -2,8 +2,8 @@
 title: Blitzen Seneca
 description: 
 published: true
-date: 2020-09-13T17:47:27.525Z
-tags: seneca
+date: 2020-09-19T02:03:12.121Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:47:22.163Z
 ---

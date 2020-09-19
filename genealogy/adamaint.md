@@ -2,7 +2,7 @@
 title: Adamaint
 description: Blood is binding.
 published: true
-date: 2020-09-11T20:46:42.564Z
+date: 2020-09-19T02:18:53.993Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:28:52.463Z

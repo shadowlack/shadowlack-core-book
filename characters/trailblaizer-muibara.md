@@ -2,10 +2,10 @@
 title: TrailBlaizer Muibara
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, muibara, assassin
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:12:42.919Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-19T00:04:08.401Z
 ---
 
 **Gender:** female

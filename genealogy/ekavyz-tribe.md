@@ -2,7 +2,7 @@
 title: Ekavyz Tribe
 description: 
 published: true
-date: 2020-09-11T20:48:14.552Z
+date: 2020-09-19T02:19:38.861Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:31:52.222Z

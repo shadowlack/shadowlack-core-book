@@ -2,7 +2,7 @@
 title: Bashalis
 description: All that is good must fade.
 published: true
-date: 2020-09-11T20:47:03.026Z
+date: 2020-09-19T02:19:04.102Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:29:33.221Z

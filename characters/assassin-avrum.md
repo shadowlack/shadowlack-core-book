@@ -2,8 +2,8 @@
 title: Assassin Avrum
 description: 
 published: true
-date: 2020-09-13T17:46:39.724Z
-tags: pendragon, avrum
+date: 2020-09-19T02:02:34.758Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:46:34.847Z
 ---

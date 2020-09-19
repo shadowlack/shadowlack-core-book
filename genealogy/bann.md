@@ -2,7 +2,7 @@
 title: Bann
 description: Never Falter
 published: true
-date: 2020-09-11T20:46:52.595Z
+date: 2020-09-19T02:18:59.003Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:29:13.830Z

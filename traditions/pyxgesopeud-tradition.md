@@ -2,7 +2,7 @@
 title: Pyx'gesopeud Tradition
 description: An Anubian marriage tradition.
 published: true
-date: 2020-09-11T21:08:25.281Z
+date: 2020-09-19T01:31:10.786Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T19:40:23.712Z

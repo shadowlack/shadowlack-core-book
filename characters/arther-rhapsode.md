@@ -2,10 +2,10 @@
 title: Arther Rhapsode
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, rhapsode
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:02:24.658Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-19T00:00:37.796Z
 ---
 
 **Gender:** male

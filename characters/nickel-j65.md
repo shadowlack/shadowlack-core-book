@@ -2,8 +2,8 @@
 title: Nickel J65
 description: 
 published: true
-date: 2020-09-13T17:50:35.915Z
-tags: jpack
+date: 2020-09-19T02:08:47.199Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:50:31.078Z
 ---

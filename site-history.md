@@ -2,9 +2,9 @@
 title: Site history
 description: How Shadowlack came into existence.
 published: true
-date: 2020-09-19T02:13:01.544Z
+date: 2020-09-19T02:15:25.974Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-09-18T20:44:03.820Z
 ---
 

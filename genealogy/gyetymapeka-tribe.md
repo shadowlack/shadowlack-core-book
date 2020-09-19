@@ -2,7 +2,7 @@
 title: Gyetymapeka Tribe
 description: 
 published: true
-date: 2020-09-11T20:48:46.034Z
+date: 2020-09-19T02:19:53.754Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:17:40.749Z

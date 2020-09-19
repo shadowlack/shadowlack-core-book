@@ -2,8 +2,8 @@
 title: Decanj Cureler
 description: A pioneer of Menlo virus play.
 published: true
-date: 2020-09-16T17:26:57.446Z
-tags: cureler, menlo
+date: 2020-09-19T02:04:27.487Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-07T02:12:07.155Z
 ---

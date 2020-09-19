@@ -2,7 +2,7 @@
 title: Apllea
 description: 
 published: true
-date: 2020-09-11T20:42:15.710Z
+date: 2020-09-19T02:16:39.815Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:38:59.465Z

@@ -2,8 +2,8 @@
 title: Jekhujp Petla
 description: 
 published: true
-date: 2020-09-13T17:49:00.703Z
-tags: petla
+date: 2020-09-19T02:06:18.948Z
+tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:48:55.720Z
 ---

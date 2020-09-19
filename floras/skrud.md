@@ -2,7 +2,7 @@
 title: Skrud
 description: 
 published: true
-date: 2020-09-12T19:53:38.642Z
+date: 2020-09-19T02:18:20.390Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:44:34.862Z

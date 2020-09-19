@@ -2,9 +2,9 @@
 title: Terez Dragyn
 description: 
 published: true
-date: 2020-09-13T17:51:47.019Z
-tags: dragyn, interrogation, law
-editor: markdown
+date: 2020-09-19T02:12:27.496Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-13T17:51:41.791Z
 ---
 

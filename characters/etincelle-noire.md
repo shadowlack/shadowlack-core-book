@@ -2,10 +2,10 @@
 title: Etincelle Noire
 description: 
 published: true
-date: 2020-09-13T17:50:59.157Z
-tags: pendragon, noire
-editor: markdown
-dateCreated: 2002-09-13T17:50:54.368Z
+date: 2020-09-19T02:04:58.947Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-18T22:47:05.159Z
 ---
 
 **Gender:** female

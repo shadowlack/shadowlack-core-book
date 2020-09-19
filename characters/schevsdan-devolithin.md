@@ -2,7 +2,7 @@
 title: Schevsdan de'Volithin
 description: A famous bounty hunter from the Bounty Hunter Brotherhood.
 published: true
-date: 2020-09-16T17:33:51.962Z
+date: 2020-09-19T02:11:01.088Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:59:28.758Z

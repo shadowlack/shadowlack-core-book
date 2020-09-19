@@ -2,9 +2,9 @@
 title: Draco Dragyn
 description: 
 published: true
-date: 2020-09-13T17:47:58.477Z
-tags: dragyn
-editor: markdown
+date: 2020-09-19T02:04:38.154Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-13T17:47:53.371Z
 ---
 

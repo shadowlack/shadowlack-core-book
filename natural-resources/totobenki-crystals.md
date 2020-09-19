@@ -2,7 +2,7 @@
 title: Totobenki Crystals
 description: A popular battery source for machina technology.
 published: true
-date: 2020-09-11T20:59:04.384Z
+date: 2020-09-19T01:28:00.392Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T22:21:11.716Z
