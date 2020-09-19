@@ -2,9 +2,9 @@
 title: Site history
 description: How Shadowlack came into existence.
 published: true
-date: 2020-09-19T02:15:25.974Z
+date: 2020-09-19T02:28:51.851Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-09-18T20:44:03.820Z
 ---
 
@@ -27,6 +27,10 @@ The introduction of Seth caused some major changes to *The Comic*. Within no tim
 ![Karryasa and Zamfir Grader.](/images/site-history/old_graders.jpg){.align-right} So then comes this thing called the internet. For a while Jodie had been joining, running, and maintaining a wide variety of online roleplaying games. It took a while, but then kind of hit her: *Gee, I wonder what a Pendragon game would be like?* So July of 2002 swings around. Jodie, with sign off and permission of *The Comic*'s co-creators, begins construction of the game. For the longest time they were leery of putting things online, but it all worked out somehow.
 
 Ever since then, Ramath-lehi has been growing and developing as it continues to be shaped by its players.
+
+### Name change
+
+In October 2009, Ramath-lehi underwent a name change and became Shadowlack. The change came about due to the fact that Ramath-lehi is difficult to pronounce (and *remember* if you’re a newcomer). The planet remains named Ramath-lehi. Shadowlack is the name of the much bigger picture – the galaxy
 
 ## Past incarnations
 
@@ -55,6 +59,12 @@ What Shadowlack has looked like over the years.
 ### Dreamcatcher (Jul. 25th, 2004 to Jul. 3rd 2005)
 
 [![Dreamcatcher](/images/site-history/2004-06-dreamcatcher-thumb.jpg){.align-left}](/images/site-history/2004-06-dreamcatcher.jpg) This layout was something. It reminds me of a nightclub rave. The colours are bright, but blend well enough together so as not to be an eyesore. I cut down on the navigational links, and instead created a "Member Area", specially coded so that only approved members can read the special content that I put there. Sure it's a little strange with the really wide sidebar, and really not all that practical... but it is a change.
+
+### Draconis Rapine
+
+### Three Moons (Oct. 2009)
+
+The layout when Ramath-lehi transitioned to being Shadowlack and the Flux plot.
 
 ## Platform history
 
