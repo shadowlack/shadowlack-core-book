@@ -2,7 +2,7 @@
 title: Site history
 description: How Shadowlack came into existence.
 published: true
-date: 2020-09-19T02:31:56.649Z
+date: 2020-09-19T02:38:37.806Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-18T20:44:03.820Z
@@ -20,11 +20,11 @@ Then came the [Pendragons](/species/pendragon).
 
 ![Some magic going on.](/images/site-history/on_three.jpg){.align-right} Jodie's parents went on a vacation to Germany, leaving Jodie and her siblings with their Nana. However, one of the siblings was infested. With head lice. Which... led to a not-so-fun vacation at all for everyone involved. There were a few highlights though. Like the trip to Collingwood's Scenic Caves, and the playing of many, many, PlayStation games (which sort of sucked because they didn't have a memory card).
 
-All of this sprouted the creation of the very first Pendragon: *Seth Lorax Dragyn*. Seth made his first appearance in *The Comic* as a "not so lost" little alien with a fetish for marshmallows and shapeshifting.
+All of this sprouted the creation of the very first Pendragon: *Seth Lorax Dragyn*. Seth made his first appearance in *The Comic* as a "not so lost" little alien with a fetish for marshmallows.
 
-The introduction of Seth caused some major changes to *The Comic*. Within no time at all, Pendragons had inflitrated its pages and completely took over. Seth's family, the [Dragyn](/genealogy/dragyn)'s (a family dedicated to space exploration and colonization), were looking for him. The planet Seth was on (called "Earth" just because it was similar to our own planet) was in danger. A plague-like species (think of soul stealing locusts) called the [Rapine](/species/rapine) were set to invade. The [Graders](/genealogy/grader) were introduced as well as a few other prominent figures. There was a strange incident involving eating clams and then hallucinating. [Karryasa Grader](/characters/karryasa-grader) blew a few things up using her telepathic powers. All in all, it was pretty cool.
+The introduction of Seth caused some major changes to *The Comic*. Within no time at all, Pendragons had inflitrated its pages and completely took over. Seth's family, the [Dragyn](/genealogy/dragyn)'s (a family dedicated to space exploration and colonization), were looking for him. The planet Seth was on was in danger. A plague-like species (think of soul stealing locusts) called the [Rapine](/species/rapine) were set to invade. The [Graders](/genealogy/grader) were introduced as well as a few other prominent figures. There was a strange incident involving eating clams and then hallucinating. [Karryasa Grader](/characters/karryasa-grader) blew a few things up using her telepathic powers. It was pretty cool.
 
-![Karryasa and Zamfir Grader.](/images/site-history/old_graders.jpg){.align-right} So then comes this thing called the internet. For a while Jodie had been joining, running, and maintaining a wide variety of online roleplaying games. It took a while, but then kind of hit her: *Gee, I wonder what a Pendragon game would be like?* So July of 2002 swings around. Jodie, with sign off and permission of *The Comic*'s co-creators, begins construction of the game. For the longest time they were leery of putting things online, but it all worked out somehow.
+![Karryasa and Zamfir Grader.](/images/site-history/old_graders.jpg){.align-right} So then comes this thing called the internet. For a while Jodie had been joining, running, and maintaining a wide variety of online roleplaying games. It took a while, but then kind of hit her: *Gee, I wonder what a Pendragon game would be like?* July of 2002 swings around. Jodie, with sign off and permission of *The Comic*'s co-creators, begins construction of the game. For the longest time they were leery of putting things online, but it all worked out somehow.
 
 Ever since then, Ramath-lehi has been growing and developing as it continues to be shaped by its players.
 
