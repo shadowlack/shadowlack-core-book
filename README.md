@@ -1,11 +1,20 @@
-# Shadowlack Core Book
-
-**Shadowlack** is a free game and imaginary fictional world setting (geofiction) that revolves around the planet Ramath-lehi. We utilize [Wiki.js](https://wiki.js.org/) to aid and foster constructed world collaboration among our players.
+<div style="text-align:center;">
 
 ![Image of the character Cayson Lapices by bunglebearz](images/supplemental/bunglebearz-cayson.png)
 
-## Contributors
+# Shadowlack Core Book ☄️
 
+**Shadowlack** is a free and imaginary fictional world setting (geofiction) that revolves around the planet Ramath-lehi.
+
+<a href="https://matrix.to/#/#general:matrix.shadowlack.com"><img src="https://img.shields.io/matrix/general:shadowlack.com.svg?server_fqdn=matrix.shadowlack.com"></a>
+
+</div>
+
+## Wiki.js
+
+We utilize [Wiki.js](https://wiki.js.org/) to aid and foster constructed world collaboration among our players. This is a living back up of the [Shadowlack Wiki](http://wiki.shadowlack.com).
+
+## Contributors
 
 
 ## License
