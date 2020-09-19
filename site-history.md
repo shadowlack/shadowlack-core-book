@@ -2,7 +2,7 @@
 title: Site history
 description: How Shadowlack came into existence.
 published: true
-date: 2020-09-19T02:28:51.851Z
+date: 2020-09-19T02:31:56.649Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-18T20:44:03.820Z
@@ -68,7 +68,7 @@ The layout when Ramath-lehi transitioned to being Shadowlack and the Flux plot.
 
 ## Platform history
 
-- Ramath-lehi's first forum in 2002 was an *ezBoard*. It was short-lived.
-- It was quickly replaced by the Perl-based *Ikonboard* with a flat file database.
-- In 2003, when new resources allowed it, Ramath-lehi switched over to using a mySQL database with *Invision Power Board* (1.3).
-- In 2009, Ramath-lehi migrated to *phpBB*. It was heavily modified with custom code for character roleplaying.
+- Ramath-lehi's first forum in 2002 was an ezBoard. It was short-lived.
+- It was quickly replaced by the Perl-based Ikonboard with a flat file database.
+- In 2003, when new resources allowed it, Ramath-lehi switched over to using a mySQL database with Invision Power Board (1.3).
+- In 2009, Ramath-lehi migrated to phpBB. It was heavily modified with custom code for character roleplaying.
