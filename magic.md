@@ -2,7 +2,7 @@
 title: Magic
 description: 
 published: true
-date: 2020-09-19T08:29:57.338Z
+date: 2020-09-19T08:38:48.826Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T08:05:49.247Z
@@ -19,8 +19,8 @@ Magic on the planet Ramath-lehi is a force of nature, much like gravity.
 
 ## Magic disciplines
 
-- Contracts
-- Dekhar Arts: Collective term for hybrids of martial arts and magical disciplines.
+- [Blood Oaths](/culture/customs-traditions#blood-oaths) and contracts
+- [Dekhar arts](/magic/dekhar-arts): Collective term for hybrids of martial arts and magical disciplines.
 - Elementalism
 - Invocations
 - Kinetic Magic: Hybrid of Elementalism and Psionicism, using psychic or psychokinetic power to manipulate the elements.
@@ -38,7 +38,6 @@ Magic on the planet Ramath-lehi is a force of nature, much like gravity.
 	- Undeath
 - [Lukuo](/species/lukuo) species
 - [Magic-imbued tattoos](/culture/customs-traditions#magic-imbued-tattoos)
-- [Blood Oaths](/culture/customs-traditions#blood-oaths)
 
 ## Places to learn Magic
 
