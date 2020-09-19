@@ -2,7 +2,7 @@
 title: Rapine
 description: The language of the Rapine.
 published: true
-date: 2020-09-19T01:27:11.018Z
+date: 2020-09-19T02:23:20.526Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T16:40:14.866Z

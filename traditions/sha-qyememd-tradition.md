@@ -2,7 +2,7 @@
 title: Sha Qyememd Tradition
 description: A marriage tradition among the Yki.
 published: true
-date: 2020-09-19T01:31:21.135Z
+date: 2020-09-19T02:27:11.487Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T19:40:44.214Z

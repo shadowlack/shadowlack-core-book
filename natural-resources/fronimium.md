@@ -2,7 +2,7 @@
 title: Fronimium
 description: A mineral that is often imbued with magical properties. Found in many Khellin relics and tattoo inks.
 published: true
-date: 2020-09-19T01:27:43.144Z
+date: 2020-09-19T02:23:50.040Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T22:20:43.040Z

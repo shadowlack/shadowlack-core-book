@@ -2,7 +2,7 @@
 title: Jolacom
 description: A reddish gold mineral that can block one's connection to Fronima, thereby making performing magic impossible.
 published: true
-date: 2020-09-19T01:27:49.013Z
+date: 2020-09-19T02:23:54.869Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T22:20:52.900Z

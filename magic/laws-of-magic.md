@@ -2,9 +2,9 @@
 title: Laws of Magic
 description: 
 published: true
-date: 2020-09-19T07:57:32.008Z
+date: 2020-09-19T07:57:37.017Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-09-19T07:57:32.008Z
 ---
 

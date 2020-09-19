@@ -2,7 +2,7 @@
 title: Omesjei Tradition
 description: A male-driven marriage tradition.
 published: true
-date: 2020-09-19T01:31:05.427Z
+date: 2020-09-19T02:26:56.152Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T19:40:12.938Z

@@ -2,9 +2,9 @@
 title: Customs and Traditions
 description: Blend in... or not.
 published: true
-date: 2020-09-19T07:44:24.926Z
-tags: culture
-editor: markdown
+date: 2020-09-19T07:44:30.883Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-07T02:47:19.021Z
 ---
 

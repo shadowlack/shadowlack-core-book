@@ -2,7 +2,7 @@
 title: Grading System
 description: The practise of "earning one's stripes."
 published: true
-date: 2020-09-19T01:30:54.274Z
+date: 2020-09-19T02:26:46.600Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T19:39:51.730Z

@@ -2,7 +2,7 @@
 title: Notsalepua Academy
 description: Moving towards justice.
 published: true
-date: 2020-09-19T01:29:05.381Z
+date: 2020-09-19T02:25:06.247Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:16:33.317Z

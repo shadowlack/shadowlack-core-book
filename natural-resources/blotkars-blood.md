@@ -2,7 +2,7 @@
 title: Blotkars Blood
 description: The primary ingredient in blood booze, obtained from Blotkars.
 published: true
-date: 2020-09-19T01:27:32.241Z
+date: 2020-09-19T02:23:40.045Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T22:20:24.593Z

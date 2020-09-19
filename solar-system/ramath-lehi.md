@@ -2,9 +2,9 @@
 title: Ramath-lehi
 description: Inhabited planet Ramath-lehi.
 published: true
-date: 2020-09-19T21:44:27.335Z
+date: 2020-09-19T21:44:32.254Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-09-19T21:40:24.512Z
 ---
 

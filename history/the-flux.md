@@ -2,7 +2,7 @@
 title: The Flux
 description: 
 published: true
-date: 2020-09-19T01:26:27.745Z
+date: 2020-09-19T21:40:32.217Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:52:03.533Z

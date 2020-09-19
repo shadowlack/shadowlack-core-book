@@ -2,9 +2,9 @@
 title: Adara School for the Young Thill
 description: Em laujmemd, em lebemd.
 published: true
-date: 2020-09-19T08:18:59.718Z
-tags: aurius, public school, magic school
-editor: markdown
+date: 2020-09-19T08:19:04.746Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-06T17:13:18.702Z
 ---
 

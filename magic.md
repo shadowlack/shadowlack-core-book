@@ -2,9 +2,9 @@
 title: Magic
 description: 
 published: true
-date: 2020-09-19T08:45:15.243Z
+date: 2020-09-19T08:45:20.436Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-09-19T08:05:49.247Z
 ---
 

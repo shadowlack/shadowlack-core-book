@@ -2,7 +2,7 @@
 title: Fasgoth
 description: A light pink mineral commonly used in dinnerware and for building construction. Found only on Xabu.
 published: true
-date: 2020-09-19T01:27:37.703Z
+date: 2020-09-19T02:23:44.772Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T22:20:33.877Z

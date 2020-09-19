@@ -2,11 +2,12 @@
 title: README
 description: 
 published: true
-date: 2020-09-19T02:00:11.906Z
+date: 2020-09-19T07:11:08.194Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-19T01:03:37.088Z
 ---
+
 <div align="center">
 <p align="center"><img src="./images/supplemental/bunglebearz-cayson.png" alt="Image of the character Cayson Lapices by bunglebearz."></p>
 <h1 align="center">Shadowlack Core Book ☄️</h1>
