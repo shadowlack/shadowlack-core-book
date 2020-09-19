@@ -2,7 +2,7 @@
 title: Diseases
 description: What appears to be ailing you?
 published: true
-date: 2020-09-19T08:17:39.197Z
+date: 2020-09-19T08:40:18.336Z
 tags: diseases
 editor: markdown
 dateCreated: 2020-09-06T20:09:35.614Z
@@ -23,5 +23,7 @@ A **disease** is an abnormal condition affecting the body of an organism. While 
 - [Dermallaghica](/diseases/dermallaghica)
 - [Magihaematophagia](/diseases/magihaematophagia)
 - [Magimetachrosis](/diseases/magimetachrosis)
+- Painted eyes
+- Revenant syndrome
 - [Therianthropy](/diseases/therianthropy)
 - [Vampirism](/diseases/vampirism)
