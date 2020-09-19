@@ -2,7 +2,7 @@
 title: Magic
 description: 
 published: true
-date: 2020-09-19T08:05:49.247Z
+date: 2020-09-19T08:20:22.481Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T08:05:49.247Z
@@ -43,9 +43,13 @@ Magic on the planet Ramath-lehi is a force of nature, much like gravity.
 Not all schools on the planet Ramath-lehi offer to teach students magic because of its very unstable nature. The most renown school for teaching magic is the [Pjaunfaubaj School of the Arcane](/schools/pjaunfaubaj-school-of-the-arcane), a private facility located in Boreios Sudesha.
 
 - [Adara School for the Young Thill](/schools/adara-school-for-the-young-thill), Aurius
+	- A school that caters to those with magia morbii.
 - [Dula Ukupani Vyj Sha Vledhs Devsap](/schools/dula-ukupani-vyj-sha-vledhs-devsap), Dhruv
+	- A specialized school for those who have wings.
 - [House of Anpu](/schools/house-of-anpu), Notios Sudesha
+	- Only accepts Anubi.
 - [Hyota Yv Daujt](/schools/hyota-yv-daujt), Bhim
+	- Known best for Machina Technology, including Menlo.
 - [Janardan Academy](/schools/janardan-academy), Swaraj
 - [Pjaunfaubaj School of the Arcane](/schools/pjaunfaubaj-school-of-the-arcane), Boreios Sudesha
 
