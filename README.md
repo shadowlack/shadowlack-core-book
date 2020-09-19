@@ -18,3 +18,4 @@ The content of this project is licensed under the Attribution-NonCommercial-Shar
 
 - [Shadowlack Wiki](https://wiki.shadowlack.com)
 - [Shadowlack](https://shadowlack.com)
+- [Matrix Chat](http://chat.shadowlack.com)
