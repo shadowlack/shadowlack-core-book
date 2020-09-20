@@ -1,10 +1,10 @@
 ---
-title: Daily Life
+title: Daily life
 description: What you can expect from a typical day in Ramath-lehi.
 published: true
-date: 2020-09-19T02:14:01.101Z
-tags: 
-editor: undefined
+date: 2020-09-20T19:37:58.682Z
+tags: culture
+editor: markdown
 dateCreated: 2020-09-07T02:16:02.746Z
 ---
 
@@ -12,7 +12,7 @@ dateCreated: 2020-09-07T02:16:02.746Z
 
 All citizens of Ramath-lehi should have government issued identification. Ramathian identification is special because it is specifically made out of technology that can capture the bio-signature of an individual. This makes them completely impossible to duplicate in order to create forgeries, and renders them absolutely useless if ever lost or stolen. Many of the basic services on Ramath-lehi require government-issued identification. Nearly all Ramathians receive their identification just a few days after they have been hatched or born. Some Ramathians refuse to get government identification, and thereby forfeit their privileges as inhabitants.
 
-A very high portion of Bhim does not have government identification due to simply not wanting to deal with the government at all. The lack of government identification is the main reason why so many residents of Bhim are in poor health.
+A very high portion of [Bhim](/countries/bhim) does not have government identification due to simply not wanting to deal with the government at all. The lack of government identification is the main reason why so many residents of Bhim are in poor health.
 
 The vast majority of [Takula](/species/takula) also do not have government identification due to their very tribal nature, and as a result, do not often venture outside of their dedicated lands.
 
@@ -52,7 +52,7 @@ It is perfectly legal to fish or hunt for food in Trilok, Dhruv, and Swaraj. All
 
 ## Travel
 
-Travelling around the entire planet (and off-planet) is both easy and affordable. The Portal Transportation System connects all of the various countries via a plethora of access nodes. It is even possible to visit two of Ramath-lehi’s moons, Xabu and Cussla, using this system, as well as the Therscatran Gate. Travel time is very minimal. It is possible to be (almost) anywhere in the continent in less than two standard hours. The exception to this is the Therscatran Gate, where wait times vary depending on the rotation of the moons and asteroids.
+Travelling around the entire planet (and off-planet) is both easy and affordable. The Portal Transportation System connects all of the various countries via a plethora of access nodes. It is even possible to visit two of Ramath-lehi’s moons, Xabu and Cussla, using this system, as well as the [Therscatran Gate](/countries/therscatran-gate). Travel time is very minimal. It is possible to be (almost) anywhere in the continent in less than two standard hours. The exception to this is the Therscatran Gate, where wait times vary depending on the rotation of the moons and asteroids.
 
 ## Ships and vehicles
 
@@ -60,7 +60,7 @@ Not many Ramathians choose to have vehicles. They instead rely upon the Portal T
 
 ## Housing
 
-Housing varies greatly depending on an individual and the country that the live in. A Takula could live in a simple hut in the jungles of Swaraj, or could live in an spacious apartment underneath the sea in Aurius, or even on one of the moon colonies. There is a really large variety of housing available. Not many Ramathians actually own their homes unless they are of more ancient, noble lineage, or are incredibly wealthy. The vast majority of Ramathians settle for long term rental agreements.
+Housing varies greatly depending on an individual and the country that the live in. A Takula could live in a simple hut in the jungles of [Swaraj](/countries/swaraj), or could live in an spacious apartment underneath the sea in [Aurius](/countries/aurius), or even on one of the moon colonies. There is a really large variety of housing available. Not many Ramathians actually own their homes unless they are of more ancient, noble lineage, or are incredibly wealthy. The vast majority of Ramathians settle for long term rental agreements.
 
 ## Free globalized health care
 
@@ -72,6 +72,6 @@ There is no conscription, or required military serving time on Ramath-lehi. Citi
 
 ## War
 
-The citizens of Ramath-lehi are in an ongoing war with the Rapine race, however many of the commoners are blissfully unaware and (so far) unaffected by it.
+The citizens of Ramath-lehi are in an ongoing war with the [Rapine](/species/rapine) species, however many of the commoners are blissfully unaware and (so far) unaffected by it.
 
 The Tguka and Nujemat divisions of the military are the most involved in the war and countless soldiers have lost their lives over hundreds of years. A surge of deaths due to Rapine occurs  approximately every 6 to 8 years. Unbeknownst to citizens, the warring has been moving closer and closer to their home solar system. Many in the Tguka division are tasked with defending and preventing the borders from shrinking further.
