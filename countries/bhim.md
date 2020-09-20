@@ -2,10 +2,10 @@
 title: Bhim
 description: We are dust and shadow.
 published: true
-date: 2010-03-21T16:10:43Z
-tags: country, bhim, grunge, retro future, blade runner, murder, conspiracy, wet,swamplands, dangerous, crime, vandalism, gambling, freedom
-author: shriker
+date: 2020-09-20T17:47:37.612Z
+tags: bhim, wetlands, country, grunge, retro future, blade runner, murder, conspiracy, dangerous, crime, vandalism, gambling, freedom, wet, swamplands
 editor: markdown
+dateCreated: 2020-09-20T03:15:07.058Z
 ---
 
 **Common Name:** Bhim
