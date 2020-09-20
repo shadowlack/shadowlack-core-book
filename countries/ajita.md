@@ -1,25 +1,24 @@
 ---
 title: Ajita
-description: Always go forth
+description: Always go forth.
 published: true
 date: 2020-09-19T21:29:52.183Z
-tags: 
+tags: country, ajita, biophilic architecture, pretentious, magic, windy, fresh,nature, arts, high society, aqua glow, water vapour
 editor: undefined
 dateCreated: 2020-09-19T21:11:08.263Z
 ---
 
-<div class="infobox">
-  
-**National Motto:** *Always go forth*
+**Common Name:** Ajita
+**National Motto:** *Always go forth.*
 **Population:** 13,052,608
 **Demonym:** Ajitian
 **Capital City:** Pealagi
 **Official Languages:**	Ramathian, Common
-**Currency:** Khasi
-
-</div>
+**Currency:** khasi
 
 For millennia **Ajita** has floated in the skies of Ramath-lehi. In the past, it used to regularly make trips around the world, never staying in the same place for more than a week at a time. The Magos and Magosai felt that this was a great way to foster a sense of community (or a sense of fear in a *we are always watching you* sense), and to ensure that their presence was one that was always felt. Despite the fact that Ajita has propulsion systems, these days it almost always stays still, situating itself between [Bhim](/countries/bhim), [Aurius](/countries/aurius), and [Mansukh](/countries/mansukh), where it was first born out of the ground. It was felt that moving the floating island around all of the time was too distressing for the inhabitants of Ramath-lehi, and that it could be very disruptive.
+
+## Culture
 
 Ajita has always been a place of magic. It shares an affinity for Fronima just like its land-bound counterpart, Mansukh. Many special ceremonies are held on Ajita because it is believed that the ground is sacred. Many Ramathians visit Ajita to watch the large flocks of beautiful [sharrathi](/faunas/sharrath) flying around, as they are said to be really good source of inspiration. Many have attributed their success with the arts to a sharrath.
   
@@ -27,7 +26,9 @@ Being so high in the sky, Ajita has gained a very standoffish and untouchable re
 
 Ajita is also a place that is rich in arts and culture. The country devotes a lot of its wealth to promoting Ramathian artists and further enhancing the culture of the planet Ramath-lehi as a whole. It is not unheard of for Ajitians to fund arts programs in other countries, or to devote time and efforts to this individual causes.
 
-## Locations
+## Geography and climate
+
+## Points of interest
 
 ### Cities
 
@@ -46,13 +47,14 @@ Ajita is also a place that is rich in arts and culture. The country devotes a lo
 
 ### Landmarks
 
-### Schools
+### Locations
 
+### Schools
 
 ## History
 
 ### The Flux
-During the Flux, Ajita was undoubtably the country that suffered the most. Fortunately it was also the country that had the means to &ldquo;bounce back&rdquo; as quickly as it did. The lands of Ajita were absolutely devastated by the earthquakes that ensued when the entire continent threatened to fall and drop into the ocean. 60,000 Ramathians died and another 200,000 were injured on Ajita during the Flux-induced earthquakes. A few organizations banded together (such as DFARA) in order to clean up the mess and start reconstructing. This of course led to a lot of controversy, as some Ramathians, begrudgingly felt that no one should help Ajita, and that they should work on the rebuilding efforts in solitude. Fortunately this was not an attitude that was held by many, and so help was sent. The assistance that Ajita got was very well-received, and many Ajitians still sing the praises of their saviours. There are of course some who would like to forget that the catastrophe never even happened.
+During the Flux, Ajita was undoubtably the country that suffered the most. Fortunately it was also the country that had the means to *bounce back* as quickly as it did. The lands of Ajita were absolutely devastated by the earthquakes that ensued when the entire continent threatened to fall and drop into the ocean. 60,000 Ramathians died and another 200,000 were injured on Ajita during the Flux-induced earthquakes. A few organizations banded together (such as DFARA) in order to clean up the mess and start reconstructing. This of course led to a lot of controversy, as some Ramathians, begrudgingly felt that no one should help Ajita, and that they should work on the rebuilding efforts in solitude. Fortunately this was not an attitude that was held by many, and so help was sent. The assistance that Ajita got was very well-received, and many Ajitians still sing the praises of their saviours. There are of course some who would like to forget that the catastrophe never even happened.
 
 ### 81,387
 Residents of Ajita are finally allowed to return to their homes after the entire continent was evacuated to Mansukh. Much debris still remains, but the floating continent is deemed stable as clean-up crews continue to work around the clock.
