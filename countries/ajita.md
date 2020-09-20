@@ -2,9 +2,9 @@
 title: Ajita
 description: Always go forth.
 published: true
-date: 2020-09-19T21:29:52.183Z
-tags: country, ajita, biophilic architecture, pretentious, magic, windy, fresh,nature, arts, high society, aqua glow, water vapour
-editor: undefined
+date: 2020-09-20T19:24:30.166Z
+tags: ajita, magic, biophilic architecture, country, pretentious, windy, fresh, nature, arts, high society, aqua glow, water vapour
+editor: markdown
 dateCreated: 2020-09-19T21:11:08.263Z
 ---
 
