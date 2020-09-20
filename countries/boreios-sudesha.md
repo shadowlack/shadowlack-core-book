@@ -2,10 +2,10 @@
 title: Boreios Sudesha
 description: Let them hate, so long as they fear.
 published: true
-date: 2010-03-30T17:25:31Z
-tags: country, boreios sudesha, war torn, magic ruins, rocky cliffs, some desert, fearless,terracotta, thriving coastal cities, croatia
-author: shriker
+date: 2020-09-20T19:25:25.677Z
+tags: boreios sudesha, desert, country, war torn, magic ruins, rocky cliffs, thriving coastal cities, croatia, fearless, terracotta
 editor: markdown
+dateCreated: 2020-09-20T03:15:15.742Z
 ---
 
 **Common Name:** Bori
