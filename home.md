@@ -2,11 +2,13 @@
 title: Shadowlack
 description: This wiki revolves around the Shadowlack World Building Project.
 published: true
-date: 2020-09-19T08:49:09.406Z
+date: 2020-09-20T17:46:17.903Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-09-06T17:47:00.222Z
 ---
+
+[![ramathian-worldmap-shriker.jpg](/images/ramathian-worldmap-shriker.jpg =100%x){.align-center}](/solar-system/ramath-lehi)
 
 - Ramathians
 	- [Genealogical family profiles](/t/genealogy)
