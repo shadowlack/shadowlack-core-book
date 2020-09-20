@@ -53,3 +53,5 @@ The planet itself is divided into hemispheres which house ten unique countries.
 - [Xabu *Under the jurisdiction of Aurius.*](/solar-system/xabu)
 - [Cussla *Under the jurisdiction of Aurius.*](/solar-system/cussla)
 {.links-list}
+
+![ramathian-worldmap-shriker.jpg](/images/ramathian-worldmap-shriker.jpg =x150) ![ramath-lehi-globe.png](/images/ramath-lehi-globe.png =x150) ![ramathian_world_map.jpg](/images/ramathian_world_map.jpg =x150) ![ramath-lehi-map-notext.jpg](/images/ramath-lehi-map-notext.jpg =x150) ![old_ramath-lehi-map.jpg](/images/old_ramath-lehi-map.jpg =x150)
