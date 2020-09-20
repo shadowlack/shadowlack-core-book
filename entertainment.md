@@ -2,13 +2,14 @@
 title: Entertainment
 description: Music, games, sports, things to do and things to read.
 published: true
-date: 2020-09-19T02:00:34.266Z
-tags: 
-editor: undefined
+date: 2020-09-20T19:30:01.698Z
+tags: entertainment, pop culture
+editor: markdown
 dateCreated: 2020-09-06T16:49:44.355Z
 ---
 
 ## Music
+
 - [Chaos Theory](/entertainment/chaos-theory)
 - [Desa Caabaj](/entertainment/desa-caabaj )
 - [Parallax](/entertainment/parallax)
@@ -19,6 +20,7 @@ dateCreated: 2020-09-06T16:49:44.355Z
 ## Literature
 
 - [:book: Ramathian Library](/entertainment/literature)
+- [Historical figures](/t/historical%20figures)
 {.links-list}
 
 ## Sports
