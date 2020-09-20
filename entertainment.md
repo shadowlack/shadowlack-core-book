@@ -2,7 +2,7 @@
 title: Entertainment
 description: Music, games, sports, things to do and things to read.
 published: true
-date: 2020-09-20T19:30:01.698Z
+date: 2020-09-20T19:32:33.582Z
 tags: entertainment, pop culture
 editor: markdown
 dateCreated: 2020-09-06T16:49:44.355Z
@@ -17,9 +17,9 @@ dateCreated: 2020-09-06T16:49:44.355Z
 - [Yelzin Swingers](/entertainment/yelzin-swingers)
 - [Xarkellklann](/entertainment/xarkellklann)
 
-## Literature
+## Celebrities and literature
 
-- [:book: Ramathian Library](/entertainment/literature)
+- [:book: Ramathian library](/entertainment/literature)
 - [Historical figures](/t/historical%20figures)
 {.links-list}
 
