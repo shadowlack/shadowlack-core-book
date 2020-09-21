@@ -19,6 +19,6 @@ The art, profession, or activity of those who perform in stage plays, films, com
 
 ## Prominent Ramathians
 
-- *None*
+- [Ru'Ryrok Vesii](/characters/ruryrok-vesii)
 
 ## History
