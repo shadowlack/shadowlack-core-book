@@ -2,24 +2,23 @@
 title: Bashalis
 description: All that is good must fade.
 published: true
-date: 2020-09-19T02:19:04.102Z
-tags: 
-editor: undefined
+date: 2020-09-21T17:29:50.218Z
+tags: swaraj, anubi, uhai desert, genealogy, upper class
+editor: markdown
 dateCreated: 2020-09-09T21:29:33.221Z
 ---
 
 ## About
-=====
 
 All about the Bashalis family. 
 
 ### Defining Characteristics
 
-- Noble and pure bloodline
+- Noble and pure [Anubi](/species/anubi) bloodline
 - Extremely xenophobic towards non-Anubi
 - Most are secretly slave owners
 - True breeding with no Lukuo or undesirable mutations
-- They do however have a susceptibility to [therianthropy](/diseases/therianthropy) that is kept secret
+- They do however have a susceptibility to [therianthropy](/conditions/therianthropy) that is kept secret
 - Very wealthy with members often holding important positions in Anubi communities
 - Many members refuse to register with the government or follow its laws believing themselves to be separate and above all other races
 - Are known to commit violent acts and crimes against non-Anubi
