@@ -19,7 +19,8 @@ The scientific study of matter in outer space, especially the positions, dimensi
 
 ## Prominent Ramathians
 
-- *None*
+- [Dragyn](/genealogy/dragyn) family
+- [Lorax Dragyn](/character/lorax-dragyn)
 
 ## History
 
