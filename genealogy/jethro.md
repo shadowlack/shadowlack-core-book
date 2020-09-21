@@ -2,9 +2,9 @@
 title: Jethro
 description: 
 published: true
-date: 2020-09-19T02:20:12.307Z
-tags: 
-editor: undefined
+date: 2020-09-21T17:28:31.999Z
+tags: swaraj, genealogy, lukuo, pendragon
+editor: markdown
 dateCreated: 2020-09-09T21:18:09.313Z
 ---
 
@@ -32,5 +32,5 @@ A family tree has not been created.
 ### Influence and Influences
 
 - The Jethro has played an important role in the commercialization of land and agriculture but they didn't stop at making a fortune. Most of the family member are brought up to pursue a trade in the field, be it commercial, botanical or scientific.
-- Thorrin Jethro is known for his role in finding a chemical to fight off [Crop Rot](/diseases/crop-rot "wikilink")
+- Thorrin Jethro is known for his role in finding a chemical to fight off [crop rot](/conditions/crop-rot "wikilink")
 - Atremis Jethro became a major player in the production of GMOs (genetically modified organisms) before his sudden and mysterious death.
