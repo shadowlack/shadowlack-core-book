@@ -1,13 +1,13 @@
 ---
 title: Wolf Paws
-description:
+description: 
 published: true
-date: 2010-03-08T12:57:38Z
-tags:
+date: 2020-09-22T23:56:02.540Z
+tags: 
 editor: markdown
+dateCreated: 2020-09-22T23:33:59.391Z
 ---
-
 
 **Wolf Paws** (Andrea L.) - Without Andrea, there wouldn't have been a Comic. Which means that there would not have been any pendragons. Which means that Ramath-lehi never would have existed. D:
 
-She's mostknown for her character [Karryasa Grader](/characters/karryasa-grader).
+She's most known for her character [Karryasa Grader](/characters/karryasa-grader).
