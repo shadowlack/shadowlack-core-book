@@ -2,7 +2,7 @@
 title: Shadowlack
 description: This wiki revolves around the Shadowlack World Building Project.
 published: true
-date: 2020-09-22T22:29:43.019Z
+date: 2020-09-22T22:31:11.695Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-06T17:47:00.222Z
