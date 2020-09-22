@@ -2,9 +2,9 @@
 title: Rapine
 description: They will swallow your soul.
 published: true
-date: 2020-09-22T21:07:46.357Z
-tags: 
-editor: undefined
+date: 2020-09-22T22:10:35.904Z
+tags: wars, rapine, soulsuckers
+editor: markdown
 dateCreated: 2020-09-07T03:23:16.681Z
 ---
 
@@ -16,12 +16,12 @@ dateCreated: 2020-09-07T03:23:16.681Z
 | Height        | 60 cm - 4 m |
 | Weight        | 40 kg - 440 kg |
 
-**Rapine** \[ɹaˈpʰajn\] do not live on Ramath-lehi. Rapine invasions are what Pendragons refer to as "Wars", and the "Battles for Life". Your character may not encounter one unless it has been said that there is an invasion or you get permission from the Administration. A Rapine has never been sighted on Ramath-lehi — yet.
+**Rapine** \[ɹaˈpʰajn\] do not live on Ramath-lehi. Rapine invasions are what Ramathians refer to as *Wars*, and the *Battles for Life*.
 
 > The Rapine's only instinct is to hunt. They feed off of any unwilling being's soul. Once your soul is consumed, it can never return to Fronima.
 {.is-danger}
 
-Roughly every seven Ramathian years, the Rapine make their way to populated worlds full of life to feed off of other life forms. These times are considered war to the Pendragon race as they view the Rapine as a destructive plague that must be stopped. A single Pendragon could easily take on several Rapine, but their murders are so populated, each Pendragon can be easily outnumbered 40 to one. Once a Rapine has fed on enough souls to satisfy it, it returns to its home planet to breed.
+Roughly every seven Ramathian years, the Rapine make their way to populated worlds full of life to feed off of other life forms. These times are considered war to Ramathians as they view the Rapine as a destructive plague that must be stopped. A single Ramathian could easily take on several Rapine, but their murders are so populated, each fighter can be easily outnumbered 40 to one. Once a Rapine has fed on enough souls to satisfy it, it returns to its home planet to breed.
 
 Rapine can be identified by their teeth, scales and claws. That's about all they have in common. The most common looking Rapine resembles a draconic alligator, but they they range from looking like some scaled wolf to a horse with teeth and claws, and depending upon the climate in which they were raised in, their scale colours and patterns can vary greatly as well.
 
@@ -53,3 +53,7 @@ The Rapine revolve strongly around their military. To them, belonging to the mil
 ### Religion
 
 All Rapine believe in one god: Kytlekh (the Nothing). They believe that their purpose in life is to serve Kytlekh and that it is only by serving him that they will eventually reach enlightenment. By consuming souls themselves, the Rapine condemn them to the Nothing, which in turn feeds Kytlekh and keeps him happy.
+
+## See also
+
+- [Rapitelli](/creeds/rapitelli), Ramathian Rapine worshippers
