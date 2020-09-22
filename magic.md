@@ -1,14 +1,12 @@
 ---
 title: Magic
-description: 
+description: Magic on the planet Ramath-lehi is a force of nature, much like gravity.
 published: true
-date: 2020-09-22T21:28:35.248Z
+date: 2020-09-22T23:57:20.726Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-09-19T08:05:49.247Z
 ---
-
-Magic on the planet Ramath-lehi is a force of nature, much like gravity.
 
 ## Fronima
 
