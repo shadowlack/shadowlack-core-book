@@ -84,4 +84,4 @@ Underneath the layers of classrooms, offices, and other rooms lie the dormitorie
 - Thanos Dragyn, Arch Magos
 - Sari Zeb Dragyn, Arch Magosai
 - Lorax and Draco Dragyn
-- [Koani Grader](/pop-culture-figures/koani-grader)
+- [Koani Grader](/characters/koani-grader)

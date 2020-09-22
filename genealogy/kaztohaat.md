@@ -10,7 +10,7 @@ dateCreated: 2020-09-09T21:18:18.434Z
 
 ## About
 
-A legendary family of warlords who ruled Swaraj thousands of years ago. Mostly known for [Nuji Kaztohaat](/historical-figures/nuji-kaztohaat), the greatest of them all.
+A legendary family of warlords who ruled Swaraj thousands of years ago. Mostly known for [Nuji Kaztohaat](/characters/nuji-kaztohaat), the greatest of them all.
 
 ### Defining Characteristics
 
