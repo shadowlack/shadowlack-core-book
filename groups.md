@@ -2,7 +2,7 @@
 title: Groups
 description: Find someone to adventure with.
 published: true
-date: 2020-09-22T22:14:24.913Z
+date: 2020-09-22T22:17:48.654Z
 tags: factions, groups, organizations, clans, tribes, politics
 editor: markdown
 dateCreated: 2020-09-22T20:52:09.694Z
@@ -20,6 +20,10 @@ dateCreated: 2020-09-22T20:52:09.694Z
 - [Council of Thirteen](/groups/council-of-twelve)
 - [Uajeul Suksekul Russuleym](/groups/military) (USR)
 - [Council of Twelve](/groups/council-of-twelve) (Defunct)
+
+## Volunteer and non-profit organizations
+
+- [Dragons For a Restored Ajita](/groups/dragons-for-a-restored-ajita) (DFARA)
 
 ## Cults
 
