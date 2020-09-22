@@ -2,13 +2,13 @@
 title: Creeds
 description: I'll give you something to believe in.
 published: true
-date: 2020-09-22T22:06:48.302Z
+date: 2020-09-22T22:08:09.149Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-22T21:54:17.010Z
 ---
 
-The various belief systems found on Ramath-lehi.
+Various religions, faiths, belief systems, and codes of conduct that may be found at Shadowlack.
 
 - [Tanalism](/creeds/tanalism), Ramath-lehi's most popular and widely accepted religion.
   - [Daelarch Worship](/creeds/daelarch-worship)
