@@ -2,9 +2,9 @@
 title: Groups
 description: 
 published: true
-date: 2020-09-22T21:41:46.666Z
-tags: 
-editor: undefined
+date: 2020-09-22T22:12:34.141Z
+tags: factions, groups, organizations, clans, tribes, politics
+editor: markdown
 dateCreated: 2020-09-22T20:52:09.694Z
 ---
 
@@ -25,7 +25,7 @@ dateCreated: 2020-09-22T20:52:09.694Z
 
 - [Pjaun Nucajt](/groups/pjaun-nucajt) (Dream Makers)
 
-## Racial factions
+## Species factions
 
 ### Aquabat packs
 
