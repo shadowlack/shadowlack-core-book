@@ -2,9 +2,10 @@
 title: Dynirism
 description: 
 published: true
-date: 2020-09-06T03:20:50.131Z
+date: 2020-09-22T22:04:48.301Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-09-22T21:54:56.485Z
 ---
 
 ## Beliefs
@@ -19,4 +20,4 @@ This religion is best known for its *Holy Knights*, the [Blades of Dynir](/group
 
 ## History
 
-A similar religion to [Tanalism](/groups/tanalism), and in fact believed to be the ancestor of it in some circles. (Many others believe they had a common ancestor.)
+A similar religion to [Tanalism](/creeds/tanalism), and in fact believed to be the ancestor of it in some circles. (Many others believe they had a common ancestor.)
