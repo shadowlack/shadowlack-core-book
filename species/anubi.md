@@ -49,7 +49,7 @@ Anubi are extremely susceptible to disease due to inbreeding.
 
 ### Religion
 
-The Anubi have a religion (Anubian) that differs from the rest of the world. It is cantered around central gods that manifest themselves in hidden temples that are scattered around the deserts.
+The Anubi have a religion ([Anubian](/creeds/anubian)) that differs from the rest of the world. It is cantered around central gods that manifest themselves in hidden temples that are scattered around the deserts.
 
 ## Habitat
 
@@ -66,7 +66,7 @@ During the Ramathian year 50,000, a strange and undocumented illness wreaked hav
 ## Appendix
 
 - [Anubian, Language *The spoken language of the Anubi.*](/languages/anubian)
-- Anubian, Religion The most popular Anubi religion.
+- [Anubian, Religion *The most popular Anubi religion.*](/creeds/anubian)
 - [Pyx'gesopeud Tradition *An Anubian marriage tradition.*](/traditions/pyxgesopeud-tradition)
 - [Quangest *A holiday to mourn the victims of the Anubi plague.*](/calendar/quangest)
 - Krokino Prison

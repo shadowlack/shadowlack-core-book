@@ -8,7 +8,7 @@ editor: undefined
 dateCreated: 2020-09-22T20:52:17.740Z
 ---
 
-The **Blades of Dynir** is an organization that revolves around Dynirism. There are countless legends that involve the Blades. To become an Initiate of the Blades is the lifelong dream of many young niotis.
+The **Blades of Dynir** is an organization that revolves around [Dynirism](/creeds/dynirism). There are countless legends that involve the Blades. To become an Initiate of the Blades is the lifelong dream of many young niotis.
 
 ## Purpose
 

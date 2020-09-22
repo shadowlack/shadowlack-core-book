@@ -18,7 +18,7 @@ The art of collecting information elusively, without revealing oneself.
 
 ## Specialization
 
-- [Code of the Bounty Hunter](/traditions/code-of-the-bounty-hunter)
+- [Code of the Bounty Hunter](/creeds/code-of-the-bounty-hunter)
 
 ## Prominent Ramathians
 

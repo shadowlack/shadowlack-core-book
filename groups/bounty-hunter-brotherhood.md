@@ -22,7 +22,7 @@ The organisation is based in [Swaraj](/countries/swaraj), though there are branc
 
 ## Members
 
-All members must follow the [Code of the Bounty Hunter](/traditions/code-of-the-bounty-hunter), or face wrathful consequences. It is their strict adherence to the Code that makes them so ruputable.
+All members must follow the [Code of the Bounty Hunter](/creeds/code-of-the-bounty-hunter), or face wrathful consequences. It is their strict adherence to the Code that makes them so ruputable.
 
 ### Current
 

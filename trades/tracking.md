@@ -18,7 +18,7 @@ The art of following a chosen prey or quarry without being caught or identified,
 
 ## Specialization
 
-- [Code of the Bounty Hunter](/traditions/code-of-the-bounty-hunter)
+- [Code of the Bounty Hunter](/creeds/code-of-the-bounty-hunter)
 
 ## Prominent Ramathians
 

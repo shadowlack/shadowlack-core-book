@@ -21,7 +21,7 @@ The art of attempting (though not always succeeding) in all matters that are con
 
 ## Specialization
 
-- [Code of the Bounty Hunter](/traditions/code-of-the-bounty-hunter)
+- [Code of the Bounty Hunter](/creeds/code-of-the-bounty-hunter)
 
 ## Prominent Ramathians
 

@@ -18,7 +18,7 @@ Extensive knowledge of weapons and tactics used to kill others - usually persons
 
 ## Specialization
 
-- [Code of the Bounty Hunter](/traditions/code-of-the-bounty-hunter)
+- [Code of the Bounty Hunter](/creeds/code-of-the-bounty-hunter)
 
 ## Prominent Ramathians
 
