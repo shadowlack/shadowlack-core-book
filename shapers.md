@@ -2,10 +2,10 @@
 title: Shapers
 description: The people building the world of Shadowlack.
 published: true
-date: 2020-09-22T22:31:11.695Z
+date: 2020-09-22T23:36:35.108Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-06T17:47:00.222Z
+dateCreated: 2020-09-22T23:32:28.440Z
 ---
 
 A place of many thanks and to keep track of projects and specific contributions. :heart:
