@@ -1,8 +1,8 @@
 ---
 title: Groups
-description: Find someone to adventure with.
+description: Find a cause or someone to adventure with.
 published: true
-date: 2020-09-22T22:17:48.654Z
+date: 2020-09-22T22:20:31.946Z
 tags: factions, groups, organizations, clans, tribes, politics
 editor: markdown
 dateCreated: 2020-09-22T20:52:09.694Z
