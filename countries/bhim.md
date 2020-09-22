@@ -50,6 +50,10 @@ The locals live like wolves, out only for themselves (visitors, be warned). The 
 - [Hyota Yv Daujt](/schools/hyota-yv-daujt)
 - [Notsalepua Academy](/schools/notsalepua-academy)
 
+### Ramathians
+
+- Home of self-proclaimed royal family, turned crime syndicate, the [Janhyul](/genealogy/janhyul). Creators of the Bhijan currency.
+
 ## History
 
 ### 67,200

@@ -17,11 +17,11 @@ Extensive knowledge of weapons and tactics used to kill others - usually persons
 
 ## Specialization
 
-- Code of the Bounty Hunter
+- [Code of the Bounty Hunter](/traditions/code-of-the-bounty-hunter)
 
 ## Prominent Ramathians
 
-- Bounty Hunter Brotherhood
+- [Bounty Hunter Brotherhood](/groups/bounty-hunter-brotherhood)
 
 ## History
 

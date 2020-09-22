@@ -17,9 +17,11 @@ The study of the many methods of tracking down and killing prey, including on bo
 
 ## Specialization
 
+- [Code of the Bounty Hunter](/traditions/code-of-the-bounty-hunter)
+
 ## Prominent Ramathians
 
-- *None*
+- [Bounty Hunter Brotherhood](/groups/bounty-hunter-brotherhood)
 
 ## History
 

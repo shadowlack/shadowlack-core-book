@@ -20,9 +20,11 @@ The art of attempting (though not always succeeding) in all matters that are con
 
 ## Specialization
 
+- [Code of the Bounty Hunter](/traditions/code-of-the-bounty-hunter)
+
 ## Prominent Ramathians
 
-- *None*
+- [Bounty Hunter Brotherhood](/groups/bounty-hunter-brotherhood)
 
 ## History
 
