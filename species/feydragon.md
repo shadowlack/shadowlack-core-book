@@ -2,9 +2,9 @@
 title: Feydragon
 description: Draco sapiens pauxillulus
 published: true
-date: 2020-09-22T21:08:04.037Z
-tags: 
-editor: undefined
+date: 2020-09-22T22:03:34.674Z
+tags: species, fronima, magic
+editor: markdown
 dateCreated: 2020-09-09T00:28:13.609Z
 ---
 
@@ -51,9 +51,10 @@ Mongrel Kynnyn are made up of hybrids and Fey from other groups who abandoned th
 
 ### Alanamsul
 
-**Alanamsul** are the second most common subtype of Feydragon and account for 11% of the Fey population. They are followers of the religion Tanalism and specifically worship the six elemental Numegola and refer to themselves as that deity's children.
+**Alanamsul** are the second most common subtype of Feydragon and account for 11% of the Fey population. They are followers of the religion [Tanalism](/creeds/tanalism) and specifically worship the six elemental Numegola and refer to themselves as that deity's children.
 
 Every Alanamsul's appearance is influenced by its chosen Numegola. For example, a Child of Reda will primarily take on the appearance of fire.
+
 Alanamsul wings resemble those of insects, but are far more sturdy. Other, rarer insectoid traits that occur from time to time include: scales, antennae and (extremely rarely) compound eyes.
 
 ### Azetsum
@@ -75,3 +76,5 @@ Another trait that occurs exclusively to the Myshemd is the existence of glands 
 The subject of Kytlekh, and subsequent worship of the Nothing, is a major source of conflict in Myshemd clan politics. Some clans still follow this religion and its philosophy; however, many have long since moved away from this to worship other deities.
 
 ## Appendix
+
+- [Fey Worship](/creeds/fey-worship)
