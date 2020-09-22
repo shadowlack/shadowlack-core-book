@@ -2,7 +2,7 @@
 title: Rapine
 description: They will swallow your soul.
 published: true
-date: 2020-09-22T22:10:35.904Z
+date: 2020-09-22T22:11:26.755Z
 tags: wars, rapine, soulsuckers
 editor: markdown
 dateCreated: 2020-09-07T03:23:16.681Z
