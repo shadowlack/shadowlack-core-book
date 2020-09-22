@@ -1,10 +1,11 @@
 ---
 title: Animal Breeding
-description:
+description: 
 published: true
-date: 2012-08-09T04:31:55Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:30:18.086Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:13:52.684Z
 ---
 
 An involvement with the genetic understanding as well as the carrying-out of animal reproduction. Involves being knowledgeable on genes, pre and post natal care, and rearing of the offspring.

@@ -1,10 +1,11 @@
 ---
 title: Lock Picking
-description:
+description: 
 published: true
-date: 2012-08-09T04:50:33Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:36:48.966Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:18:11.204Z
 ---
 
 The art of using tools, or bare hands, in order to unfasten locks and other obstacles.

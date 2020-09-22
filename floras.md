@@ -2,7 +2,7 @@
 title: Flora
 description: Plant, bacterial, or fungal life.
 published: true
-date: 2020-09-19T02:00:40.093Z
+date: 2020-09-22T21:17:14.763Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-12T19:16:15.298Z

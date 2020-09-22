@@ -1,10 +1,11 @@
 ---
 title: Cartography
-description:
+description: 
 published: true
-date: 2012-08-08T18:11:09Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:31:40.067Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:15:43.427Z
 ---
 
 The art or technique of making maps or charts.

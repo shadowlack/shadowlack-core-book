@@ -2,7 +2,7 @@
 title: Manji Nakon
 description: 
 published: true
-date: 2020-09-19T02:08:12.227Z
+date: 2020-09-22T21:26:43.699Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-19T00:02:33.553Z

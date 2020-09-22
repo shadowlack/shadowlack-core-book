@@ -2,7 +2,7 @@
 title: Omesea
 description: A marriage ritual formulated for homosexual couples.
 published: true
-date: 2020-09-19T02:26:51.500Z
+date: 2020-09-22T21:13:57.138Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T19:40:02.167Z

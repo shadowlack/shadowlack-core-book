@@ -2,7 +2,7 @@
 title: Binail Hachuan
 description: 
 published: true
-date: 2020-09-19T02:03:05.967Z
+date: 2020-09-22T21:18:12.746Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:47:14.395Z

@@ -2,7 +2,7 @@
 title: Jaceen Lapices
 description: History teacher and administrator at Janardan Academy.
 published: true
-date: 2020-09-19T02:06:03.774Z
+date: 2020-09-22T21:19:24.566Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:48:47.983Z

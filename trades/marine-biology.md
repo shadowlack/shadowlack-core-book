@@ -1,10 +1,11 @@
 ---
 title: Marine Biology
-description:
+description: 
 published: true
-date: 2012-08-09T00:16:04Z
-tags: trades, sciences
-editor: markdown
+date: 2020-09-22T21:36:59.990Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:18:26.183Z
 ---
 
 A branch of knowledge that deals with the study of living organisms and vital processes within aquatic environments.

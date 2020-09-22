@@ -2,9 +2,9 @@
 title: Bloodweed
 description: 
 published: true
-date: 2020-09-21T17:33:01.845Z
-tags: vampirism, floras, edible
-editor: markdown
+date: 2020-09-22T21:14:44.460Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-11T20:39:21.412Z
 ---
 

@@ -2,7 +2,7 @@
 title: Aurek Setarp
 description: 
 published: true
-date: 2020-09-19T02:02:44.846Z
+date: 2020-09-22T21:17:54.575Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:46:50.538Z

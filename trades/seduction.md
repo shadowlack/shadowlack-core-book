@@ -1,10 +1,11 @@
 ---
 title: Seduction
-description:
+description: 
 published: true
-date: 2012-08-09T05:02:10Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:39:15.526Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:32:35.049Z
 ---
 
 The art of drawing sexual attention to oneself and making it the victims' sole focus, so that advantage can be taken.

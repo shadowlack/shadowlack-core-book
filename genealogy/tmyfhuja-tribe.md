@@ -2,7 +2,7 @@
 title: Tmyfhuja Tribe
 description: 
 published: true
-date: 2020-09-19T02:21:22.779Z
+date: 2020-09-22T21:10:22.226Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:20:06.730Z

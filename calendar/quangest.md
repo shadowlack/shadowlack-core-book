@@ -2,7 +2,7 @@
 title: Quangest
 description: A sombre holiday honouring the lives of those lost to the Anubi plague.
 published: true
-date: 2020-09-19T02:01:38.144Z
+date: 2020-09-22T21:13:31.993Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T18:44:51.976Z

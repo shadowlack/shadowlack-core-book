@@ -1,10 +1,11 @@
 ---
 title: Daemon and Darkness Lore
-description:
+description: 
 published: true
-date: 2012-08-08T20:19:41Z
-tags: trades, magic
-editor: markdown
+date: 2020-09-22T21:32:44.050Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:42:21.555Z
 ---
 
 Opposite of [Archon and light Lore](/trades/archon-and-light-lore).

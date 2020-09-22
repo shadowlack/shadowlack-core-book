@@ -1,10 +1,11 @@
 ---
 title: Acting
-description:
+description: 
 published: true
-date: 2012-08-09T04:31:01Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:29:53.799Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:13:20.880Z
 ---
 
 The art, profession, or activity of those who perform in stage plays, films, commercials, etc.

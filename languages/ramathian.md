@@ -2,7 +2,7 @@
 title: Ramathian
 description: The upper class language of Ramath-lehi.
 published: true
-date: 2020-09-19T02:23:15.603Z
+date: 2020-09-22T21:12:45.973Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T16:40:06.101Z

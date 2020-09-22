@@ -1,10 +1,11 @@
 ---
 title: Enchanting
-description:
+description: 
 published: true
-date: 2012-08-08T20:49:16Z
-tags: trades, magic
-editor: markdown
+date: 2020-09-22T21:33:55.202Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:44:03.635Z
 ---
 
 The art of enchanting and imbuing items with magical properties. 

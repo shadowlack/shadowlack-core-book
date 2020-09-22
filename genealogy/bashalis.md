@@ -2,9 +2,9 @@
 title: Bashalis
 description: All that is good must fade.
 published: true
-date: 2020-09-21T17:29:50.218Z
-tags: swaraj, anubi, uhai desert, genealogy, upper class
-editor: markdown
+date: 2020-09-22T21:10:57.861Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-09T21:29:33.221Z
 ---
 

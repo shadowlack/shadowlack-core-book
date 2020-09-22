@@ -2,7 +2,7 @@
 title: Ghost
 description: 
 published: true
-date: 2020-09-19T02:05:15.980Z
+date: 2020-09-22T21:24:07.887Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-18T22:47:24.656Z

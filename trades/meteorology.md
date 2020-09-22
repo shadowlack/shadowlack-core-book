@@ -1,10 +1,11 @@
 ---
 title: Meteorology
-description:
+description: 
 published: true
-date: 2012-08-09T04:21:18Z
-tags: trades, sciences
-editor: markdown
+date: 2020-09-22T21:37:21.866Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:18:56.651Z
 ---
 
 The study of the weather, as well as the ability to map and predict it.

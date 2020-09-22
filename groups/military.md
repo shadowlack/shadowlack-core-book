@@ -1,11 +1,11 @@
 ---
 title: Uajeul Suksekul Russuleym
-description:
+description: 
 published: true
-date: 2007-10-18T21:59:47Z
-tags:
-author: shriker
-editor: markdown
+date: 2020-09-22T21:42:15.691Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T20:52:51.222Z
 ---
 
 The **Uajeul Suksekul Russuleym** (USR) is Ramath-lehi's largest military operation.

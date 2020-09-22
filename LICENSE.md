@@ -2,7 +2,7 @@
 title: LICENSE
 description: 
 published: true
-date: 2020-09-19T02:00:06.408Z
+date: 2020-09-22T20:57:41.938Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:48:15.547Z

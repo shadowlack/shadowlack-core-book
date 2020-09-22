@@ -2,7 +2,7 @@
 title: Redival
 description: A celebration of the gift of fire and Ramathian knowledge.
 published: true
-date: 2020-09-19T02:01:43.444Z
+date: 2020-09-22T21:13:36.880Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T18:45:01.201Z

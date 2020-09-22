@@ -2,7 +2,7 @@
 title: Djuberull
 description: 
 published: true
-date: 2020-09-19T02:15:26.424Z
+date: 2020-09-22T21:03:46.183Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:18:58.486Z

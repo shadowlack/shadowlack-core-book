@@ -1,10 +1,11 @@
 ---
 title: Trade Catalogue
-description:
+description: 
 published: true
-date: 2012-08-08T18:08:37Z
-tags:
-editor: markdown
+date: 2020-09-22T21:37:38.318Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:30:20.242Z
 ---
 
 Citizens of Ramath-lehi are generally schooled between the ages seven and twenty-two. During the years that they spend in various institutions they may specialize in a variety of subjects. However, most characters tend to only major in two trades. Trades should reflect what your character does, or wishes to do for a living.

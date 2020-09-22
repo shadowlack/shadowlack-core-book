@@ -1,10 +1,11 @@
 ---
 title: Necromancy
-description:
+description: 
 published: true
-date: 2012-08-08T21:02:12Z
-tags: trades, magic
-editor: markdown
+date: 2020-09-22T21:37:49.847Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:30:37.959Z
 ---
 
 The illegal art of reanimating and commanding deceased bodies to do one's bidding.

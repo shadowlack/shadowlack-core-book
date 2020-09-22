@@ -1,10 +1,11 @@
 ---
 title: Funeral Directing
-description:
+description: 
 published: true
-date: 2012-08-09T04:45:53Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:34:41.330Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:15:20.754Z
 ---
 
 A funeral director (also known as a mortician or undertaker) is someone involved in the business of funeral rites. The job often entails the burial or cremation of the dead, as well as the planning and arrangement of the actual funeral ceremony.

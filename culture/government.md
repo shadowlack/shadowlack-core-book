@@ -2,9 +2,9 @@
 title: Government
 description: The Ramathian government.
 published: true
-date: 2020-09-19T07:38:58.332Z
+date: 2020-09-22T21:28:22.955Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-09-19T07:38:52.871Z
 ---
 

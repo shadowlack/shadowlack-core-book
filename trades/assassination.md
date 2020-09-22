@@ -1,10 +1,11 @@
 ---
 title: Assassination
-description:
+description: 
 published: true
-date: 2012-08-09T04:35:02Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:30:58.954Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:14:47.244Z
 ---
 
 Extensive knowledge of weapons and tactics used to kill others - usually persons in power - for money.

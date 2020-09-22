@@ -1,10 +1,11 @@
 ---
 title: Drawing
-description:
+description: 
 published: true
-date: 2012-08-08T18:13:01Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:33:11.064Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:43:00.625Z
 ---
 
 The ability to use one's hands in order to create art with pencil and paper media.

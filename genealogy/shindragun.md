@@ -2,9 +2,9 @@
 title: Shindragun
 description: Keep your mind sharp, your step swift and silent, your aim ever-true, and your condition enduring!
 published: true
-date: 2020-09-21T17:27:54.062Z
-tags: inventors, ajita, genealogy, upper class, pendragon, vampirism
-editor: markdown
+date: 2020-09-22T21:09:52.559Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-09T21:19:20.726Z
 ---
 

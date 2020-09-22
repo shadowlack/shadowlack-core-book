@@ -2,7 +2,7 @@
 title: Pjaunfaubaj School of the Arcane
 description: A private school catering toward the study of magic in Boreios Sudesha.
 published: true
-date: 2020-09-19T02:25:12.015Z
+date: 2020-09-22T21:03:01.189Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:16:50.681Z

@@ -1,10 +1,11 @@
 ---
 title: Spying
-description:
+description: 
 published: true
-date: 2012-08-09T05:09:21Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:40:11.716Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:33:54.799Z
 ---
 
 The art of collecting information elusively, without revealing oneself.

@@ -1,10 +1,11 @@
 ---
 title: Dream Weaving
-description:
+description: 
 published: true
-date: 2012-08-08T20:27:41Z
-tags: trades, magic
-editor: markdown
+date: 2020-09-22T21:33:16.147Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:43:08.293Z
 ---
 
 The magic in interfere, transform or even create dreams.

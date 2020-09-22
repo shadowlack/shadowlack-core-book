@@ -1,10 +1,11 @@
 ---
 title: Herbology
-description:
+description: 
 published: true
-date: 2012-08-09T00:14:06Z
-tags: trades, sciences
-editor: markdown
+date: 2020-09-22T21:35:14.975Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:16:06.898Z
 ---
 
 The study of plants and herbs for mostly medicinal uses.

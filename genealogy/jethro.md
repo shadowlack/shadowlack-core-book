@@ -2,9 +2,9 @@
 title: Jethro
 description: 
 published: true
-date: 2020-09-21T17:28:31.999Z
-tags: swaraj, genealogy, lukuo, pendragon
-editor: markdown
+date: 2020-09-22T21:09:04.711Z
+tags: 
+editor: undefined
 dateCreated: 2020-09-09T21:18:09.313Z
 ---
 

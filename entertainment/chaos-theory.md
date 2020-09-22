@@ -2,7 +2,7 @@
 title: Chaos Theory
 description: An all-Feydragon rock band.
 published: true
-date: 2020-09-19T02:15:11.059Z
+date: 2020-09-22T20:58:33.234Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:49:29.798Z

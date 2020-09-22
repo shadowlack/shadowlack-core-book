@@ -1,10 +1,11 @@
 ---
 title: Archaeology
-description:
+description: 
 published: true
-date: 2012-08-09T00:10:46Z
-tags: trades, sciences
-editor: markdown
+date: 2020-09-22T21:30:36.083Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:14:16.052Z
 ---
 
 The scientific study of material remains (as fossil relics, artifacts, and monuments) of past Ramathian and alien life and activities.

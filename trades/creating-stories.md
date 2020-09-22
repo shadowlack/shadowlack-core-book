@@ -1,10 +1,11 @@
 ---
 title: Creating Stories
-description:
+description: 
 published: true
-date: 2012-08-09T05:12:59Z
-tags: trades, social and literature
-editor: markdown
+date: 2020-09-22T21:32:32.565Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:42:06.230Z
 ---
 
 The ability to come up with characters and a plot, and either write it down or speak it orally.

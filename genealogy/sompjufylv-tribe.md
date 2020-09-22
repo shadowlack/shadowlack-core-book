@@ -2,7 +2,7 @@
 title: Sompjufylv Tribe
 description: Yki patrons of Fesjym.
 published: true
-date: 2020-09-19T02:21:08.194Z
+date: 2020-09-22T21:10:04.931Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:19:39.159Z

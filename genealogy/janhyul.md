@@ -2,10 +2,10 @@
 title: Janhyul
 description: 
 published: true
-date: 2020-09-19T02:20:04.974Z
+date: 2020-09-22T21:41:40.745Z
 tags: 
-editor: markdown
-dateCreated: 2020-09-09T21:17:59.446Z
+editor: undefined
+dateCreated: 2020-09-22T20:52:01.365Z
 ---
 
 ## About

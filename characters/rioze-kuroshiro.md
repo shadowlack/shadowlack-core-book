@@ -2,7 +2,7 @@
 title: Rioze Kuroshiro
 description: 
 published: true
-date: 2020-09-19T02:10:20.119Z
+date: 2020-09-22T21:27:18.976Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-19T00:03:21.390Z

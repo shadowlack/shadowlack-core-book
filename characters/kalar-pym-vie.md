@@ -2,7 +2,7 @@
 title: Kalar Pym Vie
 description: An author and comic book writer.
 published: true
-date: 2020-09-19T02:06:44.293Z
+date: 2020-09-22T21:00:23.391Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:53:59.763Z

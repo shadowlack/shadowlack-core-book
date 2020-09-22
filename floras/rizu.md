@@ -2,7 +2,7 @@
 title: Rizu
 description: 
 published: true
-date: 2020-09-19T02:17:50.600Z
+date: 2020-09-22T21:16:01.296Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:43:08.270Z

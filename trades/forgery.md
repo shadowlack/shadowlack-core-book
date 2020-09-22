@@ -1,10 +1,11 @@
 ---
 title: Forgery
-description:
+description: 
 published: true
-date: 2012-08-09T04:45:24Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:34:35.815Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:15:12.745Z
 ---
 
 The art of copying another's handwriting and falsely or fraudulently making or altering a document.

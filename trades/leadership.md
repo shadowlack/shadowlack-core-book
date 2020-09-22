@@ -1,10 +1,11 @@
 ---
 title: Leadership
-description:
+description: 
 published: true
-date: 2012-08-09T04:49:35Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:36:43.267Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:18:03.536Z
 ---
 
 The study of how to be charismatic, confident, and otherwise leaderlike.

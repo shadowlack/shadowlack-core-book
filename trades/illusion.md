@@ -1,10 +1,11 @@
 ---
 title: Illusion
-description:
+description: 
 published: true
-date: 2012-08-08T20:52:02Z
-tags: trades, magic
-editor: markdown
+date: 2020-09-22T21:35:44.640Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:16:45.575Z
 ---
 
 The magic-based ability to create semi-materialistic images through the projection of one's thoughts.

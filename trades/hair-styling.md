@@ -1,10 +1,11 @@
 ---
 title: Hair Styling
-description:
+description: 
 published: true
-date: 2012-08-08T18:15:21Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:34:57.675Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:15:43.771Z
 ---
 
 The art of designing styles for hair, whether for formal or casual occasions.

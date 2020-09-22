@@ -1,10 +1,11 @@
 ---
 title: Poetry
-description:
+description: 
 published: true
-date: 2012-08-09T05:19:48Z
-tags: trades, social and literature
-editor: markdown
+date: 2020-09-22T21:38:40.189Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:31:47.958Z
 ---
 
 The art of creating verse and poems through the use of words.

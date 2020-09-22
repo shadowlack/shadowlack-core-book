@@ -2,7 +2,7 @@
 title: Numsuju Blood
 description: A rare commodity that has magical healing properties.
 published: true
-date: 2020-09-19T02:24:00.053Z
+date: 2020-09-22T21:05:23.378Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T22:21:02.240Z

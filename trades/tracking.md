@@ -1,10 +1,11 @@
 ---
 title: Tracking
-description:
+description: 
 published: true
-date: 2012-08-09T05:11:18Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:41:08.398Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:35:14.400Z
 ---
 
 The art of following a chosen prey or quarry without being caught or identified, using simple methods, such as olfactory tracking, as well as more technological utensils, such as computerized, heat-seeking devices and the like.

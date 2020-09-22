@@ -1,10 +1,11 @@
 ---
 title: Aerokinesis
-description:
+description: 
 published: true
-date: 2012-08-08T20:06:10Z
-tags: trades, magic
-editor: markdown
+date: 2020-09-22T21:30:06.504Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:13:36.913Z
 ---
 
 The ability to manipulate air with one's mind.

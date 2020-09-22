@@ -2,7 +2,7 @@
 title: Akira Kallione
 description: 
 published: true
-date: 2020-09-19T02:01:58.516Z
+date: 2020-09-22T21:23:25.142Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-18T22:44:57.572Z

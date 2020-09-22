@@ -2,7 +2,7 @@
 title: Lyrox'de Cuhlar
 description: A character from Ramathian legend.
 published: true
-date: 2020-09-19T02:08:01.502Z
+date: 2020-09-22T21:06:11.250Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-07T02:13:30.219Z

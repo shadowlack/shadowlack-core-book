@@ -1,10 +1,11 @@
 ---
 title: Menlo Strategy
-description:
+description: 
 published: true
-date: 2012-08-09T04:55:55Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:37:16.829Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:18:49.035Z
 ---
 
 The study of the weaknesses and advantages of battle tactics in the Ramathian game of [Menlo](/entertainment/menlo).

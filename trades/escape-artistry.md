@@ -1,10 +1,11 @@
 ---
 title: Escape Artistry
-description:
+description: 
 published: true
-date: 2012-08-09T04:43:04Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:34:01.236Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:44:11.334Z
 ---
 
 The ability to break loose from confinement, no matter the situation.

@@ -1,10 +1,11 @@
 ---
 title: Archery
-description:
+description: 
 published: true
-date: 2012-08-09T04:33:43Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:30:42.101Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:14:23.828Z
 ---
 
 The use of traditional bows and / or crossbows to shoot projectiles, the most common being arrows and bolts.

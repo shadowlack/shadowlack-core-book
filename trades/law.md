@@ -1,10 +1,11 @@
 ---
 title: Law
-description:
+description: 
 published: true
-date: 2012-08-09T05:17:39Z
-tags: trades, social and literature
-editor: markdown
+date: 2020-09-22T21:36:36.958Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:17:55.596Z
 ---
 
 The study and application of the governmental rules, in application to the justice of one's countrymen.

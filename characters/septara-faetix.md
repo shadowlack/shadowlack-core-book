@@ -2,7 +2,7 @@
 title: Septara Faetix
 description: 
 published: true
-date: 2020-09-19T02:11:11.347Z
+date: 2020-09-22T21:24:49.322Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-18T22:50:00.593Z

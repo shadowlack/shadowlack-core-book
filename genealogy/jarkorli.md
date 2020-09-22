@@ -2,7 +2,7 @@
 title: Jarkorli
 description: Einvolkh i'Köyrjikh. "Power through Unity."
 published: true
-date: 2020-09-19T02:20:04.974Z
+date: 2020-09-22T21:08:58.100Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:17:59.446Z

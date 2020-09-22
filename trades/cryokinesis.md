@@ -1,10 +1,11 @@
 ---
 title: Cryokinesis
-description:
+description: 
 published: true
-date: 2012-08-08T20:09:50Z
-tags: trades, magic
-editor: markdown
+date: 2020-09-22T21:32:38.237Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:42:13.954Z
 ---
 
 The ability to conjure and manipulate water in all of its forms (ice, steam, etc.) with one's mind.

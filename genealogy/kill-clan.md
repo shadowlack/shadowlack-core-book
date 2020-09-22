@@ -2,7 +2,7 @@
 title: Kill Clan
 description: We slay all who oppose us. We do not pander, we do not disrespect the elders. We are Kill! We are Kill!
 published: true
-date: 2020-09-19T02:20:27.695Z
+date: 2020-09-22T21:09:16.491Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:18:27.145Z

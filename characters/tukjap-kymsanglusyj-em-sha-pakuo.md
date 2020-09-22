@@ -2,7 +2,7 @@
 title: Tukjap Kymsanglusyj em sha Pakuo
 description: 
 published: true
-date: 2020-09-19T02:12:47.777Z
+date: 2020-09-22T21:21:42.570Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:51:57.620Z

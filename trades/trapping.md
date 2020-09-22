@@ -1,10 +1,11 @@
 ---
 title: Trapping
-description:
+description: 
 published: true
-date: 2012-08-09T05:11:41Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:41:13.313Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:35:21.965Z
 ---
 
 A person who is excellent at setting and using traps for catching game or other animals.

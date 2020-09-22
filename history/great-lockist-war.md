@@ -2,7 +2,7 @@
 title: Great Lockist War
 description: 
 published: true
-date: 2020-09-19T02:22:20.375Z
+date: 2020-09-22T20:59:26.571Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:50:51.325Z

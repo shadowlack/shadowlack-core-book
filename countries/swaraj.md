@@ -2,10 +2,10 @@
 title: Swaraj
 description: Not all of me will die.
 published: true
-date: 2010-03-21T16:25:04Z
-tags: country, swaraj, education, exploration, jungle, mountains, caves, large bodies of water, rocky, pride, wisdom, homely
-author: shriker
-editor: markdown
+date: 2020-09-22T21:29:35.857Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-20T17:39:56.437Z
 ---
 
 **Common Name:** Swari

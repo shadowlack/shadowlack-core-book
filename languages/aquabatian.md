@@ -2,7 +2,7 @@
 title: Aquabatian
 description: The language of the Aquabats.
 published: true
-date: 2020-09-19T02:22:55.598Z
+date: 2020-09-22T21:12:23.479Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T16:39:33.697Z

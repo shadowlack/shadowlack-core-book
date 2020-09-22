@@ -1,10 +1,11 @@
 ---
 title: Physical Education
-description:
+description: 
 published: true
-date: 2012-08-09T05:00:27Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:38:19.030Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:31:16.436Z
 ---
 
 Education in the care of the body, including athletics and hygiene.

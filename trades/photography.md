@@ -1,10 +1,11 @@
 ---
 title: Photography
-description:
+description: 
 published: true
-date: 2012-08-08T19:53:24Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:38:13.146Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:31:09.049Z
 ---
 
 The art of using a camera to capture a moment, scene, or feeling. Requires one to learn how to properly utilize lighting, angle, space, etc.

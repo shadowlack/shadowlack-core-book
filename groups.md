@@ -2,9 +2,10 @@
 title: Groups
 description: 
 published: true
-date: 2020-09-06T03:20:50.131Z
-tags: factions, groups, organizations, clans, tribes, politics
-editor: markdown
+date: 2020-09-22T21:41:46.666Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T20:52:09.694Z
 ---
 
 ## Guilds and orders

@@ -1,10 +1,11 @@
 ---
 title: Swimming
-description:
+description: 
 published: true
-date: 2012-08-09T05:09:45Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:40:17.365Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:34:03.122Z
 ---
 
 The acquiring of skills such as underwater agility, lung capacity and stamina, different swimming styles, and even learning how to lead an aquatic lifestyle.

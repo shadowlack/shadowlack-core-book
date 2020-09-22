@@ -1,10 +1,11 @@
 ---
 title: Music
-description:
+description: 
 published: true
-date: 2012-08-08T18:17:16Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:37:32.031Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:19:12.485Z
 ---
 
 A person who makes music a profession, esp. as a performer of music. Or any person, whether professional or not, skilled in music.

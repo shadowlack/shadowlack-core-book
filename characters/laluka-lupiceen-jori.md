@@ -2,7 +2,7 @@
 title: Laluka Lupiceen Jori
 description: 
 published: true
-date: 2020-09-19T02:07:30.987Z
+date: 2020-09-22T21:20:07.808Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:49:43.322Z

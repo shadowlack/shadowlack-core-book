@@ -2,10 +2,10 @@
 title: Dhruv
 description: Land of none.
 published: true
-date: 2010-03-21T16:04:00Z
-tags: country, dhruv, yki, deathly, wasteland, sparse, frigid, harsh, nomadic
-author: shriker
-editor: markdown
+date: 2020-09-22T21:29:11.017Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-20T03:15:24.075Z
 ---
 
 **Common Name:** Dhruv

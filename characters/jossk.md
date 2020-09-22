@@ -2,7 +2,7 @@
 title: Jossk
 description: 
 published: true
-date: 2020-09-19T02:06:23.878Z
+date: 2020-09-22T21:19:37.050Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:49:03.686Z

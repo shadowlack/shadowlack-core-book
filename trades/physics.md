@@ -1,10 +1,11 @@
 ---
 title: Physics
-description:
+description: 
 published: true
-date: 2012-08-09T04:21:50Z
-tags: trades, sciences
-editor: markdown
+date: 2020-09-22T21:38:24.055Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:31:24.406Z
 ---
 
 The science of the physical world, namely matter and energy, and their reactions.

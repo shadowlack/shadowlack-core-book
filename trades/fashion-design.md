@@ -1,10 +1,11 @@
 ---
 title: Fashion Design
-description:
+description: 
 published: true
-date: 2012-08-08T18:13:39Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:34:06.987Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:44:19.431Z
 ---
 
 The art of designing and using materials in order to create all kinds of clothing.

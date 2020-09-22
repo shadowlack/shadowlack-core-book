@@ -2,7 +2,7 @@
 title: Kurre
 description: 
 published: true
-date: 2020-09-19T02:17:15.120Z
+date: 2020-09-22T21:15:20.367Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:41:23.688Z

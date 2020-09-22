@@ -1,10 +1,11 @@
 ---
 title: History
-description:
+description: 
 published: true
-date: 2012-08-09T05:14:21Z
-tags: trades, social and literature
-editor: markdown
+date: 2020-09-22T21:35:20.755Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:16:15.268Z
 ---
 
 The study of all that has gone before, as well as its application in teaching and other situations.

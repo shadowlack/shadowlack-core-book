@@ -1,10 +1,11 @@
 ---
 title: Conversation
-description:
+description: 
 published: true
-date: 2012-08-09T05:12:34Z
-tags: trades, social and literature
-editor: markdown
+date: 2020-09-22T21:32:09.083Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:41:34.344Z
 ---
 
 The art of speaking to and with others in a casual environment.

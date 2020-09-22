@@ -2,7 +2,7 @@
 title: Jecht Savarally
 description: 
 published: true
-date: 2020-09-19T02:06:13.967Z
+date: 2020-09-22T21:26:25.714Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-19T00:02:10.087Z

@@ -2,7 +2,7 @@
 title: Kuma Nutrix
 description: 
 published: true
-date: 2020-09-19T02:07:15.585Z
+date: 2020-09-22T21:19:54.659Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:49:27.017Z

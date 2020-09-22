@@ -1,10 +1,11 @@
 ---
 title: Taxidermy
-description:
+description: 
 published: true
-date: 2012-08-09T05:10:54Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:40:34.789Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:34:26.136Z
 ---
 
 The ability to stuff and prepare dead animal skins so that they appear lifelike.

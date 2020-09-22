@@ -2,9 +2,10 @@
 title: Bounty Hunter Brotherhood
 description: 
 published: true
-date: 2020-09-06T03:23:53.192Z
+date: 2020-09-22T21:41:58.664Z
 tags: 
-editor: markdown
+editor: undefined
+dateCreated: 2020-09-22T20:52:25.929Z
 ---
 
 ## Purpose

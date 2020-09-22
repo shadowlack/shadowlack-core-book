@@ -2,7 +2,7 @@
 title: Vampirism
 description: A drastically transformative magia morbus.
 published: true
-date: 2020-09-19T02:14:58.852Z
+date: 2020-09-22T20:58:27.419Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:49:22.300Z

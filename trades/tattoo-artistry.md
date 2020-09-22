@@ -1,10 +1,11 @@
 ---
 title: Tattoo Artistry
-description:
+description: 
 published: true
-date: 2012-08-08T20:02:49Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:40:28.646Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:34:18.257Z
 ---
 
 The study of ink and design, as well as other forms of tattooing (burning, for example), and the ability to apply that knowledge to giving others identifying marks on the skin.

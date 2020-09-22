@@ -1,10 +1,11 @@
 ---
 title: Botany
-description:
+description: 
 published: true
-date: 2012-08-09T00:12:13Z
-tags: trades, sciences
-editor: markdown
+date: 2020-09-22T21:31:27.875Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:15:27.539Z
 ---
 
 A branch of Biology dealing with the study of plant life.

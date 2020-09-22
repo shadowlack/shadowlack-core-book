@@ -1,10 +1,11 @@
 ---
 title: Languages
-description:
+description: 
 published: true
-date: 2012-08-09T05:15:10Z
-tags: trades, social and literature
-editor: markdown
+date: 2020-09-22T21:36:31.833Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:17:48.071Z
 ---
 
 The analysis and comprehension of various languages and other types of communication.

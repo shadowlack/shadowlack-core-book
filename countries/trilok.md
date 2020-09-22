@@ -2,9 +2,10 @@
 title: Trilok
 description: Misuse does not remove use.
 published: true
-date: 2010-03-04T18:29:40Z
-tags: country, trilok, khell, aquabat, underground, high tech, industrial, imposing, science, innovation, cold, fearless, hardy
-editor: markdown
+date: 2020-09-22T21:29:42.163Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-20T17:40:05.149Z
 ---
 
 **Common Name:** Lok, Drelåkh

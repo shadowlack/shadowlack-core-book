@@ -2,7 +2,7 @@
 title: Takula
 description: Draco sapiens lacerta
 published: true
-date: 2020-09-19T02:26:31.303Z
+date: 2020-09-22T21:08:35.620Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T18:57:01.855Z

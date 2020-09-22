@@ -2,7 +2,7 @@
 title: How to write descriptively
 description: A small guide on ways you can flesh out your writing.
 published: true
-date: 2020-09-19T02:21:58.976Z
+date: 2020-09-22T21:17:32.767Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T02:13:23.008Z

@@ -1,10 +1,11 @@
 ---
 title: Drafting
-description:
+description: 
 published: true
-date: 2012-08-08T18:12:28Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:33:06.008Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:42:52.484Z
 ---
 
 The art of designing machines and machina through delicate sketches and maps.

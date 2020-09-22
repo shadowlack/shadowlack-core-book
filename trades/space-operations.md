@@ -1,10 +1,11 @@
 ---
 title: Space Operations
-description:
+description: 
 published: true
-date: 2012-08-09T04:23:06Z
-tags: trades, sciences
-editor: markdown
+date: 2020-09-22T21:40:06.041Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:33:46.449Z
 ---
 
 An individual trained for spaceflight (piloting, navigation, safety, etc.). 

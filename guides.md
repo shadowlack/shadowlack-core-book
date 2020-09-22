@@ -2,7 +2,7 @@
 title: Guides
 description: 
 published: true
-date: 2020-09-19T02:00:45.314Z
+date: 2020-09-22T21:17:26.339Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T01:59:17.590Z

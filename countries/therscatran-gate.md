@@ -2,10 +2,10 @@
 title: Therscatran Gate
 description: Far beyond the clouds, we shine.
 published: true
-date: 2010-03-04T18:29:40Z
-tags: country, therscatran gate, space station, space
-author: shriker
-editor: markdown
+date: 2020-09-22T21:29:23.997Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-20T03:15:40.211Z
 ---
 
 **Common Name:** Therscatran Gate, The Gate

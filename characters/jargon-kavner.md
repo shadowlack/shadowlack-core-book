@@ -2,7 +2,7 @@
 title: Jargon Kavner
 description: 
 published: true
-date: 2020-09-19T02:06:08.811Z
+date: 2020-09-22T21:24:19.483Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-18T22:48:05.832Z

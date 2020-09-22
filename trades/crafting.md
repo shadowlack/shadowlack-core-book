@@ -1,10 +1,11 @@
 ---
 title: Crafting
-description:
+description: 
 published: true
-date: 2012-08-08T18:11:59Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:32:27.010Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:41:58.183Z
 ---
 
 The art of constructing pieces out of scrap materials, such as wood, paper, or other odds and ends.

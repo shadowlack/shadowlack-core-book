@@ -1,10 +1,11 @@
 ---
 title: Cosmetics
-description:
+description: 
 published: true
-date: 2012-08-08T18:11:33Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:32:21.104Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:41:49.737Z
 ---
 
 The art of applying make-up in order to improve appearances.

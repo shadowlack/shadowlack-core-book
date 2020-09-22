@@ -2,7 +2,7 @@
 title: Rauamaak Clan
 description: An Alanamsul Feydragon clan of Aidlt.
 published: true
-date: 2020-09-19T02:20:47.661Z
+date: 2020-09-22T21:09:40.151Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:19:02.242Z

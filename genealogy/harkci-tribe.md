@@ -2,7 +2,7 @@
 title: HarkCi Tribe
 description: 
 published: true
-date: 2020-09-19T02:19:58.694Z
+date: 2020-09-22T21:08:52.430Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:17:49.973Z

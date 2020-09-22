@@ -2,10 +2,10 @@
 title: Notios Sudesha
 description: Without penalty, there is no law.
 published: true
-date: 2010-03-30T17:25:55Z
-tags: country, notios sudesha, anubi, desert, prison
-author: shriker
-editor: markdown
+date: 2020-09-22T21:29:29.906Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-20T17:39:47.539Z
 ---
 
 **Common Name:** Not, Noti, Notoy

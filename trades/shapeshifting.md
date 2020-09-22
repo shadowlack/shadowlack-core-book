@@ -1,10 +1,11 @@
 ---
 title: Shapeshifting
-description:
+description: 
 published: true
-date: 2012-08-08T21:03:32Z
-tags: trades, magic
-editor: markdown
+date: 2020-09-22T21:39:27.330Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:32:50.552Z
 ---
 
 The art of mutating from one form to another, or of changing sizes and substances, which takes considerable knowledge and skill.

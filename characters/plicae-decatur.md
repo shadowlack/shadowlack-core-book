@@ -2,7 +2,7 @@
 title: Plicae Decatur
 description: 
 published: true
-date: 2020-09-19T02:09:18.053Z
+date: 2020-09-22T21:20:55.517Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-13T17:50:46.544Z

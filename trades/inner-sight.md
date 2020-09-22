@@ -1,10 +1,11 @@
 ---
 title: Inner Sight
-description:
+description: 
 published: true
-date: 2012-08-08T20:53:23Z
-tags: trades, magic
-editor: markdown
+date: 2020-09-22T21:35:49.920Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:16:53.048Z
 ---
 
 Similar to [Seerism](/trades/seerism), Inner Sight is the ability to *See* things. Most often those with Inner Sight can See *auras* and *ley lines* as their connection with Fronima is substantial.

@@ -1,10 +1,11 @@
 ---
 title: Architecture
-description:
+description: 
 published: true
-date: 2012-08-08T17:59:43Z
-tags: trades, art and design
-editor: markdown
+date: 2020-09-22T21:30:47.837Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:14:32.098Z
 ---
 
 The study of design and building, including the mathematic analysis of materials and other criteria needed to erect a successful structure.

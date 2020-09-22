@@ -1,10 +1,11 @@
 ---
 title: Climbing
-description:
+description: 
 published: true
-date: 2012-08-09T04:39:26Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:31:56.976Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:41:18.736Z
 ---
 
 The act of climbing (ascending mountains, buildings, etc.) as either an activity, job, or sport.

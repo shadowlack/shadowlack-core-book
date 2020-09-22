@@ -2,7 +2,7 @@
 title: Izzeria Blackhawk
 description: 
 published: true
-date: 2020-09-19T02:05:58.589Z
+date: 2020-09-22T21:24:13.733Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-18T22:47:52.172Z

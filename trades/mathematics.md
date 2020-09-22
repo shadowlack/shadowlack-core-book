@@ -1,10 +1,11 @@
 ---
 title: Mathematics
-description:
+description: 
 published: true
-date: 2012-08-09T00:16:30Z
-tags: trades, sciences
-editor: markdown
+date: 2020-09-22T21:37:06.123Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T21:18:33.876Z
 ---
 
 The science of numbers and their operations, interrelations, combinations, generalizations, and abstractions and of space configurations and their structure, measurement, transformations, and generalizations.

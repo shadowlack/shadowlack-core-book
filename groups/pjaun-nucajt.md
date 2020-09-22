@@ -1,11 +1,11 @@
 ---
 title: Pjaun Nucajt
-description:
+description: 
 published: true
-date: 2010-04-25T00:58:50Z
-tags:
-author: lautir
-editor: markdown
+date: 2020-09-22T21:42:21.657Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T20:52:59.512Z
 ---
 
 There is very little official information about this occult group, most of what reaches the media is rumor and speculation. The bulk of information is gathered from family and friends of 'dragons who have join in with the cult; leading to a very biased view projected by most of the population.

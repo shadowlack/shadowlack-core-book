@@ -2,7 +2,7 @@
 title: Arkatrosi Silk
 description: A highly sought after fine silk.
 published: true
-date: 2020-09-19T02:23:35.322Z
+date: 2020-09-22T21:04:52.910Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T22:20:13.869Z

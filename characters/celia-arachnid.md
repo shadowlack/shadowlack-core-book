@@ -2,7 +2,7 @@
 title: Celia Arachnid
 description: 
 published: true
-date: 2020-09-19T02:03:38.214Z
+date: 2020-09-22T21:23:07.253Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-18T21:19:17.985Z

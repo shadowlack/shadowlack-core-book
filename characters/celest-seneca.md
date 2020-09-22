@@ -2,7 +2,7 @@
 title: Celest Seneca
 description: 
 published: true
-date: 2020-09-19T02:03:33.222Z
+date: 2020-09-22T21:23:37.428Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-18T22:46:08.138Z

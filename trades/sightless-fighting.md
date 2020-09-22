@@ -1,10 +1,11 @@
 ---
 title: Sightless Fighting
-description:
+description: 
 published: true
-date: 2012-08-08T21:04:11Z
-tags:
-editor: markdown
+date: 2020-09-22T21:39:37.666Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:33:06.260Z
 ---
 
 The ability to fight blindly without the use of one's eyes.

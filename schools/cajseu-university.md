@@ -2,7 +2,7 @@
 title: Cajseu University
 description: 
 published: true
-date: 2020-09-19T02:24:20.397Z
+date: 2020-09-22T21:02:03.439Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:13:50.158Z

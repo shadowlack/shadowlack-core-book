@@ -1,10 +1,11 @@
 ---
 title: Aerobatics
-description:
+description: 
 published: true
-date: 2012-08-09T04:31:24Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:29:59.818Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:13:28.875Z
 ---
 
 The ability to perform spectacular flying feats and maneuvers while in the air.

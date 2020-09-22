@@ -1,10 +1,11 @@
 ---
 title: Piloting
-description:
+description: 
 published: true
-date: 2012-08-09T05:00:55Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:38:29.062Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:31:32.274Z
 ---
 
 The ability to fly and take command of a space machine.

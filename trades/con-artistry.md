@@ -1,10 +1,11 @@
 ---
 title: Con Artistry
-description:
+description: 
 published: true
-date: 2012-08-09T04:40:17Z
-tags: trades, social and literature
-editor: markdown
+date: 2020-09-22T21:32:03.285Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-21T20:41:26.401Z
 ---
 
 The art of exploiting or swindling the confidence of another.

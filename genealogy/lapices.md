@@ -2,7 +2,7 @@
 title: Lapices
 description: A family of magic scholars.
 published: true
-date: 2020-09-19T02:20:32.520Z
+date: 2020-09-22T21:09:22.519Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:18:36.222Z

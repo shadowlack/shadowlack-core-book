@@ -1,10 +1,11 @@
 ---
 title: Songwriting
-description:
+description: 
 published: true
-date: 2012-08-09T05:21:36Z
-tags: trades, social an literature
-editor: markdown
+date: 2020-09-22T21:40:00.280Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:33:38.578Z
 ---
 
 The study of creating prose that can be accompanied to music in order to make songs.

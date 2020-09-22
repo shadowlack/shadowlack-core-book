@@ -2,9 +2,10 @@
 title: Council of Twelve
 description: 
 published: true
-date: 2020-09-06T03:20:50.131Z
-tags: politics, government
-editor: markdown
+date: 2020-09-22T21:42:09.915Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T20:52:42.614Z
 ---
 
 Before the [Council of Thirteen](/groups/council-of-thirteen), Zamfir and Karryasa Grader maintained a **Council of Twelve**. It has long since been a Ramathian custom to have a Council of advisors. The Councilpersons all drew from different fields of work and were said to be relied upon to give their views and update the Graders on the current status of their specified areas.

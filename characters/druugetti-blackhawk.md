@@ -2,7 +2,7 @@
 title: Druugetti Blackhawk
 description: 
 published: true
-date: 2020-09-19T02:04:53.655Z
+date: 2020-09-22T21:26:07.810Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-19T00:01:41.134Z

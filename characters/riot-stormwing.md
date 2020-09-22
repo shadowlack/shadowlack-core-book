@@ -2,7 +2,7 @@
 title: Riot Stormwing
 description: Once beat up a political figure.
 published: true
-date: 2020-09-19T02:10:14.623Z
+date: 2020-09-22T21:06:35.303Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-07T02:14:52.840Z

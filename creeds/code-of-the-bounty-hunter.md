@@ -2,9 +2,10 @@
 title: Code of the Bounty Hunter
 description: 
 published: true
-date: 2020-09-06T03:21:37.662Z
+date: 2020-09-22T21:44:36.978Z
 tags: 
-editor: markdown
+editor: undefined
+dateCreated: 2020-09-22T20:53:49.977Z
 ---
 
 The [Bounty Hunter Brotherhood](/groups/bounty-hunter-brotherhood) strictly follows the Code of the Bounty Hunter.

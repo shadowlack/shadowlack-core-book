@@ -2,7 +2,7 @@
 title: Karryasa Grader
 description: A renown Arch Magosai with formidable telepathic abilities.
 published: true
-date: 2020-09-19T02:06:49.426Z
+date: 2020-09-22T21:05:53.211Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-07T02:12:27.540Z

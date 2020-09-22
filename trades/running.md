@@ -1,10 +1,11 @@
 ---
 title: Running
-description:
+description: 
 published: true
-date: 2012-08-09T05:01:42Z
-tags: trades, skills and practises
-editor: markdown
+date: 2020-09-22T21:39:04.593Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-22T18:32:19.870Z
 ---
 
 The ability to transport self via only the legs, and to excel at this subtle physical art.

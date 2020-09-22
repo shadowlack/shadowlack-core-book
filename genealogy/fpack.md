@@ -2,7 +2,7 @@
 title: FPack
 description: An Aquabat pack that lives in Trilok and serves the Adamaints.
 published: true
-date: 2020-09-19T02:19:43.933Z
+date: 2020-09-22T21:11:46.740Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-09T21:32:13.047Z

@@ -2,7 +2,7 @@
 title: Ru'Ryrok Vesii
 description: A popular stage actor known for My Friend Korad.
 published: true
-date: 2020-09-19T02:10:30.422Z
+date: 2020-09-22T21:00:58.563Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:57:29.301Z

@@ -2,9 +2,10 @@
 title: Aurius
 description: From the sea, freedom.
 published: true
-date: 2020-09-06T03:20:56.035Z
-tags: country, aurius, aquabat, underwater, organic, bioluminescence, sophisticated, commerce,aura, trendy, beautiful, tranquil, atlantis
-editor: markdown
+date: 2020-09-22T21:28:53.444Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-20T03:14:57.953Z
 ---
 
 **Common Name:** Aurius, City of Aurius 

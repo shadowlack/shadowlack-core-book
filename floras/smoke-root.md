@@ -2,7 +2,7 @@
 title: Smoke Root
 description: 
 published: true
-date: 2020-09-19T02:18:25.175Z
+date: 2020-09-22T21:16:41.165Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T20:44:49.337Z

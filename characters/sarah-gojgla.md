@@ -2,7 +2,7 @@
 title: Sarah Gojgla
 description: A popular rock singer.
 published: true
-date: 2020-09-19T02:10:55.616Z
+date: 2020-09-22T21:01:10.841Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T16:58:49.238Z

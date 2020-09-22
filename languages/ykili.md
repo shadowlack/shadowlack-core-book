@@ -2,7 +2,7 @@
 title: Ykili
 description: The language of the Yki.
 published: true
-date: 2020-09-19T02:23:30.562Z
+date: 2020-09-22T21:13:03.371Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-11T16:40:31.973Z

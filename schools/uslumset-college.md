@@ -2,7 +2,7 @@
 title: Uslumset College
 description: 
 published: true
-date: 2020-09-19T02:25:37.800Z
+date: 2020-09-22T21:03:30.206Z
 tags: 
 editor: undefined
 dateCreated: 2020-09-06T17:18:11.518Z
