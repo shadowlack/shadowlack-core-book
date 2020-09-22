@@ -2,11 +2,13 @@
 title: Creeds
 description: I'll give you something to believe in.
 published: true
-date: 2020-09-19T02:00:50.558Z
+date: 2020-09-22T22:06:48.302Z
 tags: 
-editor: undefined
-dateCreated: 2020-09-06T17:51:36.523Z
+editor: markdown
+dateCreated: 2020-09-22T21:54:17.010Z
 ---
+
+The various belief systems found on Ramath-lehi.
 
 - [Tanalism](/creeds/tanalism), Ramath-lehi's most popular and widely accepted religion.
   - [Daelarch Worship](/creeds/daelarch-worship)
