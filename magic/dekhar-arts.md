@@ -2,9 +2,9 @@
 title: Dekhar arts
 description: 
 published: true
-date: 2020-09-22T21:02:14.870Z
-tags: 
-editor: undefined
+date: 2020-09-22T23:58:43.923Z
+tags: magic school, martial arts school
+editor: markdown
 dateCreated: 2020-09-06T17:14:21.814Z
 ---
 
@@ -17,5 +17,5 @@ Magic and martial arts are not mutually exclusive; there are a number of schools
 Dekhar art schools
 ------------------
 
-- **Lakrathsir.** One of the oldest surviving dekhar arts, founded by Tier'gan Rovzakla. Rovzakla used an innovative form of [Elemental Sorcery](/Elemental_Sorcery "wikilink") to channel elemental magic through her sword; with simple command words she could set the blade on fire, coat it with ice, make it crackle with lightning, alter the metal it was made out of, or make it swing effortlessly through the air. Today, practitioners of this school can apply this method to various weapons, focus on a singular element, or stay true to Rovzakla's original teachings.
-- **Dhystlen.** If Telekinesis is control over kinetic force, then logically a telekinetic would be able to alter the force of an attack. This is the basic idea behind Dhystlen, which uses telekinesis to augment (or weaken) the user's unarmed strikes; be it through making a bite hit with more force, concentrating the power of a kick into a single small point, or even using a punching motion to hit someone from a distance. The name is a corruption of the Ramathian *dhyts lenr* or "ghost limb".
+- **Lakrathsir.** One of the oldest surviving dekhar arts, founded by Tier'gan Rovzakla. Rovzakla used an innovative form of [Elemental Sorcery](/trades/elemental-sorcery "wikilink") to channel elemental magic through her sword; with simple command words she could set the blade on fire, coat it with ice, make it crackle with lightning, alter the metal it was made out of, or make it swing effortlessly through the air. Today, practitioners of this school can apply this method to various weapons, focus on a singular element, or stay true to Rovzakla's original teachings.
+- **Dhystlen.** If [Telekinesis](/trades/telekinesis) is control over kinetic force, then logically a telekinetic would be able to alter the force of an attack. This is the basic idea behind Dhystlen, which uses telekinesis to augment (or weaken) the user's unarmed strikes; be it through making a bite hit with more force, concentrating the power of a kick into a single small point, or even using a punching motion to hit someone from a distance. The name is a corruption of the Ramathian *dhyts lenr* or "ghost limb".
