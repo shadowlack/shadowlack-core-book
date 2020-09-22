@@ -2,7 +2,7 @@
 title: Dekhar arts
 description: 
 published: true
-date: 2020-09-22T23:58:43.923Z
+date: 2020-09-22T23:59:31.351Z
 tags: magic school, martial arts school
 editor: markdown
 dateCreated: 2020-09-06T17:14:21.814Z
@@ -10,9 +10,9 @@ dateCreated: 2020-09-06T17:14:21.814Z
 
 > Whoever said that magic and swordplay are mutually exclusive is a fool.
 > 
-> -- <cite>Widely attributed to **Tier'gan Rovzakla**, the founder of the Lakrathsir school.</cite>
+> -- <cite>Widely attributed to Tier'gan Rovzakla, the founder of the Lakrathsir school.</cite>
 
-Magic and martial arts are not mutually exclusive; there are a number of schools that blend the two in some way, shape or form. These are collectively referred to as the **dekhar arts**, after Fiddekh, the [Tanalist](/Tanalism "wikilink") goddess of war.
+Magic and martial arts are not mutually exclusive; there are a number of schools that blend the two in some way, shape or form. These are collectively referred to as the **dekhar arts**, after Fiddekh, the [Tanalist](/creeds/tanalism) goddess of war.
 
 Dekhar art schools
 ------------------
