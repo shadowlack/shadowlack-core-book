@@ -2,7 +2,7 @@
 title: Shadowlack solar system
 description: One planet was not enough to contain them.
 published: true
-date: 2020-09-23T05:37:47.596Z
+date: 2020-09-23T05:38:11.954Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-23T03:20:19.420Z
@@ -28,7 +28,6 @@ The Shadowlack solar system is approximately 4.226 billion years old.
 - Colonized moons of Ramath-lehi, [Xabu](/countries/xabu) and [Cussla](/countries/cussla).
 - [Therscatran Gate](/countries/therscatran-gate) space port, in the Scatranis asteroid field.
 
-## Footnotes
 
 [^1]: Astronomical unit (AU), a unit of length, roughly the distance from Earth to the Sun and equal to about 150 million kilometres.
 [^2]: Earth mass (M<sub>⊕</sub>), is the unit of mass equal to that of the Earth. 1 M<sub>⊕</sub> = 5.9742×1024 kg. In our case, Ramath-lehi is slightly bigger than Earth.
