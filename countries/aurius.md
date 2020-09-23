@@ -2,9 +2,9 @@
 title: Aurius
 description: From the sea, freedom.
 published: true
-date: 2020-09-22T21:28:53.444Z
-tags: 
-editor: undefined
+date: 2020-09-23T17:24:19.119Z
+tags: aurius, aquabat, country, underwater, organic, bioluminescence, sophisticated, commerce,aura, trendy, beautiful, tranquil, atlantis
+editor: markdown
 dateCreated: 2020-09-20T03:14:57.953Z
 ---
 
@@ -22,7 +22,7 @@ There are many buildings contained within this aquatic facility, including world
 
 There are two popular ways to gain access to the underwater world of Aurius:
 
-- Via the Portal Transport System, which has access points to Aurius located in [Bhim](/countries/bhim), and also the east coast of [Mansukh](/countries/mansukh)
+- Via the [Portal Transportation System](/technologies/portal-transportation-system), which has access points to Aurius located in [Bhim](/countries/bhim), and also the east coast of [Mansukh](/countries/mansukh)
 - Via a submarine-like vessel, called a Rloamyta, and enter directly through one of Aurius' seaports
 
 ## Culture
