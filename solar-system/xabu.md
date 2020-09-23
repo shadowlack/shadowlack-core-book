@@ -1,11 +1,11 @@
 ---
 title: Xabu
-description:
+description: 
 published: true
-date: 2007-10-20T01:57:02Z
+date: 2020-09-23T03:37:38.715Z
 tags: solar system, moon, satellite
-author: shriker
 editor: markdown
+dateCreated: 2020-09-23T03:36:46.345Z
 ---
 
-[Category:Moons of Ramath-lehi](/Category:Moons_of_Ramath-lehi "wikilink")
+Colonized moon.
