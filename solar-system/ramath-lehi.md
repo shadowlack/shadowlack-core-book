@@ -2,7 +2,7 @@
 title: Ramath-lehi
 description: Inhabited planet Ramath-lehi.
 published: true
-date: 2020-09-23T03:50:48.956Z
+date: 2020-09-23T15:52:44.468Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T21:40:24.512Z
@@ -14,7 +14,7 @@ Considered to be an aloof planet by the majority of alien species, Ramath-lehi i
 
 Trade is the strongest between the two countries [Ajita](/countries/ajita), the machina-powered floating country, and [Aurius](/countries/aurius), the country that lurks beneath the Sumundra sea.
 
-## Description
+[![ramathian-worldmap-shriker.jpg](/images/ramathian-worldmap-shriker.jpg =x150)](/images/ramathian-worldmap-shriker.jpg) [![ramath-lehi-globe.png](/images/ramath-lehi-globe.png =x150)](/images/ramath-lehi-globe.png) [![ramathian_world_map.jpg](/images/ramathian_world_map.jpg =x150)](/images/ramathian_world_map.jpg) [![ramath-lehi-map-notext.jpg](/images/ramath-lehi-map-notext.jpg =x150)](/images/ramath-lehi-map-notext.jpg) [![old_ramath-lehi-map.jpg](/images/old_ramath-lehi-map.jpg =x150)](/images/old_ramath-lehi-map.jpg)
 
 Ramath-lehi is the most highly populated, and technologically advanced planet in the solar system. It is the homeworld of the [Pendragons](/species/pendragon).
 
@@ -58,6 +58,3 @@ The planet itself is divided into hemispheres which house several unique countri
 
 - [Therscatran Gate](/countries/therscatran-gate)
 {.links-list}
-
-
-![ramathian-worldmap-shriker.jpg](/images/ramathian-worldmap-shriker.jpg =x150) ![ramath-lehi-globe.png](/images/ramath-lehi-globe.png =x150) ![ramathian_world_map.jpg](/images/ramathian_world_map.jpg =x150) ![ramath-lehi-map-notext.jpg](/images/ramath-lehi-map-notext.jpg =x150) ![old_ramath-lehi-map.jpg](/images/old_ramath-lehi-map.jpg =x150)
