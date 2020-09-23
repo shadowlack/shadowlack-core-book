@@ -2,9 +2,10 @@
 title: Shadowlack solar system
 description: One planet was not enough to contain them.
 published: true
-date: 2012-12-17T22:18:45Z
-tags:
+date: 2020-09-23T05:35:17.561Z
+tags: 
 editor: markdown
+dateCreated: 2020-09-23T03:20:19.420Z
 ---
 
 The Shadowlack solar system is approximately 4.226 billion years old.
@@ -14,7 +15,7 @@ The Shadowlack solar system is approximately 4.226 billion years old.
 | Name  | Type  | Distance | Mass | Radius | Atmosphere |
 | :---- | :---- | :---     | :--- | :---   | :---       |
 | [Redveja](/solar-system/redveja) | Sun | | | | Hot plasma (ionized gas) with no firm surface. |
-| [Firsamus](/solar-system/rirsamus) | Venusian | | | | Hot, arid, cloudy, boiling ocean. Thick and poisonous atmosphere. |
+| [Firsamus](/solar-system/firsamus) | Venusian | | | | Hot, arid, cloudy, boiling ocean. Thick and poisonous atmosphere. |
 | [Rojmemd](/solar-system/rojmemd) | Rock | | | | Hot, airless. |
 | [Telkan](/solar-system/telkan) | Pelagic (Water) | 0.907 AU | 0.925 M<sub>⊕</sub> | 0.975 R<sub>⊕</sub>| Warm, breathable. (N2, O2) |
 | [Ramath-lehi](/solar-system/ramath-lehi) | Terrestrial | 1.027 AU[^1] | 1.376 M<sub>⊕</sub>[^2] | 1.109 R<sub>⊕</sub>[^3] | Cool, breathable. (N2, O2)  |
