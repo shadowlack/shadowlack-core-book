@@ -2,7 +2,7 @@
 title: Magic
 description: Magic on the planet Ramath-lehi is a force of nature, much like gravity.
 published: true
-date: 2020-09-22T23:57:20.726Z
+date: 2020-09-23T05:46:50.502Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T08:05:49.247Z
@@ -26,21 +26,18 @@ While there is no minimum age at which a Ramathian may discover their magical ta
 
 Ramathians who display absolutely no magical talents by the age of 24 are generally labelled as *nullfires*, and Ramathians of royal blood are particularly ostracized. Royal bloodlines are often seen as specimens who exhibit exemplary prowess in magic, and a *nullfire* in the family is considered a great insult.
 
-## Science of Magic
+## Science of magic
 
 - Base Elements of Magic
 - [Laws of Magic](/magic/laws-of-magic)
 - Machina Technology
+	- [Magic-powered weaponry](/technologies#magic-powered-weaponry)
 - Sources of Magical Energy
 
 ## Magic disciplines
 
 - [Blood Oaths](/culture/customs-traditions#blood-oaths) and contracts
 - [Dekhar arts](/magic/dekhar-arts): Collective term for hybrids of martial arts and magical disciplines.
-- Elementalism
-- Invocations
-- Kinetic Magic: Hybrid of Elementalism and Psionicism, using psychic or psychokinetic power to manipulate the elements.
-- Psionicism
 
 ## Magical phenomena
 
@@ -53,7 +50,7 @@ Ramathians who display absolutely no magical talents by the age of 24 are genera
 - [Lukuo](/species/lukuo) species
 - [Magic-imbued tattoos](/culture/customs-traditions#magic-imbued-tattoos)
 
-## Places to learn Magic
+## Places to learn magic
 
 Not all schools on the planet Ramath-lehi offer to teach students magic because of its very unstable nature. The most renown school for teaching magic is the [Pjaunfaubaj School of the Arcane](/schools/pjaunfaubaj-school-of-the-arcane), a private facility located in Boreios Sudesha.
 
@@ -64,7 +61,7 @@ Not all schools on the planet Ramath-lehi offer to teach students magic because 
 - [Janardan Academy](/schools/janardan-academy), Swaraj.
 - [Pjaunfaubaj School of the Arcane](/schools/pjaunfaubaj-school-of-the-arcane), Boreios Sudesha.
 
-## Magic History and Culture
+## Magic history and culture
 
 - [Power of names](/culture/superstitions#the-power-of-names)
 - [Source of Fronima](/culture/superstitions#the-source-of-fronima)
