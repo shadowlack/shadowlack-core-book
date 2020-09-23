@@ -2,7 +2,7 @@
 title: Shadowlack solar system
 description: One planet was not enough to contain them.
 published: true
-date: 2020-09-23T05:35:17.561Z
+date: 2020-09-23T05:37:47.596Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-23T03:20:19.420Z
@@ -25,7 +25,7 @@ The Shadowlack solar system is approximately 4.226 billion years old.
 
 ## Solar system highlights
 
-- Colonized moons of Ramath-lehi, Xabu and Cussla.
+- Colonized moons of Ramath-lehi, [Xabu](/countries/xabu) and [Cussla](/countries/cussla).
 - [Therscatran Gate](/countries/therscatran-gate) space port, in the Scatranis asteroid field.
 
 ## Footnotes
