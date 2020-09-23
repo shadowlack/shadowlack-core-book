@@ -2,9 +2,9 @@
 title: Species
 description: The inhabitants of planet Ramath-lehi.
 published: true
-date: 2020-09-22T21:07:40.556Z
-tags: 
-editor: undefined
+date: 2020-09-23T04:28:08.647Z
+tags: species
+editor: markdown
 dateCreated: 2020-09-07T03:23:09.063Z
 ---
 
@@ -28,5 +28,5 @@ All species at Shadowlack have been player-created.
 {.is-info}
 
 - [:skull: Rapine *A dangerous species from the planet Vaiuto.*](/species/rapine)
-- [Telkian *A sentient species native to planet Telkan.*](/species/telkian)
+- [:ocean: Telkian *A sentient species native to planet Telkan.*](/species/telkian)
 {.links-list}
