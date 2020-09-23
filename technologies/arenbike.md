@@ -2,7 +2,7 @@
 title: Arenbike
 description: 
 published: true
-date: 2020-09-23T17:08:22.154Z
+date: 2020-09-23T17:10:55.138Z
 tags: vehicles, flying, jaak and aren technologies
 editor: markdown
 dateCreated: 2020-09-23T05:28:04.614Z
@@ -18,6 +18,6 @@ Arenbikes are used as a personal mode of transportation.
 
 ## Production
 
-**Manufacturer:** Jaak & Aren Technologies
+**Manufacturer:** Jaak and Aren Technologies
 
 ## History
