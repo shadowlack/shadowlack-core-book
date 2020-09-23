@@ -2,7 +2,7 @@
 title: Groups
 description: Find a cause or someone to adventure with.
 published: true
-date: 2020-09-23T17:15:46.452Z
+date: 2020-09-23T17:22:56.679Z
 tags: factions, groups, organizations, clans, tribes, politics
 editor: markdown
 dateCreated: 2020-09-22T20:52:09.694Z
@@ -19,6 +19,10 @@ dateCreated: 2020-09-22T20:52:09.694Z
 
 - [Council of Thirteen](/groups/council-of-twelve)
 - [Uajeul Suksekul Russuleym](/groups/military) (USR)
+  - Tguka (Space Warfare)
+  - Mubi (Navy)
+  - Nujemat (Ground Soldiers)
+  - Tamsemalt (Sentinels)
 - [Council of Twelve](/groups/council-of-twelve) (Defunct)
 
 ## Volunteer and non-profit organizations
@@ -29,15 +33,21 @@ dateCreated: 2020-09-22T20:52:09.694Z
 
 - [Pjaun Nucajt](/groups/pjaun-nucajt) (Dream Makers)
 
-## Manufacturers
+## Research and development
+
+- Neurotech Research Facility
+- Neon Space Launch
+
+### Manufacturers
 
 Producers and maintainers of various [technologies](/technologies).
 
-- Adamaint Empire
+- Adamaint Empire, largest manufacturer of Machina Technology
 - Jaak and Aren Technologies
 - Menlo Competitions Corporation
 - Nievix Technologies
 - Vanlith Industries
+
 
 ## Species factions
 
