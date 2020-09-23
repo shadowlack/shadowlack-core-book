@@ -2,9 +2,9 @@
 title: Daily life
 description: What you can expect from a typical day in Ramath-lehi.
 published: true
-date: 2020-09-22T21:06:59.578Z
-tags: 
-editor: undefined
+date: 2020-09-23T05:51:52.990Z
+tags: culture
+editor: markdown
 dateCreated: 2020-09-07T02:16:02.746Z
 ---
 
@@ -52,7 +52,7 @@ It is perfectly legal to fish or hunt for food in Trilok, Dhruv, and Swaraj. All
 
 ## Travel
 
-Travelling around the entire planet (and off-planet) is both easy and affordable. The Portal Transportation System connects all of the various countries via a plethora of access nodes. It is even possible to visit two of Ramath-lehi’s moons, Xabu and Cussla, using this system, as well as the [Therscatran Gate](/countries/therscatran-gate). Travel time is very minimal. It is possible to be (almost) anywhere in the continent in less than two standard hours. The exception to this is the Therscatran Gate, where wait times vary depending on the rotation of the moons and asteroids.
+Travelling around the entire planet (and off-planet) is both easy and affordable. The [Portal Transportation System](/technologies/portal-transportation-system) connects all of the various countries via a plethora of access nodes. It is even possible to visit two of Ramath-lehi’s moons, Xabu and Cussla, using this system, as well as the [Therscatran Gate](/countries/therscatran-gate). Travel time is very minimal. It is possible to be (almost) anywhere in the continent in less than two standard hours. The exception to this is the Therscatran Gate, where wait times vary depending on the rotation of the moons and asteroids.
 
 ## Ships and vehicles
 
