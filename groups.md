@@ -2,7 +2,7 @@
 title: Groups
 description: Find a cause or someone to adventure with.
 published: true
-date: 2020-09-22T22:20:31.946Z
+date: 2020-09-23T17:15:03.253Z
 tags: factions, groups, organizations, clans, tribes, politics
 editor: markdown
 dateCreated: 2020-09-22T20:52:09.694Z
@@ -29,7 +29,17 @@ dateCreated: 2020-09-22T20:52:09.694Z
 
 - [Pjaun Nucajt](/groups/pjaun-nucajt) (Dream Makers)
 
-## Species factions
+## Manufacturers
+
+Producers and maintainers of various [technologies](/technologies).
+
+- Adamaint Empire
+- Jaak and Aren Technologies
+- Menlo Competitions Corporation
+- Nievix Technologies
+- Vanlith Industries
+
+## Species factions {.tabset}
 
 ### Aquabat packs
 
