@@ -2,10 +2,10 @@
 title: Technologies
 description: Ramathian technological innovations.
 published: true
-date: 2020-09-23T04:28:08.647Z
+date: 2020-09-23T05:39:08.980Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-07T03:23:09.063Z
+dateCreated: 2020-09-23T05:27:48.464Z
 ---
 
 ## Transportation and vehicles
@@ -23,25 +23,12 @@ dateCreated: 2020-09-07T03:23:09.063Z
 - [Thasilm](/technologies/thasilm)
 - [Utklage](/technologies/utklage)
 
-## Communications
-
-- [Tele-link](/technologies/tele-link)
-
-## Weapons
-
-- [Freezing Gun](/technologies/freezing-gun)
-- [Fromina Cannon](/technologies/fronima-cannon)
-- [Kinetic Launcher](/technologies/kinetic-launcher)
-- [Particle Launcher](/technologies/particle-launcher)
-- [Pico Bomb](/technologies/pico-bomb)
-- [Retractable Molecular Blade](/technologies/retractable-molecular-blade)
-- [Screamer Disk](/technologies/screamer-disk)
-
 ## Personal and household items
 
 - [Multi Processing Device](/technologies/multi-processing-device)
 - [Display Contact Lenses](/technologies/display-contact-lenses)
 - [Fronima Lamp](/technologies/fronima-lamp)
+- [Tele-link](/technologies/tele-link)
 
 ## Menlo equipment
 
@@ -55,6 +42,16 @@ Gear that is used to play the popular game, [Menlo](/entertainment/menlo).
 - [MCC P57](/technologies/menlo/mcc-p57)
 - [MCC R112](/technologies/menlo/mcc-r112)
 - [MCC R853](/technologies/menlo/mcc-r853)
+
+## Weapons
+
+- [Freezing Gun](/technologies/freezing-gun)
+- [Fromina Cannon](/technologies/fronima-cannon)
+- [Kinetic Launcher](/technologies/kinetic-launcher)
+- [Particle Launcher](/technologies/particle-launcher)
+- [Pico Bomb](/technologies/pico-bomb)
+- [Retractable Molecular Blade](/technologies/retractable-molecular-blade)
+- [Screamer Disk](/technologies/screamer-disk)
 
 ## Government and USR technologies
 
