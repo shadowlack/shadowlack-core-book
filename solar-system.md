@@ -27,6 +27,8 @@ The Shadowlack solar system is approximately 4.226 billion years old.
 - Colonized moons of Ramath-lehi, Xabu and Cussla.
 - [Therscatran Gate](/countries/therscatran-gate) space port, in the Scatranis asteroid field.
 
+## Footnotes
+
 [^1]: Astronomical unit (AU), a unit of length, roughly the distance from Earth to the Sun and equal to about 150 million kilometres.
 [^2]: Earth mass (M<sub>⊕</sub>), is the unit of mass equal to that of the Earth. 1 M<sub>⊕</sub> = 5.9742×1024 kg. In our case, Ramath-lehi is slightly bigger than Earth.
 [^3]: Earth radius (R<sub>⊕</sub>) is the distance from the centre of Earth to a point on its surface. This measurement is an approximation as the value has a range.

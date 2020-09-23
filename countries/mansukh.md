@@ -48,6 +48,8 @@ Being right on the equator of the planet Mansukh's weather is generally warm and
 
 ## Points of interest
 
+![A map of Mansukh. ](/images/countries/mansukh-lautir-map.jpg =250x)
+
 ### Cities
 
 - Teocarlos

@@ -28,4 +28,5 @@ All species at Shadowlack have been player-created.
 {.is-info}
 
 - [:skull: Rapine *A dangerous species from the planet Vaiuto.*](/species/rapine)
+- [Telkian *A sentient species native to planet Telkan.*](/species/telkian)
 {.links-list}
