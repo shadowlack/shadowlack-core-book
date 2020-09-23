@@ -2,9 +2,9 @@
 title: Takula
 description: Draco sapiens lacerta
 published: true
-date: 2020-09-22T21:08:35.620Z
-tags: 
-editor: undefined
+date: 2020-09-23T05:48:25.277Z
+tags: species, jungles
+editor: markdown
 dateCreated: 2020-09-09T18:57:01.855Z
 ---
 
@@ -122,6 +122,10 @@ The Takula suffered terribly and many of them died, their numbers shrank and the
 It is rare for a Takula to even apply for any sort of government-issued identification. As a result, not many Takula ever make use of the Portal Transportation System, or end up getting a Khorta card. The Takula are the most technologically inept out of all of the races on Ramath-lehi. There are mixed emotions as to what the government should do with the Takula. There are some who believe that they should be sheltered from the rest of the world and have their culture preserved. Others believe that they should be forced to integrate with the rest of Ramathian society. Currently there are laws in place that prevent the destruction of the native Takula jungles, but there are not many laws regarding the preservation of their culture as a whole. 
 
 ## Appendix
+
+### Technologies
+
+- [Screamer Disk](/technologies/screamer-disk), also known as the *Kretar*.
 
 ### Known Tribes
 
