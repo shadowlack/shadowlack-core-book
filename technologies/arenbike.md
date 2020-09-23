@@ -1,11 +1,21 @@
 ---
 title: Arenbike
-description:
+description: 
 published: true
-date: 2011-12-17T04:29:40Z
-tags: vehicles, flying
-author: nasuella
+date: 2020-09-23T17:07:19.047Z
+tags: vehicles, flying, jaak and aren technologies
 editor: markdown
+dateCreated: 2020-09-23T05:28:04.614Z
 ---
 
-Flying hoverbikes, basically. Some arenbikes have retractable wheels, allowing them to serve as a ground-based motorbike if need be. Very popular with certain crowds (particularly of the non-winged sort), but a notoriously high-maintenance vehicle. 
+Flying hoverbikes, basically. Some **arenbikes** have retractable wheels, allowing them to serve as a ground-based motorbike if need be. Very popular with certain crowds (particularly of the non-winged sort), but a notoriously high-maintenance vehicle.
+
+## Use
+
+Arenbikes are used as a personal mode of transportation.
+
+## Appearance
+
+## Production
+
+**Manufacturer:** Jaak & Aren Technologies
