@@ -2,9 +2,9 @@
 title: Ramath-lehi
 description: Inhabited planet Ramath-lehi.
 published: true
-date: 2020-09-22T21:28:46.983Z
+date: 2020-09-23T03:40:46.051Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-09-19T21:40:24.512Z
 ---
 
@@ -50,8 +50,8 @@ The planet itself is divided into hemispheres which house ten unique countries.
 ### Space
 
 - [Therscatran Gate](/countries/therscatran-gate)
-- [Xabu *Under the jurisdiction of Aurius.*](/solar-system/xabu)
-- [Cussla *Under the jurisdiction of Aurius.*](/solar-system/cussla)
+- [Xabu *Under the jurisdiction of Aurius.*](/countries/xabu)
+- [Cussla *Under the jurisdiction of Aurius.*](/countries/cussla)
 {.links-list}
 
 ![ramathian-worldmap-shriker.jpg](/images/ramathian-worldmap-shriker.jpg =x150) ![ramath-lehi-globe.png](/images/ramath-lehi-globe.png =x150) ![ramathian_world_map.jpg](/images/ramathian_world_map.jpg =x150) ![ramath-lehi-map-notext.jpg](/images/ramath-lehi-map-notext.jpg =x150) ![old_ramath-lehi-map.jpg](/images/old_ramath-lehi-map.jpg =x150)
