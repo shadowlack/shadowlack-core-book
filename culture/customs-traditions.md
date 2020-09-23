@@ -2,9 +2,9 @@
 title: Customs and traditions
 description: Blend in... or not.
 published: true
-date: 2020-09-22T21:07:16.270Z
-tags: 
-editor: undefined
+date: 2020-09-23T05:57:01.641Z
+tags: culture
+editor: markdown
 dateCreated: 2020-09-07T02:47:19.021Z
 ---
 
@@ -30,7 +30,7 @@ Once the ink has been injected into the follicle, it will begin to work its magi
 
 ### Magic-imbued tattoos
 
-When a tattoo has been done with Fronimium-based ink, it is then later possible for a skilled mage to attach a magic spell of some sort to them. The permanence of the effect depends entirely on the skill and power of the mage performing the imbuing. For effects like glowing and simple colour changes, a moderately talented mage is able to imbue this effect for up to three years. For more advanced effects like rainbow, or colour changing based on temperature, a moderately talented mage may only be able to cast the effect for up to 8 months. When getting your tattoos imbued, it is best to find the most talented magic crafter that you can afford.
+When a tattoo has been done with [Fronimium](/natural-resources/fronimium)-based ink, it is then later possible for a skilled mage to attach a magic spell of some sort to them. The permanence of the effect depends entirely on the skill and power of the mage performing the imbuing. For effects like glowing and simple colour changes, a moderately talented mage is able to imbue this effect for up to three years. For more advanced effects like rainbow, or colour changing based on temperature, a moderately talented mage may only be able to cast the effect for up to 8 months. When getting your tattoos imbued, it is best to find the most talented magic crafter that you can afford.
 
 ## Family size
 
