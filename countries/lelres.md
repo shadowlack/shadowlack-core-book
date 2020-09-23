@@ -1,11 +1,11 @@
 ---
 title: Lelres
-description:
+description: 
 published: true
-date: 2007-10-20T01:55:21Z
+date: 2020-09-23T03:38:21.133Z
 tags: solar system, moon, satellite
-author: shriker
 editor: markdown
+dateCreated: 2020-09-23T03:35:58.416Z
 ---
 
-[Category:Moons of Ramath-lehi](/Category:Moons_of_Ramath-lehi "wikilink")
+Ramath-lehi's broken moon.
