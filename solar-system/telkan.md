@@ -1,11 +1,11 @@
 ---
 title: Telkan
-description:
+description: 
 published: true
-date: 2007-10-20T01:47:47Z
+date: 2020-09-23T05:37:02.920Z
 tags: solar system, planet
-author: shriker
 editor: markdown
+dateCreated: 2020-09-23T03:36:38.072Z
 ---
 
 **Telkan** is inhabited by an aquatic, sentient race known as the [Telkians](/species/telkian). Telkians are considered rather strange in appearance as they regularily have six limbs. For decades, clashes between Ramath-lehi and Telkan have been going on. For the most part these disputes have been in regards to the resources upon Telkan and who should get to use them. Currently there is a treaty in place that allows for Ramathians to do underwater mining in areas designated by the Telkians.
