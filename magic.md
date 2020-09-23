@@ -2,7 +2,7 @@
 title: Magic
 description: Magic on the planet Ramath-lehi is a force of nature, much like gravity.
 published: true
-date: 2020-09-23T05:46:50.502Z
+date: 2020-09-23T05:58:22.206Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T08:05:49.247Z
@@ -38,6 +38,7 @@ Ramathians who display absolutely no magical talents by the age of 24 are genera
 
 - [Blood Oaths](/culture/customs-traditions#blood-oaths) and contracts
 - [Dekhar arts](/magic/dekhar-arts): Collective term for hybrids of martial arts and magical disciplines.
+- [Magic-imbued tattoos](/culture/customs-traditions#magic-imbued-tattoos)
 
 ## Magical phenomena
 
@@ -48,7 +49,6 @@ Ramathians who display absolutely no magical talents by the age of 24 are genera
 	- Flora
 - [Magia morbii](/conditions#magia-morbii)
 - [Lukuo](/species/lukuo) species
-- [Magic-imbued tattoos](/culture/customs-traditions#magic-imbued-tattoos)
 
 ## Places to learn magic
 
