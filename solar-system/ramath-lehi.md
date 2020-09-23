@@ -2,7 +2,7 @@
 title: Ramath-lehi
 description: Inhabited planet Ramath-lehi.
 published: true
-date: 2020-09-23T03:40:46.051Z
+date: 2020-09-23T03:50:48.956Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T21:40:24.512Z
@@ -20,7 +20,7 @@ Ramath-lehi is the most highly populated, and technologically advanced planet in
 
 ## Countries of Ramath-lehi
 
-The planet itself is divided into hemispheres which house ten unique countries.
+The planet itself is divided into hemispheres which house several unique countries.
 
 ### Northern Hemisphere
 
@@ -47,11 +47,17 @@ The planet itself is divided into hemispheres which house ten unique countries.
 - [Trilok](/countries/trilok)
 {.links-list}
 
-### Space
+## Satellites (3) and colonies
+
+- [Xabu *Moon colony. Under the jurisdiction of Aurius.*](/countries/xabu)
+- [Cussla *Moon colony. Under the jurisdiction of Aurius.*](/countries/cussla)
+- [Lelres *Restricted moon.*](/countries/lelres)
+{.links-list}
+
+## Space
 
 - [Therscatran Gate](/countries/therscatran-gate)
-- [Xabu *Under the jurisdiction of Aurius.*](/countries/xabu)
-- [Cussla *Under the jurisdiction of Aurius.*](/countries/cussla)
 {.links-list}
+
 
 ![ramathian-worldmap-shriker.jpg](/images/ramathian-worldmap-shriker.jpg =x150) ![ramath-lehi-globe.png](/images/ramath-lehi-globe.png =x150) ![ramathian_world_map.jpg](/images/ramathian_world_map.jpg =x150) ![ramath-lehi-map-notext.jpg](/images/ramath-lehi-map-notext.jpg =x150) ![old_ramath-lehi-map.jpg](/images/old_ramath-lehi-map.jpg =x150)
