@@ -2,7 +2,7 @@
 title: Technologies
 description: Ramathian technological innovations.
 published: true
-date: 2020-09-23T05:39:08.980Z
+date: 2020-09-23T05:40:34.938Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-23T05:27:48.464Z
@@ -46,7 +46,7 @@ Gear that is used to play the popular game, [Menlo](/entertainment/menlo).
 ## Weapons
 
 - [Freezing Gun](/technologies/freezing-gun)
-- [Fromina Cannon](/technologies/fronima-cannon)
+- [Fronima Cannon](/technologies/fronima-cannon)
 - [Kinetic Launcher](/technologies/kinetic-launcher)
 - [Particle Launcher](/technologies/particle-launcher)
 - [Pico Bomb](/technologies/pico-bomb)
