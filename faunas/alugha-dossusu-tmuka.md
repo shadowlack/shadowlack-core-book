@@ -1,0 +1,38 @@
+---
+title: Alugha dossusu tmuka
+description: 
+published: true
+date: 2020-09-06T02:56:37.018Z
+tags: faunas 
+editor: markdown
+---
+<!-- infobox starts -->
+**Lifespan:** unknown
+**Diet:** unknown
+**Average height:** unknown
+**Average weight:** unknown
+**Average length:** unknown
+**Geographic distribution:** unknown
+**Frequency:** common
+<!-- infobox ends -->
+
+**Alugha dossusu tmukas** (ADT) are tmukas of a different colour. In the wild, ADT's are generally red with black and yellow markings, but in captivity, can be virtually any colour. Marking patterns include Splotched (the most common pattern, a variable splotchy pattern), Motley (a pattern with precise separate circles down the tmuka's back), Zig-Zag (a lined pattern that zig-zags like lightning the full length of the tmuka), Aztec (a variable mosaic-like pattern), and Striped (solid stripes completely down the length of the tmuka). The scutes (belly scales) also have patterns, they can be Solid (white only), Irregular (black and white here and there on the belly), or Regular (black and white alternating rows).
+
+ADT's have narrow, triangular heads, but are not poisonous. They rarely bite, except when severely startled or stressed. Instead, they kill their prey by constriction. They feed on creatures only 1-1.5 times the size of the thickest part of them: usually the middle of their stomach. They regularly feed on insects and rodent pups when young, and move to adult rodents and small birds once adults. (No ADT could ever digest, let alone swallow, a pendragon.) Anything bigger then is capable of being swallowed or properly digested is regurgitated.
+
+They are active most at dawn and dusk, as tmukas are cold blooded: it is usually too hot to be anywhere but the shade in the mid-day, and too cold to be anywhere but somewhere warm at night. Even in captivity, or during very temperate seasons, they will still be most active at dawn and dusk.
+Mating comes in the spring time, Dyo, where males will have wrestling contests to decide the strongest of the lot. ADT's are rarely injured during these wrestling matches, due to the fact the match consists mostly of trying to stretch themselves as tall as they can without falling over, and pushing the other tmuka to the ground. Females take no part in this, and are usually oblivious. Males that lose, however, leave quickly, which allows the victor to mate with any females in the vicinity, until, of course, another male comes along and demands a wrestling match.
+
+Gestation lasts half of a season inside the female, and half out. With a healthy female of good breeding age (about 2 to 3 years is the normal age to begin breeding, any sooner and the clutches will have poor progeny, or won't hatch at all.) a clutch of eggs can number in the twenties, and rarely can go as high as the forties. Clutches averaging 25 eggs are most often seen. The female will bury her eggs in a clump just under the ground, and if not separated quickly, the eggs will bond together (though this is not a problem, some breeders prefer "seeding" them in neat rows if dirt). She will then guard her eggs until hatching, at which time, she will leave. In the wild clutches are laid once a year. In captivity, a female can have two clutches a year, provided she is in good health. (Lowering her temperature and then raising it over a few weeks will "trick" her into believing it is spring again, and does no harm to the tmuka.)
+
+The leathery eggs are slit through by the young with their sharp egg tooth. (This will fall off soon after escaping the egg.) In the wild, the young would scatter fairly quickly, as they are fully self sufficient - the parents do no rearing of the young.) In captivity, the young will usually ball together for warm in a corner of the cage. ADT's, as with all tmukas, prefer tight spaces - it makes them feel safe and secure to feel their surroundings: they know that no bird can swoop down and snatch them out of the sky if they can feel something above them. They will not eat each other, no ADT will try to eat another if they are about the same size. But an adult will readily eat a hatchling, so keeping them among size-mates even if they aren't age-mates is appropriate.
+
+Every season ADT's colour will start to pale, their eyes will become opaque, and the ADT will seem rather dull. This is the ADT's upper layer of scales separating from the new ones underneath - and this is how they will grow. Young ADTs may shed up to three times a season until they reach a year old, at which time it slows to only once a season. While preparing for shed, ADTs will often refuse food, and dislike being picked up. They will be this dull colour for several days, and then suddenly clear up right before shed begins. A day after their colour clears up they will seem antsy, and rub vigorously on anything to start the peel. The shed will come off inside out starting at the head. In captivity you can assist by making sure their skin is moist. (Dry skin will crack and the shed will not come off in one piece, as it should.) As soon as the shed has come off they will return to their original personality and will likely desire a meal.
+
+ADT's, like all tmukas, cannot hear. Instead they feel vibrations through their entire bodies, and can pinpoint where an object is coming from. They have heat sense, as well - and can smell and see a warm body, and whether or not it's small enough to capture, or if they should run away. Their sense of smell is acute - they can tell the difference between their prey items, predators, and pendragons. Scenting is done by a flicking of their forked tongue. An excited or nervous tmuka will scent rapidly. A relaxed tmuka will scent every minute or so. When they feel threatened, they will rear up, like a cobra, and open their mouth menacingly. However, they have neither a hood, nor poison, so their bravado is merely a scare tactic. They will bite, and adult bites do hurt and draw blood (hatchling teeth are too small to get through pendragon fur and cannot break the skin), but that's as far as their protective system will go. Instead of fighting, they will try and escape. In this department, ADT's are extremely fast. If they want to go, they are going to go, and you'd better be in shape to attempt to catch them.
+
+ADT's are also very intelligent. They are capable escape artists, and once they have learned a particular tactic that means their freedom, they are likely to do it again. (So if you keep an ADT, you had better have secure locks on a glass vivarium!) They are capable of being trained, as well, though they are not near as obedient as some may think - they have their own ideas and their own minds, and very few are willing to listen to their owners. The training they are capable of is knowing their handlers and not to bite. How to behave when being held, and how to come to their owners for a meal. They are not good hunting companions, for they will eat whatever prey you set them after, though, a large adult ADT could easily work to flush prey into the open.
+
+In captivity, it's best to keep males separate if at all possible, but several females can be housed together without hassle. Hatchlings can all be housed together, but with any age, separating them is a good idea. Feedings should also be done separately, otherwise there is a chance that they will try and strike at the same prey, and will end up injuring one another.
+
+All in all, ADT's make good pets, and are easily adaptable to domestic life, so long as they are caught young in the wild, or are bred domestically.

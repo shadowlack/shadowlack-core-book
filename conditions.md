@@ -15,6 +15,7 @@ A disease is an abnormal condition affecting the body of an organism. While rath
 - [Crop rot](/conditions/crop-rot)
 - [Falters skele](/conditions/falters-skele)
 - [Kycgeja-Kycyja-Gjytkeoduja (KGG)](/conditions/kycgeja-kycyja-gjytkeoduja "wikilink")
+- Rackult disease
 
 ## Magia morbii
 

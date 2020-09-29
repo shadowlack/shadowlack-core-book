@@ -4,7 +4,7 @@ description:
 published: true
 date: 2020-09-06T03:20:47.158Z
 tags: faunas, khell, myths
-editor: undefined
+editor: markdown
 ---
 
 > Never leave your egg alone in the frozen wastes.
