@@ -2,7 +2,7 @@
 title: Fripflik worm
 description: 
 published: true
-date: 2020-09-29T19:48:40.187Z
+date: 2020-09-29T19:57:25.662Z
 tags: caves, faunas, amphibian, underdark, oceans
 editor: markdown
 dateCreated: 2020-09-29T18:32:06.306Z
@@ -12,7 +12,6 @@ dateCreated: 2020-09-29T18:32:06.306Z
 **Lifespan:** 8 to 10 years
 **Diet:** omnivore
 **Average height:** 5 to 12 centimetres
-**Average weight:** 100 to 300 grams
 **Average length:** 30 to 90 centimetres
 **Geographic distribution:** caves, oceans
 **Frequency:** common
