@@ -29,6 +29,6 @@ dateCreated: 2020-09-12T19:16:15.298Z
 
 Creatures of myth and legend.
 
-- Agshoer
-- Kratoaoaoaoa
-- Spyrax
+- [Agshoer](/faunas/agshoer)
+- [Kratoaoaoaoa](/faunas/kratoaoaoaoa)
+- [Spyrax](/faunas/spyrax)
