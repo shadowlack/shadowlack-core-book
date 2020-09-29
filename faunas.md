@@ -2,7 +2,7 @@
 title: Fauna
 description: Creatures that live on Ramath-lehi.
 published: true
-date: 2020-09-29T19:57:46.132Z
+date: 2020-09-29T19:59:14.982Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-23T18:06:10.242Z
@@ -87,7 +87,7 @@ dateCreated: 2020-09-23T18:06:10.242Z
 
 ## Marine
 
-- [Cantian tail](/faunas/cantian-tail)
+- [Cantien tail](/faunas/cantien-tail)
 - [Canur](/faunas/canur)
 - [Iquin](/faunas/iquin)
 - [Lesser koroshiya](/faunas/lesser-koroshiya)
