@@ -2,7 +2,7 @@
 title: Groups
 description: Find a cause or someone to adventure with.
 published: true
-date: 2020-09-23T17:22:56.679Z
+date: 2020-10-01T16:36:00.904Z
 tags: factions, groups, organizations, clans, tribes, politics
 editor: markdown
 dateCreated: 2020-09-22T20:52:09.694Z
@@ -19,10 +19,10 @@ dateCreated: 2020-09-22T20:52:09.694Z
 
 - [Council of Thirteen](/groups/council-of-twelve)
 - [Uajeul Suksekul Russuleym](/groups/military) (USR)
-  - Tguka (Space Warfare)
-  - Mubi (Navy)
-  - Nujemat (Ground Soldiers)
-  - Tamsemalt (Sentinels)
+  - [Tguka](/groups/military-tguka) (Space warfare)
+  - [Mubi](/groups/military-mubi) (Navy)
+  - [Nujemat](/groups/military-nujemat) (Ground soldiers)
+  - [Tamsemalt](/groups/military-tamsemalt) (Sentinels)
 - [Council of Twelve](/groups/council-of-twelve) (Defunct)
 
 ## Volunteer and non-profit organizations
