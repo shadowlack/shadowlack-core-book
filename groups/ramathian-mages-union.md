@@ -2,9 +2,9 @@
 title: Ramathian Mages Union
 description: 
 published: true
-date: 2020-09-22T21:42:31.878Z
+date: 2020-10-01T16:48:58.994Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-09-22T20:53:15.805Z
 ---
 
@@ -21,6 +21,8 @@ To represent Mages and advance its members' interests in respect to wages, benef
 Membership is open to any Ramathian who has magical trades.
 
 ### Current
+
+- All magic-using members of the [Tuva](/groups/tuva) organization.
 
 ### Former
 
