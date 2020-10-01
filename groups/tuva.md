@@ -2,7 +2,7 @@
 title: Tuva
 description: A public services and outreach organization.
 published: true
-date: 2020-10-01T17:48:43.052Z
+date: 2020-10-01T18:00:24.144Z
 tags: government, firefighters, magic suppression, de-escalation, conflict resolution, safety, emergency response
 editor: markdown
 dateCreated: 2020-10-01T17:13:48.712Z
@@ -37,6 +37,11 @@ All magic-using members of Tuva are members of the [Ramathian Mages Union](/grou
 - Refsto Hydrus, Councillor of Thaumaturgy
 
 ### Former
+
+
+### Temporary
+
+- [Jaceen Lapices](/characters/jaceen-lapices), conscripted during the Flux
 
 ## History
 
