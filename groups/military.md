@@ -2,7 +2,7 @@
 title: Uajeul Suksekul Russuleym
 description: 
 published: true
-date: 2020-10-01T16:37:32.925Z
+date: 2020-10-01T17:33:21.234Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-22T20:52:51.222Z
@@ -37,13 +37,12 @@ Learning Ramathian is crucial for any potential USR recruit as all commands, ves
 
 ### Current
 
+- Azeral Lirgra, Councillor of Military and Weaponry
 - [Volithin](/genealogy/volithin) family
 
 > You may roleplay and create characters that are in the "Subordinate" and "Junior Officer" classes without having to get any special permission. In order to play a character that has a title in the "High-Ranking Officer" or "Senior Officer" classes, you must have a Shaper's permission, as there are limited slots.
 {.is-info}
 
 ### Former
-
-- [Riot Stormwing](/characters/riot-stormwing)
 
 ## History
