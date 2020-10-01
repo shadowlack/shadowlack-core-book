@@ -2,7 +2,7 @@
 title: Groups
 description: Find a cause or someone to adventure with.
 published: true
-date: 2020-10-01T16:45:54.010Z
+date: 2020-10-01T17:14:02.541Z
 tags: factions, groups, organizations, clans, tribes, politics
 editor: markdown
 dateCreated: 2020-09-22T20:52:09.694Z
@@ -17,8 +17,8 @@ dateCreated: 2020-09-22T20:52:09.694Z
 
 ## Ramathian government entities
 
-- [Council of Thirteen](/groups/council-of-twelve)
-- Tuva (Public services)
+- [Council of Thirteen](/groups/council-of-thirteen)
+- [Tuva](/groups/tuva) (Public services)
 - [Uajeul Suksekul Russuleym](/groups/military) (USR)
   - [Tguka](/groups/military-tguka) (Space warfare)
   - [Mubi](/groups/military-mubi) (Navy)
