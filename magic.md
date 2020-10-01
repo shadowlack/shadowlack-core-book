@@ -2,7 +2,7 @@
 title: Magic
 description: Magic on the planet Ramath-lehi is a force of nature, much like gravity.
 published: true
-date: 2020-09-23T05:58:22.206Z
+date: 2020-10-01T17:23:34.106Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T08:05:49.247Z
@@ -33,6 +33,11 @@ Ramathians who display absolutely no magical talents by the age of 24 are genera
 - Machina Technology
 	- [Magic-powered weaponry](/technologies#magic-powered-weaponry)
 - Sources of Magical Energy
+
+## Magic initiatives
+
+- [Ramathian Mages Union](/groups/ramathian-mages-union). An organization fighting for the working conditions of mages.
+- [Tuva](/groups/tuva). An organization tasked with magic suppression and conflict resolution.
 
 ## Magic disciplines
 
