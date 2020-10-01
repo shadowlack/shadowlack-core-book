@@ -2,7 +2,7 @@
 title: Tuva
 description: A public services and outreach organization.
 published: true
-date: 2020-10-01T17:44:41.167Z
+date: 2020-10-01T17:48:43.052Z
 tags: government, firefighters, magic suppression, de-escalation, conflict resolution, safety, emergency response
 editor: markdown
 dateCreated: 2020-10-01T17:13:48.712Z
@@ -43,3 +43,5 @@ All magic-using members of Tuva are members of the [Ramathian Mages Union](/grou
 ### 81383
 
 Tuva were highly mobilized in response to the Flux. Despite record loss of Ramathian life, many more lives would have been loss without their coordinated efforts. They also helped enforce the temporary Ban on Magicka.
+
+Given the widespread chaos, some high profile mages were temporarily conscripted to act as *Suppressors* and add to the Tuva's emergency response numbers.
