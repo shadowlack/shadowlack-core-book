@@ -2,7 +2,7 @@
 title: Ramathian Mages Union
 description: 
 published: true
-date: 2020-10-01T16:48:58.994Z
+date: 2020-10-01T17:15:55.406Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-22T20:53:15.805Z
