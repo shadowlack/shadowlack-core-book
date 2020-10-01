@@ -2,7 +2,7 @@
 title: Uajeul Suksekul Russuleym
 description: 
 published: true
-date: 2020-10-01T16:37:01.877Z
+date: 2020-10-01T16:37:32.925Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-22T20:52:51.222Z
@@ -12,7 +12,7 @@ The **Uajeul Suksekul Russuleym** (USR) is Ramath-lehi's largest military operat
 
 ## Purpose
 
-To protect Ramath-lehi from aliens and outside threats. To maintain the PRIMUS database of knowledge.
+To protect Ramath-lehi from aliens and outside threats. To maintain the [PRIMUS](/technologies/primus) database of knowledge.
 
 ## Locations
 
