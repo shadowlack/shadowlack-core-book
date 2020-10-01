@@ -2,8 +2,8 @@
 title: Tuva
 description: A public services and outreach organization.
 published: true
-date: 2020-10-01T17:13:48.712Z
-tags: government, firefighters, magic suppression, de-escalation, conflict resolution, safety
+date: 2020-10-01T17:37:05.932Z
+tags: government, firefighters, magic suppression, de-escalation, conflict resolution, safety, emergency response
 editor: markdown
 dateCreated: 2020-10-01T17:13:48.712Z
 ---
