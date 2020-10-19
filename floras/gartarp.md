@@ -2,18 +2,29 @@
 title: Gartarp
 description: 
 published: true
-date: 2020-09-22T21:15:02.436Z
-tags: 
-editor: undefined
+date: 2020-10-19T16:49:11.956Z
+tags: floras, edible, fungus
+editor: markdown
 dateCreated: 2020-09-11T20:40:24.237Z
 ---
 
-The Gartarp is similar in appearance to a common mushroom, it has red spots with a yellow base.
+<!-- infobox starts -->
+**Size:** small
+**Foraging:** grasslands and on the backs of kyfvomd
+**Flowers:** none
+**Leaves:** none
+**Geographic distribution:** unknown
+**Frequency:** common
+<!-- infobox ends -->
 
-## Habitat and Distribution
+The **gartarp** is similar in appearance to a common mushroom. It has bright red spots with a yellow base.
 
-It is very common in most forested areas, and it can be commonly found in grasslands. It has a unique symbioses with the Kyfvomd, and it flourishes when sprouting from the back of a Kyfvomd.
+## Habitat and distribution
 
-## Edible Parts and Uses
+It is very common in most forested areas, and it can be commonly found in grasslands. It has a unique symbioses with the [kyfvomd](/faunas/kyfvomd), and it flourishes when sprouting from the back of a kyfvomd.
+
+## Cultural impact
+
+### Culinary
 
 The cap is tasty raw, while the rest of the mushroom makes a delicious stew.
