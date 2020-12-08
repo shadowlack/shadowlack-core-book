@@ -2,7 +2,7 @@
 title: New player guide
 description: Taking your first few steps.
 published: true
-date: 2020-12-08T21:58:22.435Z
+date: 2020-12-08T21:59:54.102Z
 tags: guides
 editor: markdown
 dateCreated: 2020-12-08T21:31:03.574Z
@@ -14,7 +14,7 @@ Greetings and welcome to Shadowlack! If at any point you feel lost or confused a
 
 1. We roleplay in third-person, past-tense. Please refer to the Roleplaying Etiquette page for more in depth information.
 2. Our game time operates on Liquid Time (aka Fluid Time). One year at Shadowlack is equivalent to one year in real life.
-3. **Humans do not exist.** They were killed by the evil [Rapine](/species/rapine) species in 81374 (2000). Your character cannot know about humans or the planet Earth.
+3. **Humans do not exist.** They were exterminated by the [Rapine](/species/rapine) in 81374 (2000). Your character cannot know about humans or the planet Earth.
 4. Technology on Shadowlack is advanced. It is somewhat equivelant to that which is seen in the **Dune** (Frank Herbert) and **Star Wars** (George Lucas) universes.
 5. The planet [Ramath-lehi](/solar-system/ramath-lehi) has three moons: Xabu, Cussla, and Lelres.
 
