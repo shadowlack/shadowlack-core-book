@@ -2,17 +2,23 @@
 title: New player guide
 description: Taking your first few steps.
 published: true
-date: 2020-12-08T21:59:54.102Z
+date: 2020-12-08T22:08:14.118Z
 tags: guides
 editor: markdown
 dateCreated: 2020-12-08T21:31:03.574Z
 ---
 
-Greetings and welcome to Shadowlack! If at any point you feel lost or confused about Shadowlack, just remember that we’re here to help you! We realize that there is a lot of information on this site to learn and that it may seem intimidating at first. Feel free to take things slow and ask any questions that you may have so that we may further improve both your experience, and the game for other potential players.
+Greetings and welcome to Shadowlack! If at any point you feel lost or confused about Shadowlack, just remember that we’re here to help you! We realize that there is a lot of information on this site to learn and that it may seem intimidating at first. Feel free to take things slow and ask any questions that you may have so that we may further improve both your experience, and the game for other potential players. 
+
+## Required reading
+
+1. [About *Learn about what we are.*](https://shadowlack.com/about/)
+2. [Rules and Regulations *Familiarize yourself with what is and is not allowed.*](https://shadowlack.com/rules/)
+{.links-list}
 
 ## Core game concepts
 
-1. We roleplay in third-person, past-tense. Please refer to the Roleplaying Etiquette page for more in depth information.
+1. We roleplay in third-person, past-tense.
 2. Our game time operates on Liquid Time (aka Fluid Time). One year at Shadowlack is equivalent to one year in real life.
 3. **Humans do not exist.** They were exterminated by the [Rapine](/species/rapine) in 81374 (2000). Your character cannot know about humans or the planet Earth.
 4. Technology on Shadowlack is advanced. It is somewhat equivelant to that which is seen in the **Dune** (Frank Herbert) and **Star Wars** (George Lucas) universes.
@@ -26,9 +32,10 @@ Greetings and welcome to Shadowlack! If at any point you feel lost or confused a
 3. Read the [character creation guide](/guides/character-creation-guide), pick your species, and create your first Ramathian character.
 4. Start world building and/or roleplaying!
 
+
 ## Your first roleplay post
 
-You’ve created a character - now what? Well, it’s time for you to start writing as that character. The first thing you should do is make sure that you are familiar with Shadowlack’s Roleplaying Etiquette. It’ll save you some potential headaches. As for getting started, there are several recommended approaches that you may take:
+You’ve created a character - now what? Well, it’s time for you to start writing as that character. The first thing you should do is make sure that you are familiar with Shadowlack’s [roleplaying etiquette](/guides/roleplaying-etiquette). It’ll save you some potential headaches. As for getting started, there are several recommended approaches that you may take:
 
 -   Look for an open thread that as marked as “AW” (All Welcome). Anyone may join threads like these (provided that they are not heavily underway). If you're not sure if you're allowed to join, simply PM the thread creator and ask.
 -   Start your own “AW” thread in a In Character area of your choosing.
@@ -37,6 +44,14 @@ You’ve created a character - now what? Well, it’s time for you to start writ
 
 > **The key to enjoying yourself at Shadowlack is to be proactive.** If you get involved in the game, make friends - or even invite your friends to join - you're going to have a much more entertaining experience. We'd love you to not only become a member, but become a part of our strong community.
 {.is-info}
+
+### Liquid time and timestamping
+
+Time at Shadowlack runs parallel to time in real life; one year at Shadowlack is equivalent to one year in real life. This kind of time schedule is often referred to as Liquid Time (or Fluid Time) in the Play-by-Post community. Since Shadowlack operates in Liquid Time, you are allowed to roleplay your characters in multiple threads at once. This way you are not always waiting for one person to reply. Instead, you can build up a queue of threads to participate in and keep yourself active.
+
+To help with worldwide plots, Shadowlack subscribes to a system called Timestamping. This helps us easily "sync up" real world times with game times, and allows us to create roleplay threads that are in the past, and in the future. Feel like roleplaying your character as they were five years ago when something life altering occurred? You can do that! A Timestamp simply consists of a Ramathian year, month, and day which allows it to attach itself to our real life timeline.
+
+Afraid of messing up a Timestamp, or don't know how? Don't worry. Our timestamp system is built right into our roleplaying boards. Whenever you create a new thread, the current Ramathian year and month with be auto-selected. However, you're allowed to change these values to whatever you like. Players only really should make sure that they don't have duplicate Timestamps for their characters (for example: a single character of yours should not participate in two different threads that have the same Timestamp). 
 
 ## Building our world
 
