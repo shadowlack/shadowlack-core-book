@@ -2,13 +2,18 @@
 title: Shadowlack
 description: This wiki revolves around the Shadowlack World Building Project.
 published: true
-date: 2020-09-22T23:39:45.031Z
+date: 2020-12-08T22:01:40.665Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-06T17:47:00.222Z
 ---
 
 [![ramathian-worldmap-shriker.jpg](/images/ramathian-worldmap-shriker.jpg =100%x){.align-center}](/solar-system/ramath-lehi)
+
+## New?
+
+- [New player guide *Getting started at Shadowlack.*](/guides/new-player-guide)
+{.links-list}
 
 ## Contribute
 
