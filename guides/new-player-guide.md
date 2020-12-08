@@ -1,8 +1,8 @@
 ---
-title: New Player Guide
+title: New player guide
 description: Taking your first few steps.
 published: true
-date: 2020-12-08T21:58:04.091Z
+date: 2020-12-08T21:58:22.435Z
 tags: guides
 editor: markdown
 dateCreated: 2020-12-08T21:31:03.574Z
