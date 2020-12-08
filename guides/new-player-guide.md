@@ -2,7 +2,7 @@
 title: New Player Guide
 description: Taking your first few steps.
 published: true
-date: 2020-12-08T21:35:04.177Z
+date: 2020-12-08T21:58:04.091Z
 tags: guides
 editor: markdown
 dateCreated: 2020-12-08T21:31:03.574Z
@@ -12,19 +12,19 @@ Greetings and welcome to Shadowlack! If at any point you feel lost or confused a
 
 ## Core game concepts
 
-1.  We roleplay in third-person, past-tense. Please refer to the Roleplaying Etiquette page for more in depth information.
-2.  Our game time operates on Liquid Time (aka Fluid Time). One year at Shadowlack is equivalent to one year in real life.
-3.  **Humans do not exist.** They were killed by the evil [Rapine](/species/rapine) species in 81374 (2000). Your character cannot know about humans or the planet Earth.
-4.  Technology on Shadowlack is advanced. It is somewhat equivelant to that which is seen in the **Dune** (Frank Herbert) and **Star Wars** (George Lucas) universes.
-5.  The planet [Ramath-lehi](/solar-system/ramath-lehi) has three moons: Xabu, Cussla, and Lelres.
+1. We roleplay in third-person, past-tense. Please refer to the Roleplaying Etiquette page for more in depth information.
+2. Our game time operates on Liquid Time (aka Fluid Time). One year at Shadowlack is equivalent to one year in real life.
+3. **Humans do not exist.** They were killed by the evil [Rapine](/species/rapine) species in 81374 (2000). Your character cannot know about humans or the planet Earth.
+4. Technology on Shadowlack is advanced. It is somewhat equivelant to that which is seen in the **Dune** (Frank Herbert) and **Star Wars** (George Lucas) universes.
+5. The planet [Ramath-lehi](/solar-system/ramath-lehi) has three moons: Xabu, Cussla, and Lelres.
 
 ## How to join
 
-1.  Read Shadowlack’s Basic Guides. They contain a lot of information that is essential to participating in our game – like the Rules & Regulations
-2.  Register a new account.
-3.  Create a new thread in Hatchling Central to introduce yourself. If this is your first Play by Post game, you may also want to browse the forum to see some roleplaying in action. Now is a great time to ask any questions that you may have. Once your introduction post has exited the moderation queue, you will be able to create your first character!
-4.  Read the Character Creation guide, pick your race, and create your first Ramathian character.
-5.  Start roleplaying!
+1. [Register a new account](https://shadowlack.com/register). (Optionally join us on [Discord](https://shadowlack.com/discord/).)
+2. Create or reply to a thread in [Hatchling Central](https://shadowlack.com/forums/hatchlings/) to introduce yourself. Now is a great time to ask any questions that you may have.
+  * Once your introduction post has exited the moderation queue, you will be able to create your first character! Please note that it may take up to 24 hours for your first post to be approved. This is our last line of defence against spam, so please be patient.
+3. Read the [character creation guide](/guides/character-creation-guide), pick your species, and create your first Ramathian character.
+4. Start world building and/or roleplaying!
 
 ## Your first roleplay post
 
@@ -44,15 +44,15 @@ Shadowlack is an entirely player-built world. As an active player at Shadowlack,
 
 ## Basic game-play lingo
 
--   **Thread.** Used to refer to a roleplay topic on a board.
--   **Out of Character (OOC).** Used to by you, the player, to indicate that you are making a note or comment that may not pertain to the actual roleplaying that is occurring in the thread. OOC notes should be kept to a minimum on Shadowlack since we have many alternate methods of communication.
--   '''Back In Character (BIC/IC). '''Often used after an Out of Character note to indicate that you are now back in character.
--   '''Private (P). '''Used to indicate a private thread where only people who have been personally invited may post.
--   '''All Welcome (AW). '''Used to indicate an “Open” thread in which anyone may join and start posting.
--   **RaL.** A popular abbreviation used to refer to the planet Ramath-lehi.
--   **Ramathian.** An inhabitant of the planet Ramath-lehi.
--   **Non-Player Character (NPC).** All of the characters played by yourself or others are called “Player Characters.” On Shadowlack, NPC is a blanket term to refer to all characters that do not have a registered character profiles in the database.
--   **'Dragon.** Slang for Pendragon.
--   **Thill.** An adult female Pendragon.
--   **Arden.** An adult male Pendragon.
--   **Hatchling.** A newly hatched Pendragon. Often also used to refer to new players on Shadowlack.
+- **Thread.** Used to refer to a roleplay topic on a board.
+- **Out of Character (OOC).** Used to by you, the player, to indicate that you are making a note or comment that may not pertain to the actual roleplaying that is occurring in the thread. OOC notes should be kept to a minimum on Shadowlack since we have many alternate methods of communication.
+- **Back In Character (BIC/IC).** Often used after an Out of Character note to indicate that you are now back in character.
+- **Private (P).** Used to indicate a private thread where only people who have been personally invited may post.
+- **All Welcome (AW).** Used to indicate an “Open” thread in which anyone may join and start posting.
+- **RaL.** A popular abbreviation used to refer to the planet Ramath-lehi.
+- **Ramathian.** An inhabitant of the planet Ramath-lehi.
+- **Non-Player Character (NPC).** All of the characters played by yourself or others are called “Player Characters.” On Shadowlack, NPC is a blanket term to refer to all characters that do not have a registered character profiles in the database.
+- **'Dragon.** Slang for Pendragon.
+- **Thill.** An adult female Pendragon.
+- **Arden.** An adult male Pendragon.
+- **Hatchling.** A newly hatched Pendragon. Often also used to refer to new players on Shadowlack.
